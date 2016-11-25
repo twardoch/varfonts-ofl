@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sc" format="2">
+  <advance width="459"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="230" y="571" name="top"/>
+  <anchor x="439" y="571" name="topright"/>
+  <outline>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="423" y="522" type="line" smooth="yes"/>
+      <point x="431" y="552"/>
+      <point x="443" y="561"/>
+      <point x="476" y="561" type="curve" smooth="yes"/>
+      <point x="459" y="561" type="line"/>
+      <point x="459" y="571" type="line"/>
+      <point x="342" y="571" type="line"/>
+      <point x="342" y="561" type="line"/>
+      <point x="372" y="561" type="line" smooth="yes"/>
+      <point x="401" y="561"/>
+      <point x="415" y="555"/>
+      <point x="415" y="539" type="curve" smooth="yes"/>
+      <point x="415" y="532"/>
+      <point x="412" y="522"/>
+      <point x="408" y="511" type="curve" smooth="yes"/>
+      <point x="307" y="185" type="line" smooth="yes"/>
+      <point x="305" y="176"/>
+      <point x="296" y="150"/>
+      <point x="297" y="151" type="curve"/>
+      <point x="296" y="147"/>
+      <point x="292" y="162"/>
+      <point x="285" y="180" type="curve" smooth="yes"/>
+      <point x="180" y="506" type="line" smooth="yes"/>
+      <point x="175" y="522"/>
+      <point x="174" y="523"/>
+      <point x="174" y="533" type="curve" smooth="yes"/>
+      <point x="174" y="555"/>
+      <point x="183" y="561"/>
+      <point x="216" y="561" type="curve" smooth="yes"/>
+      <point x="253" y="561" type="line"/>
+      <point x="253" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="0" y="561" type="line"/>
+      <point x="-11" y="561" type="line" smooth="yes"/>
+      <point x="10" y="561"/>
+      <point x="21" y="548"/>
+      <point x="33" y="512" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

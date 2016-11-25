@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent.sc" format="2">
+  <advance width="330"/>
+  <anchor x="165" y="-221" name="bottom"/>
+  <anchor x="165" y="571" name="top"/>
+  <anchor x="310" y="571" name="topright"/>
+  <outline>
+    <component base="k.sc"/>
+    <component base="commaaccent" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>k.sc</string>
+    </dict>
+  </lib>
+</glyph>

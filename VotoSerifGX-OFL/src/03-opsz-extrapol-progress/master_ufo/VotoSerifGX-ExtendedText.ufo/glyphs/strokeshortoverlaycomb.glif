@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortoverlaycomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="2" y="293" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-206" y="269" type="line"/>
+      <point x="208" y="269" type="line"/>
+      <point x="208" y="316" type="line"/>
+      <point x="-206" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

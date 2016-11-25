@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AB" format="2">
+  <advance width="735"/>
+  <unicode hex="20AB"/>
+  <anchor x="367" y="760" name="top"/>
+  <anchor x="367" y="0" name="bottom"/>
+  <outline>
+    <component base="dcroat"/>
+    <component base="underscore" xOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

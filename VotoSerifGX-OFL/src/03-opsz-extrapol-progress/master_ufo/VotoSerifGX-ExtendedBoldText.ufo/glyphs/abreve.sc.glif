@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve.sc" format="2">
+  <advance width="819"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="410" y="852" name="top"/>
+  <anchor x="759" y="571" name="topright"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="brevecomb.sc" xOffset="74" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>a.sc</string>
+    </dict>
+  </lib>
+</glyph>

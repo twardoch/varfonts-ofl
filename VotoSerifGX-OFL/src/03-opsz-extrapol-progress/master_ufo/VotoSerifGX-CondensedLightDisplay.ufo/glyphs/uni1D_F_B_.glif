@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DFB" format="2">
+  <unicode hex="1DFB"/>
+  <anchor x="1" y="429" name="_top"/>
+  <anchor x="1" y="714" name="top"/>
+  <outline>
+    <component base="uni2034" xOffset="-148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron.sc" format="2">
+  <advance width="849"/>
+  <anchor x="424" y="0" name="bottom"/>
+  <anchor x="424" y="830" name="top"/>
+  <anchor x="829" y="571" name="topright"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="caroncomb.sc" xOffset="99" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>n.sc</string>
+    </dict>
+  </lib>
+</glyph>

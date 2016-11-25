@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10052" format="2">
+  <advance width="443"/>
+  <unicode hex="0403"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="222" y="931" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="acute" xOffset="121" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>Gamma</string>
+    </dict>
+  </lib>
+</glyph>

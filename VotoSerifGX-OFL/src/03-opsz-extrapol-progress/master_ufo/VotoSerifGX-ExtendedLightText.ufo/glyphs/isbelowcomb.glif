@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isbelowcomb" format="2">
+  <unicode hex="1DD0"/>
+  <anchor x="4" y="0" name="_bottom"/>
+  <anchor x="4" y="-255" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="103" y="-255" type="curve" smooth="yes"/>
+      <point x="156" y="-255"/>
+      <point x="208" y="-236"/>
+      <point x="208" y="-187" type="curve" smooth="yes"/>
+      <point x="208" y="-154"/>
+      <point x="192" y="-134"/>
+      <point x="166" y="-112" type="curve"/>
+      <point x="146" y="-112" type="line"/>
+      <point x="165" y="-129"/>
+      <point x="177" y="-159"/>
+      <point x="177" y="-168" type="curve" smooth="yes"/>
+      <point x="177" y="-233"/>
+      <point x="147" y="-233"/>
+      <point x="109" y="-233" type="curve" smooth="yes"/>
+      <point x="73" y="-233"/>
+      <point x="52" y="-223"/>
+      <point x="3" y="-194" type="curve" smooth="yes"/>
+      <point x="-30" y="-175"/>
+      <point x="-46" y="-167"/>
+      <point x="-89" y="-167" type="curve" smooth="yes"/>
+      <point x="-119" y="-167"/>
+      <point x="-143" y="-177"/>
+      <point x="-164" y="-188" type="curve"/>
+      <point x="-99" y="0" type="line"/>
+      <point x="-119" y="0" type="line"/>
+      <point x="-201" y="-245" type="line"/>
+      <point x="-185" y="-245" type="line"/>
+      <point x="-169" y="-207"/>
+      <point x="-127" y="-192"/>
+      <point x="-87" y="-192" type="curve" smooth="yes"/>
+      <point x="-59" y="-192"/>
+      <point x="-39" y="-201"/>
+      <point x="1" y="-222" type="curve" smooth="yes"/>
+      <point x="39" y="-241"/>
+      <point x="60" y="-255"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

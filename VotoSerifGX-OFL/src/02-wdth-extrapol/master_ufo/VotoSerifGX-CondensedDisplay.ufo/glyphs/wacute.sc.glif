@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute.sc" format="2">
+  <advance width="565"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="289" y="801" name="top"/>
+  <anchor x="559" y="571" name="topright"/>
+  <outline>
+    <component base="w.sc"/>
+    <component base="acutecomb.sc" xOffset="170" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>w.sc</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>w.sc</string>
+    </dict>
+  </lib>
+</glyph>

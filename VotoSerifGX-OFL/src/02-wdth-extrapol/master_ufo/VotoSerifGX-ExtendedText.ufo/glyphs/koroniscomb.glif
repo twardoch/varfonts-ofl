@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koroniscomb" format="2">
+  <unicode hex="0343"/>
+  <anchor x="8" y="536" name="_top"/>
+  <anchor x="8" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-58" y="554" type="line"/>
+      <point x="-25" y="554" type="line"/>
+      <point x="6" y="595"/>
+      <point x="47" y="662"/>
+      <point x="71" y="704" type="curve"/>
+      <point x="71" y="714" type="line"/>
+      <point x="-19" y="714" type="line"/>
+      <point x="-26" y="677"/>
+      <point x="-43" y="612"/>
+      <point x="-58" y="567" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

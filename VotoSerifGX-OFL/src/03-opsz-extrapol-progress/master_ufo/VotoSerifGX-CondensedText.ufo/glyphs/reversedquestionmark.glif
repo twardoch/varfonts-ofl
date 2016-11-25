@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedquestionmark" format="2">
+  <advance width="357"/>
+  <unicode hex="2E2E"/>
+  <outline>
+    <component base="question" xScale="-1" xOffset="357"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

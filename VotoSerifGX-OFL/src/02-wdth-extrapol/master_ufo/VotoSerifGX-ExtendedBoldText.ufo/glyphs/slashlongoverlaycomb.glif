@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongoverlaycomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="-11" y="344" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-162" y="-86" type="line"/>
+      <point x="223" y="745" type="line"/>
+      <point x="145" y="773" type="line"/>
+      <point x="-246" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

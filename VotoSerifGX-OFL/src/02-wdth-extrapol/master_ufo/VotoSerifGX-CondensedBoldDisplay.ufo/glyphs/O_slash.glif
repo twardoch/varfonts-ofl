@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="593"/>
+  <unicode hex="00D8"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="144" y="-40" type="line"/>
+      <point x="154" y="-40" type="line"/>
+      <point x="178" y="20" type="line"/>
+      <point x="211" y="1"/>
+      <point x="252" y="-10"/>
+      <point x="298" y="-10" type="curve" smooth="yes"/>
+      <point x="462" y="-10"/>
+      <point x="554" y="137"/>
+      <point x="554" y="358" type="curve" smooth="yes"/>
+      <point x="554" y="512"/>
+      <point x="510" y="627"/>
+      <point x="431" y="686" type="curve"/>
+      <point x="457" y="755" type="line"/>
+      <point x="447" y="755" type="line"/>
+      <point x="423" y="691" type="line"/>
+      <point x="387" y="713"/>
+      <point x="345" y="725"/>
+      <point x="299" y="725" type="curve" smooth="yes"/>
+      <point x="123" y="725"/>
+      <point x="39" y="580"/>
+      <point x="39" y="359" type="curve" smooth="yes"/>
+      <point x="39" y="202"/>
+      <point x="81" y="82"/>
+      <point x="169" y="26" type="curve"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="curve" smooth="yes"/>
+      <point x="250" y="0"/>
+      <point x="221" y="23"/>
+      <point x="207" y="100" type="curve"/>
+      <point x="392" y="587" type="line"/>
+      <point x="399" y="534"/>
+      <point x="403" y="460"/>
+      <point x="403" y="358" type="curve" smooth="yes"/>
+      <point x="403" y="65"/>
+      <point x="380" y="0"/>
+    </contour>
+    <contour>
+      <point x="203" y="118" type="line"/>
+      <point x="195" y="172"/>
+      <point x="192" y="249"/>
+      <point x="192" y="358" type="curve" smooth="yes"/>
+      <point x="192" y="650"/>
+      <point x="217" y="715"/>
+      <point x="299" y="715" type="curve" smooth="yes"/>
+      <point x="348" y="715"/>
+      <point x="376" y="691"/>
+      <point x="390" y="606" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

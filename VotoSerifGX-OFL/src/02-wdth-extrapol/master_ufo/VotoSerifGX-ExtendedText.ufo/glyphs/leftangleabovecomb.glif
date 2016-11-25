@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftangleabovecomb" format="2">
+  <unicode hex="031A"/>
+  <anchor x="112" y="605" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="112" y="605" type="line"/>
+      <point x="164" y="605" type="line"/>
+      <point x="164" y="759" type="line"/>
+      <point x="-164" y="759" type="line"/>
+      <point x="-164" y="705" type="line"/>
+      <point x="112" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

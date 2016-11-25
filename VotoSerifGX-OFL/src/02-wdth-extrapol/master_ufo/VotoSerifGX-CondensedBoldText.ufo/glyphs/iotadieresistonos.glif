@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="314"/>
+  <unicode hex="0390"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="158" y="847" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresistonos" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

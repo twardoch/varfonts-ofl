@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="titlocomb.cy" format="2">
+  <unicode hex="0483"/>
+  <anchor x="-3" y="536" name="_top"/>
+  <anchor x="-3" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="-120" y="578" type="curve" smooth="yes"/>
+      <point x="-100" y="578"/>
+      <point x="-88" y="596"/>
+      <point x="-88" y="627" type="curve"/>
+      <point x="104" y="627" type="line" smooth="yes"/>
+      <point x="130" y="627"/>
+      <point x="145" y="640"/>
+      <point x="145" y="663" type="curve" smooth="yes"/>
+      <point x="145" y="683"/>
+      <point x="135" y="695"/>
+      <point x="118" y="695" type="curve" smooth="yes"/>
+      <point x="97" y="695"/>
+      <point x="86" y="678"/>
+      <point x="86" y="647" type="curve"/>
+      <point x="-106" y="647" type="line" smooth="yes"/>
+      <point x="-132" y="647"/>
+      <point x="-147" y="634"/>
+      <point x="-147" y="610" type="curve" smooth="yes"/>
+      <point x="-147" y="590"/>
+      <point x="-137" y="578"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

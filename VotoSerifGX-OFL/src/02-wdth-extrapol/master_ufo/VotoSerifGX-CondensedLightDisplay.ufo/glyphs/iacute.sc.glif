@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute.sc" format="2">
+  <advance width="196"/>
+  <anchor x="99" y="0" name="bottom"/>
+  <anchor x="99" y="791" name="top"/>
+  <anchor x="176" y="571" name="topright"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="acutecomb.sc" xOffset="-24" yOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>i.sc</string>
+    </dict>
+  </lib>
+</glyph>

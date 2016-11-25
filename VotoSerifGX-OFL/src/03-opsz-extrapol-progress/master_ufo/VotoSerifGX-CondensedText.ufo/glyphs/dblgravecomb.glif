@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="-223" y="536" name="_top"/>
+  <anchor x="-223" y="766" name="top"/>
+  <outline>
+    <contour>
+      <point x="-130" y="606" type="curve"/>
+      <point x="-100" y="606" type="line"/>
+      <point x="-100" y="619" type="line"/>
+      <point x="-118" y="652"/>
+      <point x="-142" y="720"/>
+      <point x="-157" y="766" type="curve"/>
+      <point x="-226" y="766" type="line"/>
+      <point x="-226" y="756" type="line"/>
+      <point x="-214" y="717"/>
+      <point x="-159" y="641"/>
+    </contour>
+    <contour>
+      <point x="-248" y="606" type="curve"/>
+      <point x="-217" y="606" type="line"/>
+      <point x="-217" y="619" type="line"/>
+      <point x="-235" y="652"/>
+      <point x="-260" y="720"/>
+      <point x="-274" y="766" type="curve"/>
+      <point x="-344" y="766" type="line"/>
+      <point x="-344" y="756" type="line"/>
+      <point x="-333" y="717"/>
+      <point x="-276" y="641"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

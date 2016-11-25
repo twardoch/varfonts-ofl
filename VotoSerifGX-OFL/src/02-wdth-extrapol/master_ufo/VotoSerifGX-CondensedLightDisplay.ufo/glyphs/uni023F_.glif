@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni023F" format="2">
+  <advance width="255"/>
+  <unicode hex="023F"/>
+  <anchor x="128" y="-238" name="bottom"/>
+  <anchor x="128" y="536" name="top"/>
+  <anchor x="245" y="536" name="topright"/>
+  <outline>
+    <contour>
+      <point x="203" y="-238" type="curve" smooth="yes"/>
+      <point x="234" y="-238"/>
+      <point x="261" y="-224"/>
+      <point x="261" y="-184" type="curve" smooth="yes"/>
+      <point x="261" y="-156"/>
+      <point x="249" y="-141"/>
+      <point x="233" y="-141" type="curve"/>
+      <point x="233" y="-193"/>
+      <point x="226" y="-213"/>
+      <point x="202" y="-213" type="curve" smooth="yes"/>
+      <point x="180" y="-213"/>
+      <point x="169" y="-197"/>
+      <point x="147" y="-120" type="curve" smooth="yes"/>
+      <point x="130" y="-58"/>
+      <point x="126" y="-47"/>
+      <point x="88" y="-7" type="curve"/>
+      <point x="60" y="8" type="line"/>
+      <point x="108" y="-23"/>
+      <point x="115" y="-61"/>
+      <point x="131" y="-122" type="curve" smooth="yes"/>
+      <point x="144" y="-168"/>
+      <point x="136" y="-238"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>s</string>
+    </dict>
+  </lib>
+</glyph>

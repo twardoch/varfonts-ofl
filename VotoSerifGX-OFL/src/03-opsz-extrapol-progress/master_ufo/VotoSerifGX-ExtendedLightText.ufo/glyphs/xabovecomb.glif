@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xabovecomb" format="2">
+  <unicode hex="033D"/>
+  <anchor x="-1" y="536" name="_top"/>
+  <anchor x="-1" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="-62" y="580" type="line"/>
+      <point x="0" y="629" type="line"/>
+      <point x="60" y="580" type="line"/>
+      <point x="106" y="617" type="line"/>
+      <point x="46" y="666" type="line"/>
+      <point x="107" y="715" type="line"/>
+      <point x="61" y="753" type="line"/>
+      <point x="0" y="703" type="line"/>
+      <point x="-62" y="753" type="line"/>
+      <point x="-109" y="716" type="line"/>
+      <point x="-47" y="666" type="line"/>
+      <point x="-109" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

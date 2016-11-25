@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA668" format="2">
+  <advance width="593"/>
+  <unicode hex="A668"/>
+  <anchor x="297" y="714" name="top"/>
+  <anchor x="297" y="357" name="center"/>
+  <anchor x="573" y="714" name="topright"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="periodcentered" xOffset="178" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

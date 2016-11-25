@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute.sc" format="2">
+  <advance width="403"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="201" y="888" name="top"/>
+  <outline>
+    <component base="aring.sc"/>
+    <component base="acutecomb.sc" xOffset="57" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>a.sc</string>
+    </dict>
+  </lib>
+</glyph>

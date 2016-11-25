@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleprimeReversed" format="2">
+  <advance width="372"/>
+  <unicode hex="2036"/>
+  <outline>
+    <contour>
+      <point x="344" y="479" type="line"/>
+      <point x="318" y="714" type="line"/>
+      <point x="188" y="714" type="line"/>
+      <point x="332" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="479" type="line"/>
+      <point x="151" y="714" type="line"/>
+      <point x="20" y="714" type="line"/>
+      <point x="165" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

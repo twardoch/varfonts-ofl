@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BF" format="2">
+  <advance width="405"/>
+  <unicode hex="01BF"/>
+  <anchor x="203" y="-240" name="bottom"/>
+  <anchor x="203" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="-235" type="line"/>
+      <point x="201" y="-235" type="line"/>
+      <point x="201" y="-225" type="line"/>
+      <point x="198" y="-225" type="line" smooth="yes"/>
+      <point x="146" y="-225"/>
+      <point x="140" y="-212"/>
+      <point x="140" y="-146" type="curve" smooth="yes"/>
+      <point x="140" y="-17" type="line"/>
+      <point x="324" y="11"/>
+      <point x="372" y="187"/>
+      <point x="372" y="324" type="curve" smooth="yes"/>
+      <point x="372" y="456"/>
+      <point x="320" y="546"/>
+      <point x="237" y="546" type="curve" smooth="yes"/>
+      <point x="180" y="546"/>
+      <point x="154" y="507"/>
+      <point x="141" y="437" type="curve"/>
+      <point x="139" y="437" type="line"/>
+      <point x="139" y="536" type="line"/>
+      <point x="11" y="536" type="line"/>
+      <point x="11" y="526" type="line"/>
+      <point x="6" y="526" type="line" smooth="yes"/>
+      <point x="49" y="526"/>
+      <point x="66" y="521"/>
+      <point x="66" y="457" type="curve" smooth="yes"/>
+      <point x="66" y="-146" type="line" smooth="yes"/>
+      <point x="66" y="-212"/>
+      <point x="60" y="-225"/>
+      <point x="7" y="-225" type="curve" smooth="yes"/>
+      <point x="11" y="-225" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="-7" type="curve"/>
+      <point x="140" y="265" type="line" smooth="yes"/>
+      <point x="140" y="447"/>
+      <point x="168" y="536"/>
+      <point x="218" y="536" type="curve" smooth="yes"/>
+      <point x="266" y="536"/>
+      <point x="295" y="462"/>
+      <point x="295" y="322" type="curve" smooth="yes"/>
+      <point x="295" y="141"/>
+      <point x="291" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

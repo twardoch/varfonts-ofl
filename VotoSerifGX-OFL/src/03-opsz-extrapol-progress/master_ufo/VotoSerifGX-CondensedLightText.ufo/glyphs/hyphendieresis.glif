@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphendieresis" format="2">
+  <advance width="187"/>
+  <unicode hex="2E1A"/>
+  <outline>
+    <contour>
+      <point x="10" y="259" type="line"/>
+      <point x="177" y="259" type="line"/>
+      <point x="177" y="287" type="line"/>
+      <point x="10" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="460" type="curve" smooth="yes"/>
+      <point x="63" y="460"/>
+      <point x="76" y="468"/>
+      <point x="76" y="493" type="curve" smooth="yes"/>
+      <point x="76" y="522"/>
+      <point x="63" y="530"/>
+      <point x="46" y="530" type="curve" smooth="yes"/>
+      <point x="27" y="530"/>
+      <point x="18" y="522"/>
+      <point x="18" y="493" type="curve" smooth="yes"/>
+      <point x="18" y="468"/>
+      <point x="27" y="460"/>
+    </contour>
+    <contour>
+      <point x="142" y="460" type="curve" smooth="yes"/>
+      <point x="159" y="460"/>
+      <point x="172" y="468"/>
+      <point x="172" y="493" type="curve" smooth="yes"/>
+      <point x="172" y="522"/>
+      <point x="159" y="530"/>
+      <point x="142" y="530" type="curve" smooth="yes"/>
+      <point x="125" y="530"/>
+      <point x="112" y="522"/>
+      <point x="112" y="493" type="curve" smooth="yes"/>
+      <point x="112" y="468"/>
+      <point x="125" y="460"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

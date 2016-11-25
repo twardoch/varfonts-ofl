@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EAB" format="2">
+  <advance width="634"/>
+  <unicode hex="1EAB"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="318" y="836" name="top"/>
+  <anchor x="614" y="536" name="topright"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflextildecomb" xOffset="687"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

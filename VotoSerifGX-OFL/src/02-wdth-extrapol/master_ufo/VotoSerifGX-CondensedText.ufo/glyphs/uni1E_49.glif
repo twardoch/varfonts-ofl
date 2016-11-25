@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E49" format="2">
+  <advance width="424"/>
+  <unicode hex="1E49"/>
+  <anchor x="212" y="-126" name="bottom"/>
+  <anchor x="212" y="536" name="top"/>
+  <anchor x="423" y="536" name="topright"/>
+  <outline>
+    <component base="n"/>
+    <component base="macronbelowcomb" xOffset="217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

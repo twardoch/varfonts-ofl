@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eopenreversedhook" format="2">
+  <advance width="866"/>
+  <unicode hex="025D"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <anchor x="379" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="759" y="205" type="curve" smooth="yes"/>
+      <point x="793" y="205"/>
+      <point x="866" y="225"/>
+      <point x="866" y="268" type="curve" smooth="yes"/>
+      <point x="866" y="285"/>
+      <point x="857" y="298"/>
+      <point x="843" y="306" type="curve"/>
+      <point x="824" y="278"/>
+      <point x="773" y="262"/>
+      <point x="735" y="262" type="curve" smooth="yes"/>
+      <point x="681" y="262"/>
+      <point x="661" y="302"/>
+      <point x="651" y="334" type="curve" smooth="yes"/>
+      <point x="617" y="452" type="line"/>
+      <point x="466" y="404" type="line"/>
+      <point x="469" y="393" type="line"/>
+      <point x="607" y="437" type="line"/>
+      <point x="651" y="289" type="line" smooth="yes"/>
+      <point x="665" y="244"/>
+      <point x="702" y="205"/>
+    </contour>
+    <component base="afii10073"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rhotichookmod</string>
+    </dict>
+  </lib>
+</glyph>

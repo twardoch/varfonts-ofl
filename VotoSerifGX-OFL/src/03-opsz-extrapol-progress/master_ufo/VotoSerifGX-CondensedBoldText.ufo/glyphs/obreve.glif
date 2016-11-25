@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="2">
+  <advance width="462"/>
+  <unicode hex="014F"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="232" y="761" name="top"/>
+  <anchor x="458" y="536" name="topright"/>
+  <anchor x="232" y="268" name="center"/>
+  <outline>
+    <component base="o"/>
+    <component base="breve" xOffset="61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

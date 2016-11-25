@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="2">
+  <advance width="331"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="311" y="160" type="line"/>
+      <point x="279" y="160" type="line"/>
+      <point x="276" y="124" type="line" smooth="yes"/>
+      <point x="274" y="78"/>
+      <point x="259" y="61"/>
+      <point x="223" y="61" type="curve" smooth="yes"/>
+      <point x="81" y="61" type="line"/>
+      <point x="187" y="212" type="line" smooth="yes"/>
+      <point x="250" y="307"/>
+      <point x="293" y="347"/>
+      <point x="293" y="414" type="curve" smooth="yes"/>
+      <point x="293" y="496"/>
+      <point x="244" y="556"/>
+      <point x="153" y="556" type="curve" smooth="yes"/>
+      <point x="64" y="556"/>
+      <point x="25" y="489"/>
+      <point x="25" y="435" type="curve" smooth="yes"/>
+      <point x="25" y="394"/>
+      <point x="47" y="382"/>
+      <point x="78" y="382" type="curve"/>
+      <point x="78" y="465"/>
+      <point x="107" y="516"/>
+      <point x="153" y="516" type="curve" smooth="yes"/>
+      <point x="200" y="516"/>
+      <point x="222" y="471"/>
+      <point x="222" y="408" type="curve" smooth="yes"/>
+      <point x="222" y="351"/>
+      <point x="200" y="297"/>
+      <point x="141" y="219" type="curve" smooth="yes"/>
+      <point x="16" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dialytikatonoscomb" format="2">
+  <unicode hex="0344"/>
+  <anchor x="-6" y="536" name="_top"/>
+  <anchor x="-6" y="817" name="top"/>
+  <outline>
+    <component base="dieresistonos" xOffset="-208" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0470" format="2">
+  <advance width="1264"/>
+  <unicode hex="0470"/>
+  <anchor x="633" y="0" name="bottom"/>
+  <anchor x="633" y="714" name="top"/>
+  <outline>
+    <component base="Psi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

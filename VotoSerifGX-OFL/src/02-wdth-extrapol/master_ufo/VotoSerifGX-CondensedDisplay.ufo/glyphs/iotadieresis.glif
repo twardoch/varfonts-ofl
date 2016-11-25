@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="227"/>
+  <unicode hex="03CA"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <anchor x="113" y="743" name="top"/>
+  <outline>
+    <component base="iota" xOffset="-1"/>
+    <component base="dieresis" xOffset="-87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

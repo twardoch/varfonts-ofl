@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="2">
+  <advance width="685"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="305" y="-9" type="curve" smooth="yes"/>
+      <point x="464" y="-9"/>
+      <point x="595" y="49"/>
+      <point x="595" y="196" type="curve" smooth="yes"/>
+      <point x="595" y="315"/>
+      <point x="482" y="363"/>
+      <point x="393" y="378" type="curve"/>
+      <point x="468" y="406"/>
+      <point x="565" y="430"/>
+      <point x="565" y="554" type="curve" smooth="yes"/>
+      <point x="565" y="659"/>
+      <point x="472" y="724"/>
+      <point x="316" y="724" type="curve" smooth="yes"/>
+      <point x="148" y="724"/>
+      <point x="78" y="648"/>
+      <point x="78" y="604" type="curve" smooth="yes"/>
+      <point x="78" y="567"/>
+      <point x="106" y="546"/>
+      <point x="157" y="546" type="curve"/>
+      <point x="158" y="623"/>
+      <point x="221" y="680"/>
+      <point x="311" y="680" type="curve" smooth="yes"/>
+      <point x="397" y="680"/>
+      <point x="460" y="630"/>
+      <point x="460" y="550" type="curve" smooth="yes"/>
+      <point x="460" y="453"/>
+      <point x="395" y="395"/>
+      <point x="265" y="395" type="curve" smooth="yes"/>
+      <point x="214" y="395" type="line"/>
+      <point x="214" y="349" type="line"/>
+      <point x="263" y="349" type="line" smooth="yes"/>
+      <point x="418" y="349"/>
+      <point x="490" y="289"/>
+      <point x="490" y="197" type="curve" smooth="yes"/>
+      <point x="490" y="80"/>
+      <point x="406" y="41"/>
+      <point x="300" y="41" type="curve" smooth="yes"/>
+      <point x="175" y="41"/>
+      <point x="119" y="94"/>
+      <point x="119" y="173" type="curve"/>
+      <point x="91" y="173"/>
+      <point x="58" y="161"/>
+      <point x="58" y="117" type="curve" smooth="yes"/>
+      <point x="58" y="52"/>
+      <point x="126" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

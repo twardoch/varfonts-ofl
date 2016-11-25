@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raisedsquare" format="2">
+  <advance width="369"/>
+  <unicode hex="2E0B"/>
+  <outline>
+    <contour>
+      <point x="83" y="325" type="line"/>
+      <point x="285" y="325" type="line"/>
+      <point x="285" y="694" type="line"/>
+      <point x="83" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="345" type="line"/>
+      <point x="103" y="674" type="line"/>
+      <point x="265" y="674" type="line"/>
+      <point x="265" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

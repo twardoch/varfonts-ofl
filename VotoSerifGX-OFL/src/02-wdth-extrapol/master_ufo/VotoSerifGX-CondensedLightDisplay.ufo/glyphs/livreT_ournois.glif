@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="livreTournois" format="2">
+  <advance width="355"/>
+  <unicode hex="20B6"/>
+  <outline>
+    <contour>
+      <point x="324" y="-10" type="curve" smooth="yes"/>
+      <point x="319" y="-10"/>
+      <point x="336" y="-10"/>
+      <point x="348" y="-6" type="curve"/>
+      <point x="348" y="2" type="line"/>
+      <point x="335" y="0"/>
+      <point x="317" y="0"/>
+      <point x="324" y="0" type="curve" smooth="yes"/>
+      <point x="267" y="0"/>
+      <point x="252" y="30"/>
+      <point x="252" y="140" type="curve" smooth="yes"/>
+      <point x="252" y="526" type="line"/>
+      <point x="343" y="526" type="line"/>
+      <point x="343" y="536" type="line"/>
+      <point x="252" y="536" type="line"/>
+      <point x="252" y="715" type="line"/>
+      <point x="224" y="715" type="line"/>
+      <point x="224" y="536" type="line"/>
+      <point x="140" y="536" type="line"/>
+      <point x="140" y="715" type="line"/>
+      <point x="112" y="715" type="line"/>
+      <point x="112" y="536" type="line"/>
+      <point x="40" y="536" type="line"/>
+      <point x="40" y="526" type="line"/>
+      <point x="112" y="526" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="526" type="line"/>
+      <point x="224" y="526" type="line"/>
+      <point x="224" y="142" type="line" smooth="yes"/>
+      <point x="224" y="28"/>
+      <point x="253" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

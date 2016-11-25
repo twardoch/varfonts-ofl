@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eulerconstant" format="2">
+  <advance width="629"/>
+  <unicode hex="2107"/>
+  <anchor x="315" y="714" name="top"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <outline>
+    <component base="uni0510"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

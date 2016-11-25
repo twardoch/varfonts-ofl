@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="forkedparagraphos" format="2">
+  <advance width="595"/>
+  <unicode hex="2E10"/>
+  <outline>
+    <contour>
+      <point x="598" y="-142" type="line"/>
+      <point x="598" y="-83" type="line"/>
+      <point x="-2" y="-83" type="line"/>
+      <point x="-2" y="-142" type="line"/>
+      <point x="102" y="-142" type="line"/>
+      <point x="6" y="-243" type="line"/>
+      <point x="24" y="-294" type="line"/>
+      <point x="167" y="-142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

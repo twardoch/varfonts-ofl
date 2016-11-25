@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="1032"/>
+  <unicode hex="0132"/>
+  <anchor x="610" y="-240" name="bottom"/>
+  <anchor x="481" y="0" name="caret_1"/>
+  <anchor x="740" y="714" name="top"/>
+  <anchor x="993" y="714" name="topright_2"/>
+  <anchor x="477" y="714" name="topright_1"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="539"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

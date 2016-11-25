@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="betsymbol" format="2">
+  <advance width="601"/>
+  <unicode hex="2136"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="65" type="line"/>
+      <point x="470" y="65" type="line"/>
+      <point x="470" y="345" type="line"/>
+      <point x="470" y="520"/>
+      <point x="400" y="583"/>
+      <point x="206" y="583" type="curve"/>
+      <point x="55" y="583" type="line"/>
+      <point x="55" y="519" type="line"/>
+      <point x="204" y="519" type="line"/>
+      <point x="342" y="519"/>
+      <point x="391" y="478"/>
+      <point x="391" y="350" type="curve"/>
+      <point x="391" y="65" type="line"/>
+      <point x="30" y="65" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heta" format="2">
+  <advance width="583"/>
+  <unicode hex="0371"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="199" y="262" type="line"/>
+      <point x="559" y="262" type="line"/>
+      <point x="559" y="287" type="line"/>
+      <point x="199" y="287" type="line"/>
+      <point x="199" y="536" type="line"/>
+      <point x="65" y="536" type="line"/>
+      <point x="65" y="516" type="line"/>
+      <point x="128" y="516" type="line" smooth="yes"/>
+      <point x="175" y="516"/>
+      <point x="171" y="512"/>
+      <point x="171" y="444" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

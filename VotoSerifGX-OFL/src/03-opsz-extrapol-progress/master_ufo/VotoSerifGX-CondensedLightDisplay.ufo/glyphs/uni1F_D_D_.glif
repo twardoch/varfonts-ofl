@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDD" format="2">
+  <advance width="238"/>
+  <unicode hex="1FDD"/>
+  <anchor x="136" y="536" name="_top"/>
+  <anchor x="136" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="552" type="curve"/>
+      <point x="112" y="562" type="line"/>
+      <point x="87" y="578"/>
+      <point x="63" y="601"/>
+      <point x="63" y="642" type="curve" smooth="yes"/>
+      <point x="63" y="669"/>
+      <point x="103" y="670"/>
+      <point x="103" y="694" type="curve" smooth="yes"/>
+      <point x="103" y="705"/>
+      <point x="92" y="714"/>
+      <point x="83" y="714" type="curve" smooth="yes"/>
+      <point x="53" y="714"/>
+      <point x="37" y="682"/>
+      <point x="37" y="653" type="curve" smooth="yes"/>
+      <point x="37" y="616"/>
+      <point x="59" y="577"/>
+    </contour>
+    <contour>
+      <point x="227" y="549" type="curve"/>
+      <point x="229" y="549" type="line"/>
+      <point x="229" y="559" type="line"/>
+      <point x="218" y="585"/>
+      <point x="182" y="670"/>
+      <point x="166" y="716" type="curve"/>
+      <point x="143" y="716" type="line"/>
+      <point x="143" y="709" type="line"/>
+      <point x="161" y="670"/>
+      <point x="214" y="572"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

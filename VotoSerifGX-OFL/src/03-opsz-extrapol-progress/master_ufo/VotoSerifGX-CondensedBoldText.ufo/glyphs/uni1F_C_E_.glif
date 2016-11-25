@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCE" format="2">
+  <advance width="288"/>
+  <unicode hex="1FCE"/>
+  <anchor x="140" y="536" name="_top"/>
+  <anchor x="140" y="724" name="top"/>
+  <outline>
+    <contour>
+      <point x="28" y="547" type="line"/>
+      <point x="111" y="560"/>
+      <point x="130" y="610"/>
+      <point x="130" y="656" type="curve" smooth="yes"/>
+      <point x="130" y="700"/>
+      <point x="106" y="724"/>
+      <point x="78" y="724" type="curve" smooth="yes"/>
+      <point x="40" y="724"/>
+      <point x="28" y="698"/>
+      <point x="28" y="681" type="curve" smooth="yes"/>
+      <point x="28" y="632"/>
+      <point x="68" y="645"/>
+      <point x="68" y="623" type="curve" smooth="yes"/>
+      <point x="68" y="605"/>
+      <point x="64" y="592"/>
+      <point x="28" y="583" type="curve"/>
+    </contour>
+    <contour>
+      <point x="137" y="557" type="line"/>
+      <point x="188" y="557" type="line"/>
+      <point x="210" y="599"/>
+      <point x="232" y="663"/>
+      <point x="251" y="704" type="curve"/>
+      <point x="251" y="714" type="line"/>
+      <point x="164" y="714" type="line"/>
+      <point x="157" y="671"/>
+      <point x="146" y="609"/>
+      <point x="137" y="570" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

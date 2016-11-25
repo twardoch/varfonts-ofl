@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamationquestion" format="2">
+  <advance width="1006"/>
+  <unicode hex="2049"/>
+  <outline>
+    <component base="exclam"/>
+    <component base="question" xOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

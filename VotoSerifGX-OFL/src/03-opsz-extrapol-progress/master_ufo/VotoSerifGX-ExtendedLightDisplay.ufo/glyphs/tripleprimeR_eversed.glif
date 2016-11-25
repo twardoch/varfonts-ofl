@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tripleprimeReversed" format="2">
+  <advance width="339"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="319" y="479" type="line"/>
+      <point x="276" y="714" type="line"/>
+      <point x="224" y="714" type="line"/>
+      <point x="309" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="479" type="line"/>
+      <point x="174" y="714" type="line"/>
+      <point x="122" y="714" type="line"/>
+      <point x="207" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="479" type="line"/>
+      <point x="72" y="714" type="line"/>
+      <point x="20" y="714" type="line"/>
+      <point x="105" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

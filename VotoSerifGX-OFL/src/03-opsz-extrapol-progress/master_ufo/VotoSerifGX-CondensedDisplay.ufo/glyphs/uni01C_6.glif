@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C6" format="2">
+  <advance width="741"/>
+  <unicode hex="01C6"/>
+  <anchor x="574" y="0" name="bottom"/>
+  <anchor x="574" y="766" name="top"/>
+  <anchor x="716" y="536" name="topright_2"/>
+  <anchor x="398" y="760" name="topright_1"/>
+  <anchor x="204" y="268" name="center"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="408"/>
+    <component base="caron" xOffset="438"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

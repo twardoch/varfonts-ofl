@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightanglesubstitutionmarker" format="2">
+  <advance width="399"/>
+  <unicode hex="2E00"/>
+  <outline>
+    <contour>
+      <point x="59" y="246" type="line"/>
+      <point x="142" y="246" type="line"/>
+      <point x="142" y="644" type="line"/>
+      <point x="339" y="644" type="line"/>
+      <point x="339" y="714" type="line"/>
+      <point x="59" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

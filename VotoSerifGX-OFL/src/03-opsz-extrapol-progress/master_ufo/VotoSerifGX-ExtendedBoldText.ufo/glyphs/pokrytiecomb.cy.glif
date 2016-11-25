@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pokrytiecomb.cy" format="2">
+  <unicode hex="0487"/>
+  <anchor x="-1" y="536" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-234" y="760" type="curve"/>
+      <point x="-141" y="760" type="line"/>
+      <point x="-139" y="767" type="line" smooth="yes"/>
+      <point x="-131" y="796"/>
+      <point x="-108" y="815"/>
+      <point x="-78" y="815" type="curve" smooth="yes"/>
+      <point x="0" y="815"/>
+      <point x="79" y="760"/>
+      <point x="209" y="760" type="curve" smooth="yes"/>
+      <point x="232" y="760" type="line"/>
+      <point x="232" y="887" type="line"/>
+      <point x="224" y="887" type="line"/>
+      <point x="105" y="887"/>
+      <point x="27" y="942"/>
+      <point x="-61" y="942" type="curve" smooth="yes"/>
+      <point x="-160" y="942"/>
+      <point x="-227" y="851"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

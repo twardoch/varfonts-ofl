@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslashacute" format="2">
+  <advance width="593"/>
+  <unicode hex="01FE"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="931" name="top"/>
+  <outline>
+    <component base="acute" xOffset="231" yOffset="165"/>
+    <component base="Oslash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

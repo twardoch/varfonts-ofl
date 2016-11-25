@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni026B" format="2">
+  <advance width="351"/>
+  <unicode hex="026B"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="175" y="760" name="top"/>
+  <anchor x="283" y="760" name="topright"/>
+  <anchor x="152" y="268" name="center"/>
+  <outline>
+    <contour>
+      <point x="-7" y="288" type="curve"/>
+      <point x="54" y="288" type="line"/>
+      <point x="54" y="318"/>
+      <point x="64" y="341"/>
+      <point x="89" y="341" type="curve" smooth="yes"/>
+      <point x="145" y="341"/>
+      <point x="195" y="280"/>
+      <point x="259" y="280" type="curve" smooth="yes"/>
+      <point x="336" y="280"/>
+      <point x="365" y="350"/>
+      <point x="366" y="434" type="curve"/>
+      <point x="305" y="434" type="line"/>
+      <point x="305" y="405"/>
+      <point x="294" y="384"/>
+      <point x="269" y="384" type="curve" smooth="yes"/>
+      <point x="214" y="384"/>
+      <point x="163" y="444"/>
+      <point x="100" y="444" type="curve" smooth="yes"/>
+      <point x="26" y="444"/>
+      <point x="-8" y="373"/>
+    </contour>
+    <component base="l" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

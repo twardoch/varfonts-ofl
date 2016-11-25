@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii00208" format="2">
+  <advance width="645"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="-3" y="256" type="line"/>
+      <point x="646" y="256" type="line"/>
+      <point x="646" y="276" type="line"/>
+      <point x="-3" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

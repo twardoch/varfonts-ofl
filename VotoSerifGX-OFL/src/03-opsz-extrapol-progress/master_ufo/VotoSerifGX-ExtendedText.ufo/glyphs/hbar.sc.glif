@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="2">
+  <advance width="823"/>
+  <anchor x="411" y="0" name="bottom"/>
+  <anchor x="411" y="571" name="top"/>
+  <anchor x="803" y="571" name="topright"/>
+  <anchor x="411" y="286" name="center"/>
+  <outline>
+    <contour>
+      <point x="37" y="406" type="line"/>
+      <point x="786" y="406" type="line"/>
+      <point x="786" y="441" type="line"/>
+      <point x="37" y="441" type="line"/>
+    </contour>
+    <component base="h.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

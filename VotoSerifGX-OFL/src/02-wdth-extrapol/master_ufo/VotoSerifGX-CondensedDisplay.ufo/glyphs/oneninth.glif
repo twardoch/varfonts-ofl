@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneninth" format="2">
+  <advance width="540"/>
+  <unicode hex="2151"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="249"/>
+    <component base="nine.dnom" xOffset="283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>nine.dnom</string>
+    </dict>
+  </lib>
+</glyph>

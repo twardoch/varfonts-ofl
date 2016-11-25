@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek.sc" format="2">
+  <advance width="769"/>
+  <anchor x="386" y="-226" name="bottom"/>
+  <anchor x="386" y="571" name="top"/>
+  <anchor x="749" y="571" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="ogonekcomb.sc" xOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>u.sc</string>
+    </dict>
+  </lib>
+</glyph>

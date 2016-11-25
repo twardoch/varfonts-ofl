@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheadrightabovecomb" format="2">
+  <unicode hex="0350"/>
+  <anchor x="-1" y="536" name="_top"/>
+  <anchor x="-1" y="776" name="top"/>
+  <outline>
+    <contour>
+      <point x="-76" y="569" type="line"/>
+      <point x="-71" y="569" type="line"/>
+      <point x="-25" y="609"/>
+      <point x="14" y="638"/>
+      <point x="76" y="663" type="curve"/>
+      <point x="76" y="682" type="line"/>
+      <point x="14" y="707"/>
+      <point x="-25" y="736"/>
+      <point x="-71" y="776" type="curve"/>
+      <point x="-76" y="776" type="line"/>
+      <point x="-76" y="754" type="line"/>
+      <point x="-57" y="737"/>
+      <point x="-16" y="702"/>
+      <point x="50" y="673" type="curve"/>
+      <point x="-16" y="643"/>
+      <point x="-57" y="608"/>
+      <point x="-76" y="591" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

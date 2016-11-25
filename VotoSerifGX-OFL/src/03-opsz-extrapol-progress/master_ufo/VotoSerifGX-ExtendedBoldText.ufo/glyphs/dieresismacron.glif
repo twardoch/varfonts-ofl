@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacron" format="2">
+  <advance width="673"/>
+  <outline>
+    <contour>
+      <point x="169" y="776" type="line"/>
+      <point x="507" y="776" type="line"/>
+      <point x="507" y="875" type="line"/>
+      <point x="169" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="621" type="curve" smooth="yes"/>
+      <point x="247" y="621"/>
+      <point x="287" y="640"/>
+      <point x="287" y="690" type="curve" smooth="yes"/>
+      <point x="287" y="741"/>
+      <point x="247" y="760"/>
+      <point x="209" y="760" type="curve" smooth="yes"/>
+      <point x="170" y="760"/>
+      <point x="133" y="741"/>
+      <point x="133" y="690" type="curve" smooth="yes"/>
+      <point x="133" y="640"/>
+      <point x="170" y="621"/>
+    </contour>
+    <contour>
+      <point x="463" y="621" type="curve" smooth="yes"/>
+      <point x="499" y="621"/>
+      <point x="539" y="640"/>
+      <point x="539" y="690" type="curve" smooth="yes"/>
+      <point x="539" y="741"/>
+      <point x="499" y="760"/>
+      <point x="463" y="760" type="curve" smooth="yes"/>
+      <point x="422" y="760"/>
+      <point x="385" y="741"/>
+      <point x="385" y="690" type="curve" smooth="yes"/>
+      <point x="385" y="640"/>
+      <point x="422" y="621"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

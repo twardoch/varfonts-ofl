@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F4" format="2">
+  <advance width="427"/>
+  <unicode hex="02F4"/>
+  <outline>
+    <contour>
+      <point x="282" y="268" type="curve"/>
+      <point x="387" y="268" type="line"/>
+      <point x="387" y="281" type="line"/>
+      <point x="349" y="312"/>
+      <point x="290" y="384"/>
+      <point x="266" y="428" type="curve"/>
+      <point x="40" y="428" type="line"/>
+      <point x="40" y="413" type="line"/>
+      <point x="76" y="380"/>
+      <point x="201" y="303"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>grave</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>grave</string>
+    </dict>
+  </lib>
+</glyph>

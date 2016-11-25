@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F8" format="2">
+  <advance width="231"/>
+  <unicode hex="02F8"/>
+  <outline>
+    <contour>
+      <point x="116" y="600" type="curve" smooth="yes"/>
+      <point x="153" y="600"/>
+      <point x="185" y="620"/>
+      <point x="185" y="679" type="curve" smooth="yes"/>
+      <point x="185" y="742"/>
+      <point x="153" y="760"/>
+      <point x="116" y="760" type="curve" smooth="yes"/>
+      <point x="77" y="760"/>
+      <point x="45" y="742"/>
+      <point x="45" y="679" type="curve" smooth="yes"/>
+      <point x="45" y="620"/>
+      <point x="77" y="600"/>
+    </contour>
+    <contour>
+      <point x="116" y="202" type="curve" smooth="yes"/>
+      <point x="153" y="202"/>
+      <point x="185" y="222"/>
+      <point x="185" y="281" type="curve" smooth="yes"/>
+      <point x="185" y="342"/>
+      <point x="153" y="361"/>
+      <point x="116" y="361" type="curve" smooth="yes"/>
+      <point x="77" y="361"/>
+      <point x="45" y="342"/>
+      <point x="45" y="281" type="curve" smooth="yes"/>
+      <point x="45" y="222"/>
+      <point x="77" y="202"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>colon</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>colon</string>
+    </dict>
+  </lib>
+</glyph>

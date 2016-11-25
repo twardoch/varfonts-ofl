@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="combiningmacronrighthalf" format="2">
+  <unicode hex="FE25"/>
+  <anchor x="0" y="536" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-247" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="734" type="line"/>
+      <point x="-247" y="734" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

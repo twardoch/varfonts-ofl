@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10100" format="2">
+  <advance width="541"/>
+  <unicode hex="0453"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="271" y="766" name="top"/>
+  <outline>
+    <component base="acute" xOffset="175"/>
+    <component base="afii10068"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>afii10068</string>
+    </dict>
+  </lib>
+</glyph>

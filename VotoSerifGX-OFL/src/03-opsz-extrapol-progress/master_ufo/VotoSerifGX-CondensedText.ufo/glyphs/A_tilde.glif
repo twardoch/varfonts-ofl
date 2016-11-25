@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="2">
+  <advance width="469"/>
+  <unicode hex="00C3"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="235" y="890" name="top"/>
+  <anchor x="375" y="714" name="topright"/>
+  <outline>
+    <component base="A"/>
+    <component base="tilde" xOffset="73" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

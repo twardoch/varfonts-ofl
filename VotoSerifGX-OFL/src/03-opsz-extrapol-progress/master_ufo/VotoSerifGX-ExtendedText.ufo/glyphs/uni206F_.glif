@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni206F" format="2">
+  <unicode hex="206F"/>
+  <outline>
+    <contour>
+      <point x="-21" y="-133" type="line"/>
+      <point x="21" y="-133" type="line"/>
+      <point x="21" y="477" type="line"/>
+      <point x="116" y="477" type="line"/>
+      <point x="116" y="515" type="line"/>
+      <point x="21" y="515" type="line"/>
+      <point x="21" y="689" type="line"/>
+      <point x="-116" y="689" type="line"/>
+      <point x="-116" y="650" type="line"/>
+      <point x="-21" y="650" type="line"/>
+      <point x="-21" y="515" type="line"/>
+      <point x="-116" y="515" type="line"/>
+      <point x="-116" y="477" type="line"/>
+      <point x="-21" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

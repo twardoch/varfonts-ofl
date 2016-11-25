@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02CB" format="2">
+  <advance width="268"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <component base="grave"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>grave</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>grave</string>
+    </dict>
+  </lib>
+</glyph>

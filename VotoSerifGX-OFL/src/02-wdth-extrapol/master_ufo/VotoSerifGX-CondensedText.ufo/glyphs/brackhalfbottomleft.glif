@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brackhalfbottomleft" format="2">
+  <advance width="248"/>
+  <unicode hex="2E24"/>
+  <outline>
+    <contour>
+      <point x="64" y="-128" type="line"/>
+      <point x="222" y="-128" type="line"/>
+      <point x="222" y="-95" type="line"/>
+      <point x="191" y="-95" type="line"/>
+      <point x="146" y="-95"/>
+      <point x="136" y="-83"/>
+      <point x="136" y="-6" type="curve"/>
+      <point x="136" y="316" type="line"/>
+      <point x="64" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

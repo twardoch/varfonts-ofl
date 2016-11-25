@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE20" format="2">
+  <unicode hex="FE20"/>
+  <anchor x="6" y="536" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-249" y="597" type="curve"/>
+      <point x="-238" y="597" type="line"/>
+      <point x="-180" y="689"/>
+      <point x="-125" y="715"/>
+      <point x="6" y="715" type="curve"/>
+      <point x="6" y="767" type="line"/>
+      <point x="-7" y="767" type="line" smooth="yes"/>
+      <point x="-125" y="767"/>
+      <point x="-187" y="727"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

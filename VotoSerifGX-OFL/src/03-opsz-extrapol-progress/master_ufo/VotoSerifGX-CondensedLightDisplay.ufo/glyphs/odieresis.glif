@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="329"/>
+  <unicode hex="00F6"/>
+  <anchor x="164" y="0" name="bottom"/>
+  <anchor x="164" y="735" name="top"/>
+  <anchor x="316" y="536" name="topright"/>
+  <anchor x="164" y="268" name="center"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresis" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

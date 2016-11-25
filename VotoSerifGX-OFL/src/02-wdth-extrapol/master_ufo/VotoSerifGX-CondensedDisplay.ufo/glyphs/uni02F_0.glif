@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F0" format="2">
+  <advance width="267"/>
+  <unicode hex="02F0"/>
+  <outline>
+    <contour>
+      <point x="40" y="-240" type="line"/>
+      <point x="53" y="-240" type="line"/>
+      <point x="92" y="-179"/>
+      <point x="108" y="-148"/>
+      <point x="133" y="-86" type="curve"/>
+      <point x="159" y="-148"/>
+      <point x="175" y="-179"/>
+      <point x="214" y="-240" type="curve"/>
+      <point x="227" y="-240" type="line"/>
+      <point x="227" y="-236" type="line"/>
+      <point x="199" y="-181"/>
+      <point x="172" y="-111"/>
+      <point x="149" y="-28" type="curve"/>
+      <point x="117" y="-28" type="line"/>
+      <point x="102" y="-90"/>
+      <point x="77" y="-162"/>
+      <point x="40" y="-236" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uni02EF</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>uni02EF</string>
+    </dict>
+  </lib>
+</glyph>

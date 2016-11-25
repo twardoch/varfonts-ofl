@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.sc" format="2">
+  <advance width="344"/>
+  <anchor x="172" y="536" name="_top"/>
+  <anchor x="172" y="766" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="606" type="line"/>
+      <point x="103" y="606" type="line"/>
+      <point x="130" y="636"/>
+      <point x="155" y="659"/>
+      <point x="175" y="707" type="curve"/>
+      <point x="191" y="659"/>
+      <point x="214" y="636"/>
+      <point x="242" y="606" type="curve"/>
+      <point x="248" y="606" type="line"/>
+      <point x="248" y="619" type="line"/>
+      <point x="229" y="657"/>
+      <point x="206" y="721"/>
+      <point x="192" y="766" type="curve"/>
+      <point x="152" y="766" type="line"/>
+      <point x="141" y="721"/>
+      <point x="115" y="657"/>
+      <point x="97" y="619" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

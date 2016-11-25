@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls.sc" format="2">
+  <advance width="264"/>
+  <anchor x="107" y="0" name="bottom"/>
+  <anchor x="107" y="571" name="top"/>
+  <anchor x="244" y="571" name="topright"/>
+  <outline>
+    <contour>
+      <point x="147" y="-9" type="curve" smooth="yes"/>
+      <point x="218" y="-9"/>
+      <point x="240" y="65"/>
+      <point x="240" y="153" type="curve" smooth="yes"/>
+      <point x="240" y="236"/>
+      <point x="234" y="308"/>
+      <point x="128" y="314" type="curve"/>
+      <point x="206" y="426" type="line"/>
+      <point x="212" y="516"/>
+      <point x="177" y="579"/>
+      <point x="112" y="579" type="curve" smooth="yes"/>
+      <point x="71" y="579"/>
+      <point x="19" y="542"/>
+      <point x="19" y="403" type="curve" smooth="yes"/>
+      <point x="19" y="107" type="line" smooth="yes"/>
+      <point x="19" y="26"/>
+      <point x="13" y="10"/>
+      <point x="-51" y="10" type="curve" smooth="yes"/>
+      <point x="-18" y="10" type="line"/>
+      <point x="-18" y="0" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="47" y="420" type="line" smooth="yes"/>
+      <point x="47" y="523"/>
+      <point x="82" y="569"/>
+      <point x="112" y="569" type="curve" smooth="yes"/>
+      <point x="165" y="569"/>
+      <point x="183" y="507"/>
+      <point x="178" y="406" type="curve"/>
+      <point x="118" y="314" type="line"/>
+      <point x="118" y="304" type="line"/>
+      <point x="115" y="304" type="line" smooth="yes"/>
+      <point x="192" y="304"/>
+      <point x="212" y="254"/>
+      <point x="212" y="154" type="curve" smooth="yes"/>
+      <point x="212" y="62"/>
+      <point x="192" y="1"/>
+      <point x="149" y="1" type="curve" smooth="yes"/>
+      <point x="104" y="1"/>
+      <point x="72" y="46"/>
+      <point x="72" y="98" type="curve"/>
+      <point x="66" y="98"/>
+      <point x="63" y="87"/>
+      <point x="63" y="72" type="curve" smooth="yes"/>
+      <point x="63" y="32"/>
+      <point x="96" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

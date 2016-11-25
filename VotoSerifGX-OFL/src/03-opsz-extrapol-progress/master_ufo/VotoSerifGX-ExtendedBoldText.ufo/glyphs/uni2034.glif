@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2034" format="2">
+  <advance width="1016"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="704" y="479" type="line"/>
+      <point x="831" y="479" type="line"/>
+      <point x="996" y="714" type="line"/>
+      <point x="746" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="479" type="line"/>
+      <point x="147" y="479" type="line"/>
+      <point x="312" y="714" type="line"/>
+      <point x="62" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="479" type="line"/>
+      <point x="489" y="479" type="line"/>
+      <point x="654" y="714" type="line"/>
+      <point x="404" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palatalizationcomb.cy" format="2">
+  <unicode hex="0484"/>
+  <anchor x="-1" y="536" name="_top"/>
+  <anchor x="-1" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="-207" y="611" type="line"/>
+      <point x="-191" y="611" type="line" smooth="yes"/>
+      <point x="-45" y="611"/>
+      <point x="21" y="666"/>
+      <point x="124" y="666" type="curve" smooth="yes"/>
+      <point x="162" y="666"/>
+      <point x="172" y="660"/>
+      <point x="176" y="628" type="curve" smooth="yes"/>
+      <point x="179" y="612" type="line"/>
+      <point x="204" y="612" type="line"/>
+      <point x="196" y="673"/>
+      <point x="175" y="688"/>
+      <point x="124" y="688" type="curve" smooth="yes"/>
+      <point x="38" y="688"/>
+      <point x="-67" y="633"/>
+      <point x="-178" y="633" type="curve"/>
+      <point x="-207" y="633" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

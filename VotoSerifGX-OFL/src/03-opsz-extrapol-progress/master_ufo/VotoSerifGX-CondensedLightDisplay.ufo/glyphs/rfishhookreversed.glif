@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhookreversed" format="2">
+  <advance width="243"/>
+  <unicode hex="027F"/>
+  <anchor x="122" y="-240" name="bottom"/>
+  <anchor x="122" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="-240" type="line"/>
+      <point x="215" y="-240" type="line"/>
+      <point x="215" y="-230" type="line"/>
+      <point x="237" y="-230" type="line" smooth="yes"/>
+      <point x="176" y="-230"/>
+      <point x="167" y="-224"/>
+      <point x="167" y="-155" type="curve" smooth="yes"/>
+      <point x="167" y="378" type="line" smooth="yes"/>
+      <point x="167" y="483"/>
+      <point x="153" y="543"/>
+      <point x="85" y="543" type="curve" smooth="yes"/>
+      <point x="47" y="543"/>
+      <point x="6" y="517"/>
+      <point x="6" y="478" type="curve" smooth="yes"/>
+      <point x="6" y="466"/>
+      <point x="10" y="450"/>
+      <point x="30" y="450" type="curve"/>
+      <point x="30" y="503"/>
+      <point x="41" y="533"/>
+      <point x="85" y="533" type="curve" smooth="yes"/>
+      <point x="140" y="533"/>
+      <point x="139" y="473"/>
+      <point x="139" y="376" type="curve" smooth="yes"/>
+      <point x="139" y="-155" type="line" smooth="yes"/>
+      <point x="139" y="-224"/>
+      <point x="132" y="-230"/>
+      <point x="66" y="-230" type="curve" smooth="yes"/>
+      <point x="85" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

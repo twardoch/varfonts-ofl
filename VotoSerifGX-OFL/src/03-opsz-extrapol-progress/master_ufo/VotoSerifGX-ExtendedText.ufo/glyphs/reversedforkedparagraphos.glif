@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedforkedparagraphos" format="2">
+  <advance width="1213"/>
+  <unicode hex="2E11"/>
+  <outline>
+    <contour>
+      <point x="-6" y="-83" type="line"/>
+      <point x="-6" y="-142" type="line"/>
+      <point x="871" y="-142" type="line"/>
+      <point x="1158" y="-294" type="line"/>
+      <point x="1202" y="-243" type="line"/>
+      <point x="1006" y="-142" type="line"/>
+      <point x="1219" y="-142" type="line"/>
+      <point x="1219" y="-83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

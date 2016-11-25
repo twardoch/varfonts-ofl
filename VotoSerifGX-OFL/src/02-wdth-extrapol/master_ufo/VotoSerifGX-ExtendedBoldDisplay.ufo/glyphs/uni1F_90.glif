@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F90" format="2">
+  <advance width="810"/>
+  <unicode hex="1F90"/>
+  <anchor x="406" y="-255" name="bottom"/>
+  <anchor x="406" y="764" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="uni1FBD" xOffset="85" yOffset="40"/>
+    <component base="uni1FBE" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

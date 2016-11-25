@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="380"/>
+  <unicode hex="012F"/>
+  <anchor x="189" y="-226" name="bottom"/>
+  <anchor x="189" y="756" name="top"/>
+  <anchor x="316" y="756" name="topright"/>
+  <outline>
+    <component base="i"/>
+    <component base="ogonekcomb" xOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

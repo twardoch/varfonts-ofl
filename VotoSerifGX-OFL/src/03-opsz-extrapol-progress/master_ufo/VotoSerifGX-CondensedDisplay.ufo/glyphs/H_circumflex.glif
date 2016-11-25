@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="520"/>
+  <unicode hex="0124"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="275" y="931" name="top"/>
+  <anchor x="500" y="714" name="topright"/>
+  <anchor x="260" y="357" name="center"/>
+  <outline>
+    <component base="H"/>
+    <component base="circumflex" xOffset="132" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

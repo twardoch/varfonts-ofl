@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedotabove" format="2">
+  <advance width="667"/>
+  <unicode hex="2E1E"/>
+  <outline>
+    <contour>
+      <point x="76" y="287" type="line"/>
+      <point x="111" y="320"/>
+      <point x="160" y="346"/>
+      <point x="200" y="346" type="curve" smooth="yes"/>
+      <point x="232" y="346"/>
+      <point x="262" y="340"/>
+      <point x="315" y="319" type="curve" smooth="yes"/>
+      <point x="380" y="294"/>
+      <point x="417" y="287"/>
+      <point x="458" y="287" type="curve" smooth="yes"/>
+      <point x="511" y="287"/>
+      <point x="554" y="306"/>
+      <point x="589" y="341" type="curve"/>
+      <point x="589" y="418" type="line"/>
+      <point x="554" y="385"/>
+      <point x="506" y="359"/>
+      <point x="464" y="359" type="curve" smooth="yes"/>
+      <point x="433" y="359"/>
+      <point x="403" y="365"/>
+      <point x="350" y="386" type="curve" smooth="yes"/>
+      <point x="284" y="411"/>
+      <point x="248" y="418"/>
+      <point x="207" y="418" type="curve" smooth="yes"/>
+      <point x="154" y="418"/>
+      <point x="111" y="400"/>
+      <point x="76" y="365" type="curve"/>
+    </contour>
+    <contour>
+      <point x="332" y="462" type="curve" smooth="yes"/>
+      <point x="360" y="462"/>
+      <point x="383" y="480"/>
+      <point x="383" y="523" type="curve" smooth="yes"/>
+      <point x="383" y="568"/>
+      <point x="360" y="583"/>
+      <point x="332" y="583" type="curve" smooth="yes"/>
+      <point x="303" y="583"/>
+      <point x="280" y="568"/>
+      <point x="280" y="523" type="curve" smooth="yes"/>
+      <point x="280" y="480"/>
+      <point x="303" y="462"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

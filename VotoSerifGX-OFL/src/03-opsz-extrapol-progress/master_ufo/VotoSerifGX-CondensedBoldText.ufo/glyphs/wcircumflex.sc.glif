@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex.sc" format="2">
+  <advance width="690"/>
+  <anchor x="345" y="0" name="bottom"/>
+  <anchor x="345" y="817" name="top"/>
+  <anchor x="670" y="571" name="topright"/>
+  <outline>
+    <component base="w.sc"/>
+    <component base="circumflexcomb.sc" xOffset="136" yOffset="58"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>w.sc</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>w.sc</string>
+    </dict>
+  </lib>
+</glyph>

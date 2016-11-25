@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinverteddoublecomb" format="2">
+  <unicode hex="0361"/>
+  <anchor x="-224" y="603" name="_top"/>
+  <anchor x="-1" y="848" name="top"/>
+  <outline>
+    <contour>
+      <point x="-307" y="667" type="curve"/>
+      <point x="-250" y="667" type="line"/>
+      <point x="-200" y="734"/>
+      <point x="-131" y="767"/>
+      <point x="-3" y="767" type="curve" smooth="yes"/>
+      <point x="122" y="767"/>
+      <point x="194" y="734"/>
+      <point x="243" y="667" type="curve"/>
+      <point x="306" y="667" type="line"/>
+      <point x="248" y="793"/>
+      <point x="148" y="848"/>
+      <point x="-1" y="848" type="curve" smooth="yes"/>
+      <point x="-149" y="848"/>
+      <point x="-248" y="794"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

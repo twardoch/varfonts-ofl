@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="532"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="40" y="606" type="line"/>
+      <point x="50" y="606" type="line"/>
+      <point x="103" y="640"/>
+      <point x="216" y="721"/>
+      <point x="249" y="756" type="curve"/>
+      <point x="249" y="766" type="line"/>
+      <point x="125" y="766" type="line"/>
+      <point x="101" y="721"/>
+      <point x="71" y="663"/>
+      <point x="40" y="616" type="curve"/>
+    </contour>
+    <contour>
+      <point x="283" y="606" type="line"/>
+      <point x="293" y="606" type="line"/>
+      <point x="346" y="640"/>
+      <point x="459" y="721"/>
+      <point x="492" y="756" type="curve"/>
+      <point x="492" y="766" type="line"/>
+      <point x="368" y="766" type="line"/>
+      <point x="344" y="721"/>
+      <point x="314" y="663"/>
+      <point x="283" y="616" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

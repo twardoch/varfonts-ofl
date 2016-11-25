@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primeReversed" format="2">
+  <advance width="150"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="110" y="479" type="line"/>
+      <point x="110" y="714" type="line"/>
+      <point x="20" y="714" type="line"/>
+      <point x="95" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

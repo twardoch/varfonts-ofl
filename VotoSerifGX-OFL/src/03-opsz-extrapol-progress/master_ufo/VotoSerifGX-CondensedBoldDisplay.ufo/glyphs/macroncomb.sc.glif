@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.sc" format="2">
+  <advance width="362"/>
+  <anchor x="180" y="513" name="_top"/>
+  <anchor x="180" y="690" name="top"/>
+  <outline>
+    <contour>
+      <point x="75" y="629" type="line"/>
+      <point x="285" y="629" type="line"/>
+      <point x="285" y="649" type="line"/>
+      <point x="75" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

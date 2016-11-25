@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravemacron" format="2">
+  <unicode hex="1DC5"/>
+  <anchor x="-4" y="536" name="_top"/>
+  <anchor x="-4" y="717" name="top"/>
+  <outline>
+    <contour>
+      <point x="-14" y="623" type="line"/>
+      <point x="84" y="623" type="line"/>
+      <point x="84" y="653" type="line"/>
+      <point x="-10" y="653" type="line"/>
+      <point x="-76" y="717" type="line"/>
+      <point x="-93" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

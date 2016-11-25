@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B0" format="2">
+  <advance width="421"/>
+  <unicode hex="04B0"/>
+  <anchor x="211" y="0" name="bottom"/>
+  <anchor x="211" y="714" name="top"/>
+  <anchor x="401" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="81" y="205" type="line"/>
+      <point x="342" y="205" type="line"/>
+      <point x="342" y="242" type="line"/>
+      <point x="81" y="242" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

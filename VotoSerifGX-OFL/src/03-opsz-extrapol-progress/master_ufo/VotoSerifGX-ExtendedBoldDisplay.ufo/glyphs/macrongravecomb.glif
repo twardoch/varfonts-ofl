@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongravecomb" format="2">
+  <unicode hex="1DC6"/>
+  <anchor x="11" y="536" name="_top"/>
+  <anchor x="11" y="745" name="top"/>
+  <outline>
+    <contour>
+      <point x="159" y="621" type="line"/>
+      <point x="168" y="639" type="line"/>
+      <point x="26" y="710" type="line"/>
+      <point x="-158" y="710" type="line"/>
+      <point x="-158" y="690" type="line"/>
+      <point x="19" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>
