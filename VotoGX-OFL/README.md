@@ -2,13 +2,13 @@
 
 ## Voto Serif GX
 
-The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Serif Display](https://github.com/googlei18n/noto-source). Noto Serif serve as the `opsz` axis master =12, and Noto Serif Display as the `opsz` axis master =72. In the Voto Serif fonts, compared to the original Noto fonts, some incompatible glyphs in the uprights have been compatibilized, some have been removed.
+The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Serif Display](https://github.com/googlei18n/noto-source). Noto Serif serve as the `opsz` axis master =12, and Noto Serif Display as the `opsz` axis master =72. In the Voto Serif fonts, compared to the original Noto fonts, some incompatible glyphs in the uprights have been compatibilized, some have been removed. But the glyphset is still large, >3,000 glyphs.
 
 The `.glyphs` sources are published. The `01-merged` folder has the sources for the original designs, which have the `wdth` axis bounds 70 and 100. The `02-wdth-extrapol` folder has the sources extrapolated to `wdth` 50 and 130. This of course results in some deficiencies, especially in the Light masters. `03-opsz-extrapol-progress` is unfinished.
 
-A `makeInstanceMapForGlyphsapp.py` tool is included which produces a handy list of instances which can be pasted into Glyphsapp’s Font Info. With this tool, I’ve made 7 x 9 x 9 = 567 predefined instances that are included in the font. The instances are named `<pointSize> <widthClass> <weightClass>` e.g. `24 5 400`, rather than using traditional text descriptors. 
+A `makeInstanceMapForGlyphsapp.py` tool is included which produces a handy list of instances which can be pasted into Glyphsapp’s Font Info. With this tool, I’ve made 7 x 9 x 9 = 567 predefined instances that are included in the font. The instances are named `<pointSize> <widthClass> <weightClass>` e.g. `24 5 400`, rather than using traditional text descriptors.
 
-Currently, only the upright font can be built, and even that not fully — without any `GPOS`. `fontmake` fails when trying to merge `mark`, `mkmk` and `kern`, regardless of whether built using `feaLib` or `afdko` (I had to tweak `ufo2ft` to disable `autoFeatures` in order to build the fonts).
+Currently, only the upright font can be built, and even that not fully — without any `GPOS`. `fontmake` fails when trying to merge `mark`, `mkmk` and `kern`, regardless of whether built using `feaLib` or `afdko` (I had to tweak `ufo2ft` to disable `autoFeatures` in order to build the fonts). This font presents a good test case for authors of tools that do `GPOS` table generation and blending for variable fonts. 
 
 But thanks to the wide range of `wdth` and `wght`, and the `opsz` axis, the font can serve as a good source of experiments.
 
