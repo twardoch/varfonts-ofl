@@ -10,6 +10,8 @@ The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Se
 
 ### What’s included?
 
+> *[Download varfonts-ofl repo archive with font sources and tools ](https://github.com/twardoch/varfonts-ofl/archive/master.zip)*
+
 1. The `ttf` folder has the working font in Variable OpenType TT (.ttf) format.
 
 2. The `src` folder has some sources and the `tools` folder has little helper tools.
