@@ -2,7 +2,7 @@
 
 ## Voto Serif GX (OFL)
 
-![Voto Serif GX](VotoSerifGX-OFL.gif)
+![Voto Serif GX](./doc/VotoSerifGX-OFL.gif)
 
 The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Serif Display](https://github.com/googlei18n/noto-source). Noto Serif serve as the `opsz` axis master =12, and Noto Serif Display as the `opsz` axis master =72. In the Voto Serif fonts, compared to the original Noto fonts, some incompatible glyphs in the uprights have been compatibilized, some have been removed. But the glyphset is still large, >3,000 glyphs.
 
