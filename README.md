@@ -9,7 +9,7 @@ These fonts are conversions of fonts published under the OFL into the OpenType T
 The variation aspect is supported in Mac OS X, iOS, most recent versions of FreeType and in Microsoft Edge for Windows 10 AU. Specifically, they can be tested in the following environments:
 
 * [http://www.axis-praxis.org]() (browser-based tool requiring WebKit Nightly and macOS Sierra, by [@lorp](https://github.com/lorp/)
-* [https://github.com/googlei18n/fontview]() (simple desktop GUI tool by [@brawer](https://github.com/brawer))
+* [https://github.com/googlei18n/fontview]() (simple desktop GUI tool by [@brawer](https://github.com/brawer/))
 
 ### Building
 
