@@ -4,7 +4,7 @@
 
 ![Voto Serif GX](./doc/VotoSerifGX-OFL.gif)
 
-### ** > [Download VotoSerifGX.ttf ](https://github.com/twardoch/varfonts-ofl/blob/master/VotoSerifGX-OFL/ttf/VotoSerifGX.ttf?raw=true)**
+### > [Download VotoSerifGX.ttf ](https://github.com/twardoch/varfonts-ofl/blob/master/VotoSerifGX-OFL/ttf/VotoSerifGX.ttf?raw=true)
 
 The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Serif Display](https://github.com/googlei18n/noto-source). Noto Serif serve as the `opsz` axis master =12, and Noto Serif Display as the `opsz` axis master =72.
 
