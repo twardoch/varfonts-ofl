@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBinducomb" format="2">
+  <unicode hex="0310"/>
+  <anchor x="1" y="536" name="_top"/>
+  <anchor x="1" y="938" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="618" type="curve"/>
+      <point x="131" y="618"/>
+      <point x="213" y="703"/>
+      <point x="216" y="778" type="curve"/>
+      <point x="116" y="778" type="line"/>
+      <point x="103" y="730"/>
+      <point x="57" y="710"/>
+      <point x="0" y="710" type="curve" smooth="yes"/>
+      <point x="-57" y="710"/>
+      <point x="-103" y="730"/>
+      <point x="-115" y="778" type="curve"/>
+      <point x="-215" y="778" type="line"/>
+      <point x="-213" y="703"/>
+      <point x="-131" y="618"/>
+    </contour>
+    <contour>
+      <point x="0" y="783" type="curve" smooth="yes"/>
+      <point x="59" y="783"/>
+      <point x="106" y="811"/>
+      <point x="106" y="861" type="curve"/>
+      <point x="106" y="916"/>
+      <point x="59" y="938"/>
+      <point x="0" y="938" type="curve" smooth="yes"/>
+      <point x="-66" y="938"/>
+      <point x="-107" y="916"/>
+      <point x="-107" y="861" type="curve" smooth="yes"/>
+      <point x="-107" y="811"/>
+      <point x="-66" y="783"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

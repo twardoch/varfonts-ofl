@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024E" format="2">
+  <advance width="739"/>
+  <unicode hex="024E"/>
+  <anchor x="365" y="0" name="bottom"/>
+  <anchor x="365" y="714" name="top"/>
+  <anchor x="727" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-4" y="518" type="line"/>
+      <point x="733" y="518" type="line"/>
+      <point x="733" y="528" type="line"/>
+      <point x="-4" y="528" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

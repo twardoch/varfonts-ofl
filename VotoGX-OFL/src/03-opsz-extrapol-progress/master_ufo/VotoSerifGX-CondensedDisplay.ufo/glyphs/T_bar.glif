@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="408"/>
+  <unicode hex="0166"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="204" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="10" type="line"/>
+      <point x="292" y="10" type="line" smooth="yes"/>
+      <point x="246" y="10"/>
+      <point x="241" y="25"/>
+      <point x="241" y="90" type="curve" smooth="yes"/>
+      <point x="241" y="349" type="line"/>
+      <point x="344" y="349" type="line"/>
+      <point x="344" y="359" type="line"/>
+      <point x="241" y="359" type="line"/>
+      <point x="241" y="706" type="line"/>
+      <point x="285" y="706" type="line" smooth="yes"/>
+      <point x="363" y="706"/>
+      <point x="382" y="684"/>
+      <point x="385" y="611" type="curve" smooth="yes"/>
+      <point x="387" y="549" type="line"/>
+      <point x="397" y="549" type="line"/>
+      <point x="392" y="714" type="line"/>
+      <point x="15" y="714" type="line"/>
+      <point x="11" y="549" type="line"/>
+      <point x="21" y="549" type="line"/>
+      <point x="22" y="611" type="line" smooth="yes"/>
+      <point x="26" y="684"/>
+      <point x="45" y="706"/>
+      <point x="122" y="706" type="curve" smooth="yes"/>
+      <point x="166" y="706" type="line"/>
+      <point x="166" y="359" type="line"/>
+      <point x="63" y="359" type="line"/>
+      <point x="63" y="349" type="line"/>
+      <point x="166" y="349" type="line"/>
+      <point x="166" y="89" type="line" smooth="yes"/>
+      <point x="166" y="25"/>
+      <point x="160" y="10"/>
+      <point x="115" y="10" type="curve" smooth="yes"/>
+      <point x="97" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

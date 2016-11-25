@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbreve" format="2">
+  <unicode hex="1DCC"/>
+  <anchor x="-87" y="536" name="_top"/>
+  <anchor x="-87" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="-9" y="583" type="curve" smooth="yes"/>
+      <point x="53" y="583"/>
+      <point x="69" y="624"/>
+      <point x="66" y="707" type="curve"/>
+      <point x="56" y="707" type="line"/>
+      <point x="51" y="628"/>
+      <point x="35" y="609"/>
+      <point x="-9" y="609" type="curve" smooth="yes"/>
+      <point x="-59" y="609"/>
+      <point x="-73" y="631"/>
+      <point x="-76" y="707" type="curve"/>
+      <point x="-86" y="707" type="line"/>
+      <point x="-89" y="622"/>
+      <point x="-72" y="583"/>
+    </contour>
+    <contour>
+      <point x="-239" y="687" type="line"/>
+      <point x="-76" y="687" type="line"/>
+      <point x="-76" y="707" type="line"/>
+      <point x="-239" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

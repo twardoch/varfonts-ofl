@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7B2" format="2">
+  <advance width="433"/>
+  <unicode hex="A7B2"/>
+  <outline>
+    <contour>
+      <point x="88" y="-240" type="curve" smooth="yes"/>
+      <point x="191" y="-240"/>
+      <point x="241" y="-162"/>
+      <point x="250" y="-65" type="curve"/>
+      <point x="297" y="-107"/>
+      <point x="335" y="-168"/>
+      <point x="405" y="-265" type="curve"/>
+      <point x="430" y="-254" type="line"/>
+      <point x="361" y="-167"/>
+      <point x="319" y="-78"/>
+      <point x="254" y="-36" type="curve"/>
+      <point x="254" y="-35"/>
+      <point x="254" y="5"/>
+      <point x="254" y="32" type="curve" smooth="yes"/>
+      <point x="254" y="608" type="line"/>
+      <point x="254" y="683"/>
+      <point x="260" y="694"/>
+      <point x="310" y="694" type="curve" smooth="yes"/>
+      <point x="374" y="694" type="line"/>
+      <point x="374" y="714" type="line"/>
+      <point x="108" y="714" type="line"/>
+      <point x="108" y="694" type="line"/>
+      <point x="170" y="694" type="line" smooth="yes"/>
+      <point x="220" y="694"/>
+      <point x="226" y="683"/>
+      <point x="226" y="604" type="curve"/>
+      <point x="226" y="-18" type="line"/>
+      <point x="192" y="-4"/>
+      <point x="153" y="8"/>
+      <point x="104" y="8" type="curve" smooth="yes"/>
+      <point x="-24" y="8"/>
+      <point x="-61" y="-72"/>
+      <point x="-61" y="-115" type="curve" smooth="yes"/>
+      <point x="-61" y="-183"/>
+      <point x="-3" y="-240"/>
+    </contour>
+    <contour>
+      <point x="80" y="-215" type="curve" smooth="yes"/>
+      <point x="24" y="-215"/>
+      <point x="-33" y="-181"/>
+      <point x="-33" y="-116" type="curve" smooth="yes"/>
+      <point x="-33" y="-55"/>
+      <point x="16" y="-19"/>
+      <point x="111" y="-19" type="curve" smooth="yes"/>
+      <point x="156" y="-19"/>
+      <point x="194" y="-32"/>
+      <point x="226" y="-49" type="curve"/>
+      <point x="226" y="-24" type="line" smooth="yes"/>
+      <point x="226" y="-141"/>
+      <point x="180" y="-215"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

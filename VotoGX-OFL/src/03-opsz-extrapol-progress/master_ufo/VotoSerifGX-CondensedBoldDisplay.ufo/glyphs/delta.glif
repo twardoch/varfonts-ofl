@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="463"/>
+  <unicode hex="03B4"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="232" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="228" y="-10" type="curve" smooth="yes"/>
+      <point x="353" y="-10"/>
+      <point x="436" y="79"/>
+      <point x="436" y="249" type="curve" smooth="yes"/>
+      <point x="436" y="361"/>
+      <point x="366" y="429"/>
+      <point x="324" y="475" type="curve" smooth="yes"/>
+      <point x="269" y="527"/>
+      <point x="198" y="583"/>
+      <point x="198" y="657" type="curve" smooth="yes"/>
+      <point x="198" y="718"/>
+      <point x="204" y="755"/>
+      <point x="254" y="755" type="curve" smooth="yes"/>
+      <point x="299" y="755"/>
+      <point x="316" y="712"/>
+      <point x="316" y="591" type="curve"/>
+      <point x="359" y="591"/>
+      <point x="404" y="614"/>
+      <point x="404" y="669" type="curve" smooth="yes"/>
+      <point x="404" y="714"/>
+      <point x="358" y="765"/>
+      <point x="256" y="765" type="curve" smooth="yes"/>
+      <point x="163" y="765"/>
+      <point x="88" y="706"/>
+      <point x="88" y="619" type="curve" smooth="yes"/>
+      <point x="88" y="538"/>
+      <point x="118" y="491"/>
+      <point x="157" y="453" type="curve"/>
+      <point x="87" y="406"/>
+      <point x="30" y="347"/>
+      <point x="30" y="212" type="curve" smooth="yes"/>
+      <point x="30" y="72"/>
+      <point x="113" y="-10"/>
+    </contour>
+    <contour>
+      <point x="224" y="0" type="curve" smooth="yes"/>
+      <point x="164" y="0"/>
+      <point x="152" y="60"/>
+      <point x="152" y="211" type="curve" smooth="yes"/>
+      <point x="152" y="322"/>
+      <point x="154" y="394"/>
+      <point x="178" y="435" type="curve"/>
+      <point x="237" y="383"/>
+      <point x="301" y="328"/>
+      <point x="301" y="189" type="curve" smooth="yes"/>
+      <point x="301" y="54"/>
+      <point x="276" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

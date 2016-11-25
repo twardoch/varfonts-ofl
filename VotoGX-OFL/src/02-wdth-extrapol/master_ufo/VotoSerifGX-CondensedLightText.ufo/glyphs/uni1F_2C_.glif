@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F2C" format="2">
+  <advance width="557"/>
+  <unicode hex="1F2C"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="328" y="714" name="top"/>
+  <anchor x="540" y="714" name="topright"/>
+  <anchor x="329" y="357" name="center"/>
+  <outline>
+    <component base="H" xOffset="96"/>
+    <component base="uni1FCE" xOffset="-137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

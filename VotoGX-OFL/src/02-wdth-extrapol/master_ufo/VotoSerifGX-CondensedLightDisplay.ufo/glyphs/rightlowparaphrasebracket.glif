@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightlowparaphrasebracket" format="2">
+  <advance width="297"/>
+  <unicode hex="2E1D"/>
+  <outline>
+    <contour>
+      <point x="45" y="-85" type="line"/>
+      <point x="270" y="285" type="line"/>
+      <point x="252" y="295" type="line"/>
+      <point x="28" y="-74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

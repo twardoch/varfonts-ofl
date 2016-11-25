@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomenicomb" format="2">
+  <unicode hex="0342"/>
+  <anchor x="-1" y="536" name="_top"/>
+  <anchor x="-1" y="763" name="top"/>
+  <outline>
+    <component base="tilde" xOffset="-195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

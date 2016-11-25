@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EF1" format="2">
+  <advance width="442"/>
+  <unicode hex="1EF1"/>
+  <anchor x="229" y="-173" name="bottom"/>
+  <anchor x="229" y="536" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="dotbelowcomb" xOffset="421"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>uhorn</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="2">
+  <advance width="495"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="248" y="571" name="top"/>
+  <anchor x="475" y="571" name="topright"/>
+  <outline>
+    <contour>
+      <point x="257" y="-8" type="curve" smooth="yes"/>
+      <point x="380" y="-8"/>
+      <point x="426" y="73"/>
+      <point x="426" y="182" type="curve" smooth="yes"/>
+      <point x="426" y="471" type="line" smooth="yes"/>
+      <point x="426" y="515"/>
+      <point x="442" y="520"/>
+      <point x="462" y="520" type="curve" smooth="yes"/>
+      <point x="485" y="520" type="line"/>
+      <point x="485" y="571" type="line"/>
+      <point x="312" y="571" type="line"/>
+      <point x="312" y="520" type="line"/>
+      <point x="333" y="520" type="line" smooth="yes"/>
+      <point x="353" y="520"/>
+      <point x="367" y="515"/>
+      <point x="367" y="474" type="curve" smooth="yes"/>
+      <point x="367" y="182" type="line" smooth="yes"/>
+      <point x="367" y="92"/>
+      <point x="329" y="52"/>
+      <point x="292" y="52" type="curve" smooth="yes"/>
+      <point x="242" y="52"/>
+      <point x="215" y="83"/>
+      <point x="215" y="180" type="curve" smooth="yes"/>
+      <point x="215" y="471" type="line"/>
+      <point x="215" y="515"/>
+      <point x="232" y="520"/>
+      <point x="251" y="520" type="curve" smooth="yes"/>
+      <point x="273" y="520" type="line"/>
+      <point x="273" y="571" type="line"/>
+      <point x="11" y="571" type="line"/>
+      <point x="11" y="520" type="line"/>
+      <point x="33" y="520" type="line" smooth="yes"/>
+      <point x="51" y="520"/>
+      <point x="69" y="515"/>
+      <point x="69" y="474" type="curve" smooth="yes"/>
+      <point x="69" y="187" type="line" smooth="yes"/>
+      <point x="69" y="44"/>
+      <point x="141" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

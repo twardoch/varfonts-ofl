@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03C5030803060300" format="2">
+  <advance width="479"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="239" y="941" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="uni030003060308" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>upsilon</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F5" format="2">
+  <advance width="739"/>
+  <unicode hex="04F5"/>
+  <anchor x="370" y="0" name="bottom"/>
+  <anchor x="370" y="740" name="top"/>
+  <outline>
+    <component base="dieresis" xOffset="23"/>
+    <component base="afii10089" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>afii10089</string>
+    </dict>
+  </lib>
+</glyph>

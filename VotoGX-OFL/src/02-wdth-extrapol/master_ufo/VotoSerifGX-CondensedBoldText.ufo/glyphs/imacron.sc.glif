@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron.sc" format="2">
+  <advance width="281"/>
+  <anchor x="141" y="0" name="bottom"/>
+  <anchor x="141" y="741" name="top"/>
+  <anchor x="261" y="571" name="topright"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="macroncomb.sc" xOffset="-41" yOffset="58"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>i.sc</string>
+    </dict>
+  </lib>
+</glyph>

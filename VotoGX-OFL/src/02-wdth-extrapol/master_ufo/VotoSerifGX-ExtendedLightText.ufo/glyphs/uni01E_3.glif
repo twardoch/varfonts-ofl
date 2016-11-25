@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01E3" format="2">
+  <advance width="957"/>
+  <unicode hex="01E3"/>
+  <anchor x="479" y="0" name="bottom"/>
+  <anchor x="479" y="645" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="macron" xOffset="281" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>ae</string>
+    </dict>
+  </lib>
+</glyph>

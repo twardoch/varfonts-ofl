@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7FA" format="2">
+  <advance width="1147"/>
+  <unicode hex="A7FA"/>
+  <anchor x="565" y="536" name="top"/>
+  <anchor x="565" y="0" name="bottom"/>
+  <outline>
+    <component base="afii10090"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

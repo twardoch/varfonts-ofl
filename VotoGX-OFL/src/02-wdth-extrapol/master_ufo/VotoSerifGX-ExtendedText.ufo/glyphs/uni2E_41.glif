@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E41" format="2">
+  <advance width="280"/>
+  <unicode hex="2E41"/>
+  <outline>
+    <contour>
+      <point x="230" y="-154" type="curve"/>
+      <point x="230" y="-118" type="line"/>
+      <point x="163" y="-100"/>
+      <point x="133" y="-63"/>
+      <point x="133" y="-31" type="curve" smooth="yes"/>
+      <point x="133" y="2"/>
+      <point x="197" y="9"/>
+      <point x="197" y="62" type="curve" smooth="yes"/>
+      <point x="197" y="96"/>
+      <point x="180" y="116"/>
+      <point x="147" y="116" type="curve" smooth="yes"/>
+      <point x="97" y="116"/>
+      <point x="66" y="78"/>
+      <point x="66" y="17" type="curve" smooth="yes"/>
+      <point x="66" y="-63"/>
+      <point x="111" y="-126"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

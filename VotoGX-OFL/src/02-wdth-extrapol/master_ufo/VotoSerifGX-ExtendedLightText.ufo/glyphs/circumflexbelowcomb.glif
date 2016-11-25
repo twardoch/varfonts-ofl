@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexbelowcomb" format="2">
+  <unicode hex="032D"/>
+  <anchor x="-2" y="0" name="_bottom"/>
+  <anchor x="-2" y="-222" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-131" y="-222" type="line"/>
+      <point x="-123" y="-222" type="line"/>
+      <point x="-60" y="-162"/>
+      <point x="-39" y="-127"/>
+      <point x="-1" y="-77" type="curve"/>
+      <point x="35" y="-127"/>
+      <point x="57" y="-162"/>
+      <point x="121" y="-222" type="curve"/>
+      <point x="129" y="-222" type="line"/>
+      <point x="129" y="-209" type="line"/>
+      <point x="90" y="-171"/>
+      <point x="30" y="-107"/>
+      <point x="13" y="-62" type="curve"/>
+      <point x="-16" y="-62" type="line"/>
+      <point x="-31" y="-107"/>
+      <point x="-93" y="-171"/>
+      <point x="-131" y="-209" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

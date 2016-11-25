@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute.sc" format="2">
+  <advance width="654"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="365" y="816" name="top"/>
+  <anchor x="622" y="571" name="topright"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="acutecomb.sc" xOffset="37" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

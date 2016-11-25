@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongoverlaycomb" format="2">
+  <unicode hex="0336"/>
+  <anchor x="-2" y="287" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-244" y="250" type="line"/>
+      <point x="243" y="250" type="line"/>
+      <point x="243" y="322" type="line"/>
+      <point x="-244" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

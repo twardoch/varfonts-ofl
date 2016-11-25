@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C4" format="2">
+  <advance width="1097"/>
+  <unicode hex="01C4"/>
+  <anchor x="837" y="0" name="bottom"/>
+  <anchor x="837" y="931" name="top"/>
+  <anchor x="1065" y="714" name="topright_2"/>
+  <anchor x="556" y="714" name="topright_1"/>
+  <anchor x="288" y="357" name="center"/>
+  <outline>
+    <component base="D"/>
+    <component base="Z" xOffset="576"/>
+    <component base="caron" xOffset="666" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+    </dict>
+  </lib>
+</glyph>

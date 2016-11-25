@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asteriskbelowcomb" format="2">
+  <unicode hex="0359"/>
+  <anchor x="-11" y="0" name="_bottom"/>
+  <anchor x="0" y="-240" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-18" y="-240" type="line"/>
+      <point x="4" y="-240" type="line"/>
+      <point x="-2" y="-144" type="line"/>
+      <point x="55" y="-190" type="line"/>
+      <point x="61" y="-178" type="line"/>
+      <point x="-4" y="-135" type="line"/>
+      <point x="62" y="-95" type="line"/>
+      <point x="57" y="-83" type="line"/>
+      <point x="-2" y="-125" type="line"/>
+      <point x="7" y="-30" type="line"/>
+      <point x="-15" y="-30" type="line"/>
+      <point x="-7" y="-125" type="line"/>
+      <point x="-64" y="-80" type="line"/>
+      <point x="-72" y="-92" type="line"/>
+      <point x="-8" y="-135" type="line"/>
+      <point x="-73" y="-175" type="line"/>
+      <point x="-66" y="-187" type="line"/>
+      <point x="-8" y="-144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

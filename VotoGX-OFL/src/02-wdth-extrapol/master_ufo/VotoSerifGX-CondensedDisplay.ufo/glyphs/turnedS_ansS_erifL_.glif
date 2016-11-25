@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="turnedSansSerifL" format="2">
+  <advance width="410"/>
+  <unicode hex="2142"/>
+  <anchor x="204" y="0" name="top"/>
+  <anchor x="204" y="357" name="center"/>
+  <anchor x="19" y="0" name="topright"/>
+  <anchor x="204" y="714" name="bottom"/>
+  <outline>
+    <component base="L" xScale="-1" yScale="-1" xOffset="409" yOffset="714"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

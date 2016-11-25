@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051F" format="2">
+  <advance width="404"/>
+  <unicode hex="051F"/>
+  <anchor x="202" y="0" name="bottom"/>
+  <anchor x="202" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="315" y="351" type="line"/>
+      <point x="335" y="381" type="line"/>
+      <point x="195" y="467" type="line"/>
+      <point x="175" y="436" type="line"/>
+    </contour>
+    <component base="afii10076"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>afii10076</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA796" format="2">
+  <advance width="414"/>
+  <unicode hex="A796"/>
+  <anchor x="227" y="714" name="top"/>
+  <anchor x="394" y="714" name="topright"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="64" y="192" type="curve" smooth="yes"/>
+      <point x="77" y="192"/>
+      <point x="90" y="197"/>
+      <point x="92" y="209" type="curve"/>
+      <point x="52" y="209"/>
+      <point x="30" y="233"/>
+      <point x="30" y="276" type="curve" smooth="yes"/>
+      <point x="30" y="336"/>
+      <point x="70" y="369"/>
+      <point x="140" y="369" type="curve" smooth="yes"/>
+      <point x="131" y="369" type="line"/>
+      <point x="131" y="379" type="line"/>
+      <point x="142" y="379" type="line" smooth="yes"/>
+      <point x="52" y="379"/>
+      <point x="2" y="341"/>
+      <point x="2" y="274" type="curve" smooth="yes"/>
+      <point x="2" y="223"/>
+      <point x="27" y="192"/>
+    </contour>
+    <component base="B" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni206A" format="2">
+  <unicode hex="206A"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-133" type="line"/>
+      <point x="10" y="-133" type="line"/>
+      <point x="10" y="486" type="line"/>
+      <point x="116" y="486" type="line"/>
+      <point x="116" y="506" type="line"/>
+      <point x="10" y="506" type="line"/>
+      <point x="10" y="660" type="line"/>
+      <point x="116" y="660" type="line"/>
+      <point x="116" y="680" type="line"/>
+      <point x="-116" y="680" type="line"/>
+      <point x="-116" y="660" type="line"/>
+      <point x="-10" y="660" type="line"/>
+      <point x="-10" y="506" type="line"/>
+      <point x="-116" y="506" type="line"/>
+      <point x="-116" y="486" type="line"/>
+      <point x="-10" y="486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

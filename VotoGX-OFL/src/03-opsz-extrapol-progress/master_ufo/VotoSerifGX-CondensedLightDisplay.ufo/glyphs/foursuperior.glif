@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="2">
+  <advance width="238"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="87" y="385" type="line"/>
+      <point x="195" y="385" type="line"/>
+      <point x="195" y="395" type="line"/>
+      <point x="185" y="395" type="line" smooth="yes"/>
+      <point x="157" y="395"/>
+      <point x="158" y="406"/>
+      <point x="158" y="468" type="curve" smooth="yes"/>
+      <point x="158" y="522" type="line"/>
+      <point x="220" y="522" type="line"/>
+      <point x="220" y="537" type="line"/>
+      <point x="158" y="537" type="line"/>
+      <point x="158" y="817" type="line"/>
+      <point x="126" y="817" type="line"/>
+      <point x="12" y="537" type="line"/>
+      <point x="12" y="522" type="line"/>
+      <point x="129" y="522" type="line"/>
+      <point x="129" y="468" type="line" smooth="yes"/>
+      <point x="129" y="406"/>
+      <point x="133" y="395"/>
+      <point x="105" y="395" type="curve" smooth="yes"/>
+      <point x="87" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="537" type="line"/>
+      <point x="120" y="764" type="line" smooth="yes"/>
+      <point x="122" y="773"/>
+      <point x="127" y="787"/>
+      <point x="132" y="801" type="curve"/>
+      <point x="130" y="760"/>
+      <point x="129" y="730"/>
+      <point x="129" y="688" type="curve" smooth="yes"/>
+      <point x="129" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

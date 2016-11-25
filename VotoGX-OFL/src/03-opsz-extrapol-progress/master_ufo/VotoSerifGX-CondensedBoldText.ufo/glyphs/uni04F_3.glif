@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F3" format="2">
+  <advance width="426"/>
+  <unicode hex="04F3"/>
+  <anchor x="213" y="-228" name="bottom"/>
+  <anchor x="213" y="766" name="top"/>
+  <anchor x="436" y="536" name="topright"/>
+  <outline>
+    <component base="y"/>
+    <component base="hungarumlaut" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DED" format="2">
+  <unicode hex="1DED"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="9.950000000000003" y="834.4" name="top"/>
+  <anchor x="9.950000000000003" y="727.2" name="center"/>
+  <anchor x="91.4" y="834.4" name="topright"/>
+  <anchor x="-50.45" y="534.0" name="bottom"/>
+  <outline>
+    <component base="o" xScale="0.45" yScale="0.4" xOffset="-76" yOffset="620"/>
+    <component base="uni1AB9" xScale="0.45" yScale="0.4" xOffset="76" yOffset="630"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

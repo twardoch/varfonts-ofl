@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve.sc" format="2">
+  <advance width="358"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="179" y="745" name="top"/>
+  <anchor x="338" y="571" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="brevecomb.sc" xOffset="18" yOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>u.sc</string>
+    </dict>
+  </lib>
+</glyph>

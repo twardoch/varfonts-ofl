@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedoublecomb" format="2">
+  <unicode hex="0360"/>
+  <anchor x="-2" y="536" name="_top"/>
+  <anchor x="-2" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="-334" y="621" type="curve"/>
+      <point x="-325" y="621" type="line"/>
+      <point x="-307" y="675"/>
+      <point x="-257" y="682"/>
+      <point x="-186" y="682" type="curve" smooth="yes"/>
+      <point x="-71" y="682"/>
+      <point x="82" y="620"/>
+      <point x="158" y="620" type="curve" smooth="yes"/>
+      <point x="278" y="620"/>
+      <point x="313" y="664"/>
+      <point x="334" y="761" type="curve"/>
+      <point x="325" y="761" type="line"/>
+      <point x="314" y="712"/>
+      <point x="260" y="701"/>
+      <point x="180" y="701" type="curve" smooth="yes"/>
+      <point x="74" y="701"/>
+      <point x="-94" y="762"/>
+      <point x="-165" y="762" type="curve" smooth="yes"/>
+      <point x="-277" y="762"/>
+      <point x="-312" y="713"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

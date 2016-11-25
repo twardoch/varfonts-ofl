@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Archaicsampi" format="2">
+  <advance width="493"/>
+  <unicode hex="0372"/>
+  <anchor x="247" y="0" name="bottom"/>
+  <anchor x="247" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="10" type="line"/>
+      <point x="365" y="10" type="line" smooth="yes"/>
+      <point x="323" y="10"/>
+      <point x="320" y="30"/>
+      <point x="320" y="75" type="curve" smooth="yes"/>
+      <point x="320" y="704" type="line"/>
+      <point x="342" y="704" type="line" smooth="yes"/>
+      <point x="440" y="704"/>
+      <point x="472" y="664"/>
+      <point x="475" y="542" type="curve" smooth="yes"/>
+      <point x="482" y="336" type="line"/>
+      <point x="492" y="336" type="line"/>
+      <point x="479" y="714" type="line"/>
+      <point x="14" y="714" type="line"/>
+      <point x="1" y="336" type="line"/>
+      <point x="11" y="336" type="line"/>
+      <point x="20" y="527" type="line" smooth="yes"/>
+      <point x="27" y="662"/>
+      <point x="59" y="704"/>
+      <point x="152" y="704" type="curve" smooth="yes"/>
+      <point x="173" y="704" type="line"/>
+      <point x="173" y="76" type="line" smooth="yes"/>
+      <point x="173" y="31"/>
+      <point x="169" y="10"/>
+      <point x="129" y="10" type="curve" smooth="yes"/>
+      <point x="105" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

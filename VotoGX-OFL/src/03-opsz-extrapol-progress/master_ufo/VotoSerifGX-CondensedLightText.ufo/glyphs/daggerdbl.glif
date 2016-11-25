@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="255"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="107" y="-111" type="line"/>
+      <point x="148" y="-111" type="line"/>
+      <point x="136" y="106" type="line"/>
+      <point x="235" y="91" type="line"/>
+      <point x="235" y="130" type="line"/>
+      <point x="136" y="121" type="line"/>
+      <point x="157" y="210" type="line"/>
+      <point x="137" y="270"/>
+      <point x="136" y="319"/>
+      <point x="139" y="329" type="curve"/>
+      <point x="136" y="338"/>
+      <point x="132" y="380"/>
+      <point x="159" y="439" type="curve"/>
+      <point x="136" y="537" type="line"/>
+      <point x="235" y="520" type="line"/>
+      <point x="235" y="559" type="line"/>
+      <point x="136" y="552" type="line"/>
+      <point x="148" y="760" type="line"/>
+      <point x="107" y="760" type="line"/>
+      <point x="119" y="552" type="line"/>
+      <point x="22" y="559" type="line"/>
+      <point x="22" y="520" type="line"/>
+      <point x="119" y="537" type="line"/>
+      <point x="101" y="439" type="line"/>
+      <point x="123" y="382"/>
+      <point x="122" y="336"/>
+      <point x="119" y="329" type="curve"/>
+      <point x="122" y="319"/>
+      <point x="120" y="270"/>
+      <point x="100" y="210" type="curve"/>
+      <point x="119" y="121" type="line"/>
+      <point x="22" y="130" type="line"/>
+      <point x="22" y="91" type="line"/>
+      <point x="119" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

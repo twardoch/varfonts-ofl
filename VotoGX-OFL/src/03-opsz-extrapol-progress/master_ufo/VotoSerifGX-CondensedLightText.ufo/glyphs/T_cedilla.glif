@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcedilla" format="2">
+  <advance width="351"/>
+  <unicode hex="0162"/>
+  <anchor x="175" y="-223" name="bottom"/>
+  <anchor x="175" y="714" name="top"/>
+  <anchor x="331" y="714" name="topright"/>
+  <anchor x="175" y="357" name="center"/>
+  <outline>
+    <component base="T"/>
+    <component base="cedillacomb" xOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

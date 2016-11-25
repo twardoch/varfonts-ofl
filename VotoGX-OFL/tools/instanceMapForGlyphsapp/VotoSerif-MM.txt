@@ -1,0 +1,4412 @@
+(
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "12 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "12 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "12 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "12 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "12 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "12 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "12 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "12 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "12 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "12 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "12 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "12 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "12 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "12 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "12 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "12 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "12 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "12 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "12 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "12 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "12 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "12 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "12 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "12 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "12 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "12 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "12 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "12 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "12 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "12 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "12 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "12 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "12 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "12 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "12 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "12 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "12 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "12 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "12 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "12 5 400";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "12 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "12 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "12 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "12 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "12 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "12 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "12 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "12 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "12 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "12 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "12 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "12 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "12 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "12 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "12 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "12 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "12 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "12 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "12 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "12 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "12 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "12 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "12 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "12 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "12 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "12 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "12 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "12 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "12 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "12 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "12 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "12 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "12 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "12 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "12 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "12 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "12 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "12 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "12 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "12 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 12;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "12 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "18 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "18 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "18 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "18 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "18 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "18 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "18 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "18 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "18 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "18 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "18 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "18 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "18 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "18 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "18 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "18 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "18 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "18 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "18 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "18 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "18 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "18 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "18 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "18 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "18 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "18 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "18 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "18 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "18 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "18 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "18 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "18 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "18 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "18 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "18 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "18 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "18 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "18 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "18 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "18 5 400";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "18 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "18 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "18 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "18 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "18 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "18 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "18 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "18 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "18 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "18 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "18 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "18 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "18 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "18 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "18 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "18 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "18 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "18 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "18 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "18 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "18 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "18 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "18 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "18 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "18 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "18 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "18 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "18 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "18 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "18 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "18 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "18 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "18 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "18 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "18 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "18 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "18 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "18 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "18 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "18 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 18;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "18 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "24 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "24 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "24 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "24 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "24 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "24 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "24 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "24 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "24 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "24 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "24 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "24 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "24 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "24 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "24 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "24 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "24 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "24 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "24 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "24 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "24 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "24 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "24 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "24 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "24 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "24 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "24 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "24 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "24 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "24 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "24 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "24 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "24 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "24 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "24 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "24 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "24 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "24 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "24 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "24 5 400";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "24 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "24 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "24 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "24 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "24 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "24 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "24 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "24 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "24 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "24 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "24 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "24 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "24 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "24 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "24 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "24 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "24 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "24 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "24 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "24 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "24 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "24 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "24 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "24 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "24 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "24 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "24 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "24 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "24 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "24 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "24 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "24 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "24 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "24 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "24 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "24 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "24 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "24 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "24 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "24 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 24;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "24 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "36 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "36 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "36 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "36 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "36 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "36 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "36 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "36 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "36 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "36 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "36 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "36 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "36 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "36 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "36 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "36 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "36 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "36 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "36 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "36 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "36 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "36 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "36 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "36 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "36 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "36 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "36 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "36 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "36 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "36 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "36 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "36 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "36 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "36 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "36 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "36 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "36 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "36 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "36 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "36 5 400";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "36 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "36 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "36 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "36 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "36 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "36 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "36 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "36 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "36 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "36 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "36 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "36 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "36 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "36 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "36 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "36 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "36 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "36 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "36 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "36 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "36 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "36 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "36 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "36 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "36 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "36 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "36 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "36 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "36 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "36 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "36 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "36 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "36 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "36 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "36 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "36 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "36 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "36 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "36 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "36 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 36;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "36 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "48 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "48 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "48 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "48 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "48 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "48 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "48 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "48 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "48 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "48 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "48 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "48 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "48 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "48 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "48 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "48 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "48 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "48 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "48 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "48 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "48 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "48 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "48 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "48 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "48 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "48 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "48 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "48 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "48 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "48 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "48 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "48 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "48 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "48 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "48 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "48 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "48 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "48 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "48 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "48 5 400";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "48 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "48 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "48 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "48 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "48 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "48 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "48 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "48 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "48 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "48 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "48 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "48 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "48 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "48 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "48 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "48 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "48 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "48 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "48 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "48 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "48 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "48 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "48 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "48 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "48 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "48 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "48 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "48 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "48 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "48 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "48 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "48 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "48 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "48 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "48 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "48 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "48 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "48 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "48 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "48 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 48;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "48 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "60 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "60 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "60 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "60 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "60 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "60 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "60 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "60 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "60 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "60 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "60 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "60 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "60 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "60 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "60 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "60 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "60 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "60 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "60 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "60 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "60 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "60 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "60 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "60 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "60 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "60 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "60 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "60 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "60 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "60 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "60 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "60 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "60 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "60 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "60 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "60 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "60 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "60 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "60 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "60 5 400";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "60 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "60 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "60 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "60 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "60 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "60 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "60 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "60 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "60 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "60 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "60 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "60 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "60 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "60 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "60 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "60 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "60 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "60 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "60 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "60 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "60 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "60 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "60 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "60 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "60 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "60 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "60 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "60 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "60 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "60 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "60 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "60 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "60 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "60 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "60 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "60 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "60 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "60 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "60 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "60 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 60;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "60 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 50;
+        name = "72 1 100";
+        weightClass = Thin;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 50;
+        name = "72 1 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 50;
+        name = "72 1 300";
+        weightClass = Light;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 50;
+        name = "72 1 400";
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 50;
+        name = "72 1 500";
+        weightClass = Medium;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 50;
+        name = "72 1 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 50;
+        name = "72 1 700";
+        weightClass = Bold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 50;
+        name = "72 1 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 50;
+        name = "72 1 900";
+        weightClass = Black;
+        widthClass = "Ultra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 60;
+        name = "72 2 100";
+        weightClass = Thin;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 60;
+        name = "72 2 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 60;
+        name = "72 2 300";
+        weightClass = Light;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 60;
+        name = "72 2 400";
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 60;
+        name = "72 2 500";
+        weightClass = Medium;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 60;
+        name = "72 2 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 60;
+        name = "72 2 700";
+        weightClass = Bold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 60;
+        name = "72 2 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 60;
+        name = "72 2 900";
+        weightClass = Black;
+        widthClass = "Extra Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 70;
+        name = "72 3 100";
+        weightClass = Thin;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 70;
+        name = "72 3 200";
+        weightClass = ExtraLight;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 70;
+        name = "72 3 300";
+        weightClass = Light;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 70;
+        name = "72 3 400";
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 70;
+        name = "72 3 500";
+        weightClass = Medium;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 70;
+        name = "72 3 600";
+        weightClass = SemiBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 70;
+        name = "72 3 700";
+        weightClass = Bold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 70;
+        name = "72 3 800";
+        weightClass = ExtraBold;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 70;
+        name = "72 3 900";
+        weightClass = Black;
+        widthClass = "Condensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 80;
+        name = "72 4 100";
+        weightClass = Thin;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 80;
+        name = "72 4 200";
+        weightClass = ExtraLight;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 80;
+        name = "72 4 300";
+        weightClass = Light;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 80;
+        name = "72 4 400";
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 80;
+        name = "72 4 500";
+        weightClass = Medium;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 80;
+        name = "72 4 600";
+        weightClass = SemiBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 80;
+        name = "72 4 700";
+        weightClass = Bold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 80;
+        name = "72 4 800";
+        weightClass = ExtraBold;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 80;
+        name = "72 4 900";
+        weightClass = Black;
+        widthClass = "SemiCondensed";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 90;
+        name = "72 5 100";
+        weightClass = Thin;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 90;
+        name = "72 5 200";
+        weightClass = ExtraLight;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 90;
+        name = "72 5 300";
+        weightClass = Light;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 90;
+        name = "72 5 400";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 90;
+        name = "72 5 500";
+        weightClass = Medium;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 90;
+        name = "72 5 600";
+        weightClass = SemiBold;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 90;
+        name = "72 5 700";
+        weightClass = Bold;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 90;
+        name = "72 5 800";
+        weightClass = ExtraBold;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 90;
+        name = "72 5 900";
+        weightClass = Black;
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 100;
+        name = "72 6 100";
+        weightClass = Thin;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 100;
+        name = "72 6 200";
+        weightClass = ExtraLight;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 100;
+        name = "72 6 300";
+        weightClass = Light;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 100;
+        name = "72 6 400";
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 100;
+        name = "72 6 500";
+        weightClass = Medium;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 100;
+        name = "72 6 600";
+        weightClass = SemiBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 100;
+        name = "72 6 700";
+        weightClass = Bold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 100;
+        name = "72 6 800";
+        weightClass = ExtraBold;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 100;
+        name = "72 6 900";
+        weightClass = Black;
+        widthClass = "Semi Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 110;
+        name = "72 7 100";
+        weightClass = Thin;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 110;
+        name = "72 7 200";
+        weightClass = ExtraLight;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 110;
+        name = "72 7 300";
+        weightClass = Light;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 110;
+        name = "72 7 400";
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 110;
+        name = "72 7 500";
+        weightClass = Medium;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 110;
+        name = "72 7 600";
+        weightClass = SemiBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 110;
+        name = "72 7 700";
+        weightClass = Bold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 110;
+        name = "72 7 800";
+        weightClass = ExtraBold;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 110;
+        name = "72 7 900";
+        weightClass = Black;
+        widthClass = "Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 120;
+        name = "72 8 100";
+        weightClass = Thin;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 120;
+        name = "72 8 200";
+        weightClass = ExtraLight;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 120;
+        name = "72 8 300";
+        weightClass = Light;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 120;
+        name = "72 8 400";
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 120;
+        name = "72 8 500";
+        weightClass = Medium;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 120;
+        name = "72 8 600";
+        weightClass = SemiBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 120;
+        name = "72 8 700";
+        weightClass = Bold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 120;
+        name = "72 8 800";
+        weightClass = ExtraBold;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 120;
+        name = "72 8 900";
+        weightClass = Black;
+        widthClass = "Extra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 28;
+        interpolationWidth = 130;
+        name = "72 9 100";
+        weightClass = Thin;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 37;
+        interpolationWidth = 130;
+        name = "72 9 200";
+        weightClass = ExtraLight;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 51;
+        interpolationWidth = 130;
+        name = "72 9 300";
+        weightClass = Light;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 70;
+        interpolationWidth = 130;
+        name = "72 9 400";
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 92;
+        interpolationWidth = 130;
+        name = "72 9 500";
+        weightClass = Medium;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 118;
+        interpolationWidth = 130;
+        name = "72 9 600";
+        weightClass = SemiBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 144;
+        interpolationWidth = 130;
+        name = "72 9 700";
+        weightClass = Bold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 171;
+        interpolationWidth = 130;
+        name = "72 9 800";
+        weightClass = ExtraBold;
+        widthClass = "Ultra Expanded";
+    },
+        {
+        interpolationCustom = 72;
+        interpolationWeight = 194;
+        interpolationWidth = 130;
+        name = "72 9 900";
+        weightClass = Black;
+        widthClass = "Ultra Expanded";
+    },
+)

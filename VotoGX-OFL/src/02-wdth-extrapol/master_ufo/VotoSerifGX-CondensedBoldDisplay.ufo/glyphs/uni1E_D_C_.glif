@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDC" format="2">
+  <advance width="633"/>
+  <unicode hex="1EDC"/>
+  <anchor x="323" y="0" name="bottom"/>
+  <anchor x="323" y="931" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="grave" xOffset="101" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>Ohorn</string>
+    </dict>
+  </lib>
+</glyph>

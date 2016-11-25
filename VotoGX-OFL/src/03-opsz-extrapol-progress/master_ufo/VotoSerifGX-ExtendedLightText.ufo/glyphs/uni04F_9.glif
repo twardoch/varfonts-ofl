@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F9" format="2">
+  <advance width="891"/>
+  <unicode hex="04F9"/>
+  <anchor x="440" y="0" name="bottom"/>
+  <anchor x="440" y="740" name="top"/>
+  <outline>
+    <component base="dieresis" xOffset="83"/>
+    <component base="afii10093"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>afii10093</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

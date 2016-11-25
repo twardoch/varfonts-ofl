@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturned" format="2">
+  <advance width="328"/>
+  <unicode hex="029E"/>
+  <anchor x="164" y="-224" name="bottom"/>
+  <anchor x="164" y="536" name="top"/>
+  <anchor x="-4" y="-224" name="topright"/>
+  <outline>
+    <component base="k" xScale="-1" yScale="-1" xOffset="324" yOffset="536"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

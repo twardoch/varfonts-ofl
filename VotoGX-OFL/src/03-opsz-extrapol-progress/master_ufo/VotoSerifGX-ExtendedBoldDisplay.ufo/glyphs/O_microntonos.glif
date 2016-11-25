@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="970"/>
+  <unicode hex="038C"/>
+  <anchor x="485" y="0" name="bottom"/>
+  <anchor x="485" y="714" name="top"/>
+  <anchor x="950" y="714" name="topright"/>
+  <anchor x="492" y="357" name="center"/>
+  <outline>
+    <component base="O" xOffset="14"/>
+    <component base="tonos" xOffset="-324" yOffset="-82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

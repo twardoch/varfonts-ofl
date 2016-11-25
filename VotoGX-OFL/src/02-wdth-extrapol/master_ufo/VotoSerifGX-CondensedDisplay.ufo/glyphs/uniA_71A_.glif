@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71A" format="2">
+  <advance width="237"/>
+  <unicode hex="A71A"/>
+  <outline>
+    <contour>
+      <point x="40" y="623" type="line"/>
+      <point x="197" y="623" type="line"/>
+      <point x="197" y="758" type="line"/>
+      <point x="177" y="758" type="line"/>
+      <point x="177" y="643" type="line"/>
+      <point x="40" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

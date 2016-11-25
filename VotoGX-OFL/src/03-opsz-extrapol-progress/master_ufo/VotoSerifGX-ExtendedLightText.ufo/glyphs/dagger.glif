@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+  <advance width="503"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="246" y="-111" type="curve"/>
+      <point x="258" y="-111" type="line"/>
+      <point x="258" y="278"/>
+      <point x="285" y="473"/>
+      <point x="271" y="408" type="curve"/>
+      <point x="259" y="519" type="line"/>
+      <point x="459" y="510" type="line"/>
+      <point x="459" y="560" type="line"/>
+      <point x="259" y="526" type="line"/>
+      <point x="276" y="760" type="line"/>
+      <point x="230" y="760" type="line"/>
+      <point x="242" y="526" type="line"/>
+      <point x="43" y="560" type="line"/>
+      <point x="43" y="510" type="line"/>
+      <point x="242" y="519" type="line"/>
+      <point x="231" y="408" type="line"/>
+      <point x="217" y="472"/>
+      <point x="246" y="282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

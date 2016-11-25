@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutemacron" format="2">
+  <unicode hex="1DC7"/>
+  <anchor x="-8" y="536" name="_top"/>
+  <anchor x="-8" y="729" name="top"/>
+  <outline>
+    <contour>
+      <point x="-148" y="570" type="line"/>
+      <point x="-6" y="637" type="line"/>
+      <point x="180" y="637" type="line"/>
+      <point x="180" y="729" type="line"/>
+      <point x="-30" y="729" type="line"/>
+      <point x="-195" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

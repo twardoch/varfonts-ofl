@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron.sc" format="2">
+  <advance width="626"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="314" y="807" name="top"/>
+  <anchor x="586" y="571" name="topright"/>
+  <outline>
+    <component base="r.sc"/>
+    <component base="caroncomb.sc" xOffset="-41" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>r.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftverticalbarwithquill" format="2">
+  <advance width="332"/>
+  <unicode hex="2E20"/>
+  <outline>
+    <contour>
+      <point x="156" y="-240" type="line"/>
+      <point x="171" y="-240" type="line"/>
+      <point x="171" y="257" type="line"/>
+      <point x="294" y="257" type="line"/>
+      <point x="294" y="267" type="line"/>
+      <point x="171" y="267" type="line"/>
+      <point x="171" y="760" type="line"/>
+      <point x="156" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

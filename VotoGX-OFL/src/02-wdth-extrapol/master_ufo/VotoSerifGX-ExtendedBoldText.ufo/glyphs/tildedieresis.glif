@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedieresis" format="2">
+  <advance width="673"/>
+  <outline>
+    <contour>
+      <point x="73" y="599" type="curve"/>
+      <point x="165" y="599" type="line"/>
+      <point x="165" y="625"/>
+      <point x="182" y="657"/>
+      <point x="214" y="657" type="curve" smooth="yes"/>
+      <point x="262" y="657"/>
+      <point x="324" y="608"/>
+      <point x="404" y="608" type="curve" smooth="yes"/>
+      <point x="495" y="608"/>
+      <point x="550" y="662"/>
+      <point x="554" y="765" type="curve"/>
+      <point x="462" y="765" type="line"/>
+      <point x="459" y="735"/>
+      <point x="442" y="705"/>
+      <point x="412" y="705" type="curve" smooth="yes"/>
+      <point x="368" y="705"/>
+      <point x="311" y="756"/>
+      <point x="232" y="756" type="curve" smooth="yes"/>
+      <point x="139" y="756"/>
+      <point x="78" y="699"/>
+    </contour>
+    <contour>
+      <point x="194" y="787" type="curve" smooth="yes"/>
+      <point x="234" y="787"/>
+      <point x="276" y="808"/>
+      <point x="276" y="861" type="curve" smooth="yes"/>
+      <point x="276" y="916"/>
+      <point x="234" y="935"/>
+      <point x="194" y="935" type="curve" smooth="yes"/>
+      <point x="154" y="935"/>
+      <point x="115" y="916"/>
+      <point x="115" y="861" type="curve" smooth="yes"/>
+      <point x="115" y="808"/>
+      <point x="154" y="787"/>
+    </contour>
+    <contour>
+      <point x="460" y="787" type="curve" smooth="yes"/>
+      <point x="498" y="787"/>
+      <point x="540" y="808"/>
+      <point x="540" y="861" type="curve" smooth="yes"/>
+      <point x="540" y="916"/>
+      <point x="498" y="935"/>
+      <point x="460" y="935" type="curve" smooth="yes"/>
+      <point x="418" y="935"/>
+      <point x="379" y="916"/>
+      <point x="379" y="861" type="curve" smooth="yes"/>
+      <point x="379" y="808"/>
+      <point x="418" y="787"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

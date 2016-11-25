@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB35" format="2">
+  <advance width="392"/>
+  <unicode hex="AB35"/>
+  <outline>
+    <contour>
+      <point x="170" y="53" type="line"/>
+      <point x="198" y="53" type="line"/>
+      <point x="198" y="526" type="line"/>
+      <point x="376" y="526" type="line"/>
+      <point x="376" y="536" type="line"/>
+      <point x="198" y="536" type="line"/>
+      <point x="198" y="600" type="line" smooth="yes"/>
+      <point x="198" y="728"/>
+      <point x="261" y="762"/>
+      <point x="347" y="762" type="curve" smooth="yes"/>
+      <point x="438" y="762"/>
+      <point x="459" y="714"/>
+      <point x="459" y="658" type="curve"/>
+      <point x="463" y="658"/>
+      <point x="477" y="666"/>
+      <point x="477" y="697" type="curve" smooth="yes"/>
+      <point x="477" y="718"/>
+      <point x="431" y="772"/>
+      <point x="351" y="772" type="curve" smooth="yes"/>
+      <point x="238" y="772"/>
+      <point x="170" y="701"/>
+      <point x="170" y="599" type="curve" smooth="yes"/>
+      <point x="170" y="536" type="line"/>
+      <point x="50" y="536" type="line"/>
+      <point x="50" y="526" type="line"/>
+      <point x="170" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

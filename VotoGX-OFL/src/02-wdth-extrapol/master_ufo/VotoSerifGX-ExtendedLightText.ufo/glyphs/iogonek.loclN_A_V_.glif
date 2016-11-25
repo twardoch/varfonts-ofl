@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.loclNAV" format="2">
+  <advance width="341"/>
+  <anchor x="170" y="738" name="top"/>
+  <anchor x="281" y="738" name="topright"/>
+  <anchor x="170" y="-216" name="bottom"/>
+  <outline>
+    <component base="iogonek"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

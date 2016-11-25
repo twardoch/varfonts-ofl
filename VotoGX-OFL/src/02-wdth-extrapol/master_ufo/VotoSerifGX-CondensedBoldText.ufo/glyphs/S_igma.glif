@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="2">
+  <advance width="475"/>
+  <unicode hex="03A3"/>
+  <anchor x="237" y="0" name="bottom"/>
+  <anchor x="237" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="443" y="241" type="line"/>
+      <point x="389" y="241" type="line"/>
+      <point x="384" y="207" type="line" smooth="yes"/>
+      <point x="377" y="150"/>
+      <point x="360" y="116"/>
+      <point x="314" y="116" type="curve" smooth="yes"/>
+      <point x="122" y="116" type="line"/>
+      <point x="291" y="380" type="line"/>
+      <point x="291" y="394" type="line"/>
+      <point x="189" y="654" type="line"/>
+      <point x="297" y="654" type="line" smooth="yes"/>
+      <point x="340" y="654"/>
+      <point x="356" y="628"/>
+      <point x="361" y="582" type="curve" smooth="yes"/>
+      <point x="370" y="524" type="line"/>
+      <point x="423" y="524" type="line"/>
+      <point x="417" y="714" type="line"/>
+      <point x="32" y="714" type="line"/>
+      <point x="32" y="668" type="line"/>
+      <point x="179" y="339" type="line"/>
+      <point x="16" y="66" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

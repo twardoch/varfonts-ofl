@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0477" format="2">
+  <advance width="391"/>
+  <unicode hex="0477"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="196" y="766" name="top"/>
+  <outline>
+    <component base="uni0475"/>
+    <component base="dblgravecomb" xOffset="428"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>uni0475</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve.sc" format="2">
+  <advance width="858"/>
+  <anchor x="430" y="0" name="bottom"/>
+  <anchor x="430" y="830" name="top"/>
+  <anchor x="838" y="571" name="topright"/>
+  <anchor x="430" y="286" name="center"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="gravecomb.sc" xOffset="93" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>

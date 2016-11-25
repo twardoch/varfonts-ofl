@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C85" format="2">
+  <advance width="721"/>
+  <unicode hex="1C85"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="359" y="536" name="top"/>
+  <outline>
+    <component base="afii10090" xScale="-1" yScale="-1" xOffset="721" yOffset="536"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>afii10090</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>afii10090</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E74" format="2">
+  <advance width="557"/>
+  <unicode hex="1E74"/>
+  <anchor x="278" y="-177" name="bottom"/>
+  <anchor x="278" y="714" name="top"/>
+  <anchor x="541" y="714" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildebelowcomb" xOffset="286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

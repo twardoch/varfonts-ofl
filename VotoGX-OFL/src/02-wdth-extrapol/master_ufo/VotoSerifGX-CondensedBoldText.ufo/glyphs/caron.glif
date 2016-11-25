@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="369"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="125" y="606" type="curve"/>
+      <point x="244" y="606" type="line"/>
+      <point x="260" y="651"/>
+      <point x="306" y="715"/>
+      <point x="329" y="753" type="curve"/>
+      <point x="329" y="766" type="line"/>
+      <point x="263" y="766" type="line"/>
+      <point x="247" y="740"/>
+      <point x="206" y="700"/>
+      <point x="184" y="670" type="curve"/>
+      <point x="162" y="700"/>
+      <point x="122" y="740"/>
+      <point x="106" y="766" type="curve"/>
+      <point x="40" y="766" type="line"/>
+      <point x="40" y="753" type="line"/>
+      <point x="63" y="715"/>
+      <point x="109" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quadrupleprime" format="2">
+  <advance width="480"/>
+  <unicode hex="2057"/>
+  <outline>
+    <contour>
+      <point x="40" y="479" type="line"/>
+      <point x="55" y="479" type="line"/>
+      <point x="130" y="714" type="line"/>
+      <point x="40" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="479" type="line"/>
+      <point x="385" y="479" type="line"/>
+      <point x="460" y="714" type="line"/>
+      <point x="370" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="479" type="line"/>
+      <point x="165" y="479" type="line"/>
+      <point x="240" y="714" type="line"/>
+      <point x="150" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="479" type="line"/>
+      <point x="275" y="479" type="line"/>
+      <point x="350" y="714" type="line"/>
+      <point x="260" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

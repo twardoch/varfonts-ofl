@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C62" format="2">
+  <advance width="489"/>
+  <unicode hex="2C62"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="244" y="714" name="top"/>
+  <anchor x="469" y="714" name="topright"/>
+  <anchor x="244" y="357" name="center"/>
+  <outline>
+    <contour>
+      <point x="-21" y="294" type="curve"/>
+      <point x="39" y="294" type="line"/>
+      <point x="37" y="324"/>
+      <point x="47" y="351"/>
+      <point x="71" y="351" type="curve" smooth="yes"/>
+      <point x="124" y="351"/>
+      <point x="171" y="287"/>
+      <point x="231" y="287" type="curve" smooth="yes"/>
+      <point x="304" y="287"/>
+      <point x="331" y="352"/>
+      <point x="332" y="432" type="curve"/>
+      <point x="275" y="432" type="line"/>
+      <point x="273" y="399"/>
+      <point x="263" y="373"/>
+      <point x="240" y="373" type="curve" smooth="yes"/>
+      <point x="188" y="373"/>
+      <point x="141" y="437"/>
+      <point x="81" y="437" type="curve" smooth="yes"/>
+      <point x="12" y="437"/>
+      <point x="-20" y="373"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

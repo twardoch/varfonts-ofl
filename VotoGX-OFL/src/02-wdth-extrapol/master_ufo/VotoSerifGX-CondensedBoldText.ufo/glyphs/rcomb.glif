@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcomb" format="2">
+  <unicode hex="036C"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="10.350000000000009" y="834.4" name="top"/>
+  <anchor x="101.70000000000002" y="834.4" name="topright"/>
+  <anchor x="-18.449999999999996" y="620.0" name="bottom"/>
+  <outline>
+    <component base="r" xScale="0.45" yScale="0.4" xOffset="-81" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

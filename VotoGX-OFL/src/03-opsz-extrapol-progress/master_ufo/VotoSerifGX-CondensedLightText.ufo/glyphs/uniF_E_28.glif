@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE28" format="2">
+  <unicode hex="FE28"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="126" y="536" name="braceleft"/>
+  <outline>
+    <contour>
+      <point x="0" y="-201" type="line"/>
+      <point x="135" y="-201"/>
+      <point x="179" y="-173"/>
+      <point x="252" y="-48" type="curve"/>
+      <point x="238" y="-48" type="line"/>
+      <point x="181" y="-160"/>
+      <point x="85" y="-171"/>
+      <point x="0" y="-171" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

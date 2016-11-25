@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0468" format="2">
+  <advance width="877"/>
+  <unicode hex="0468"/>
+  <anchor x="459" y="0" name="bottom"/>
+  <anchor x="459" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="53" type="line"/>
+      <point x="252" y="53" type="line" smooth="yes"/>
+      <point x="235" y="53"/>
+      <point x="228" y="71"/>
+      <point x="228" y="111" type="curve" smooth="yes"/>
+      <point x="228" y="332" type="line"/>
+      <point x="429" y="332" type="line"/>
+      <point x="448" y="393" type="line"/>
+      <point x="228" y="393" type="line"/>
+      <point x="228" y="605" type="line" smooth="yes"/>
+      <point x="228" y="648"/>
+      <point x="235" y="661"/>
+      <point x="252" y="661" type="curve" smooth="yes"/>
+      <point x="279" y="661" type="line"/>
+      <point x="279" y="714" type="line"/>
+      <point x="16" y="714" type="line"/>
+      <point x="16" y="661" type="line"/>
+      <point x="47" y="661" type="line" smooth="yes"/>
+      <point x="65" y="661"/>
+      <point x="81" y="648"/>
+      <point x="81" y="602" type="curve" smooth="yes"/>
+      <point x="81" y="111" type="line" smooth="yes"/>
+      <point x="81" y="71"/>
+      <point x="70" y="53"/>
+      <point x="54" y="53" type="curve" smooth="yes"/>
+      <point x="16" y="53" type="line"/>
+    </contour>
+    <component base="uni0466" xOffset="291"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

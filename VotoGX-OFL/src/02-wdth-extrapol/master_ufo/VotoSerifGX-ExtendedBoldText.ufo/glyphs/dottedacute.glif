@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedacute" format="2">
+  <unicode hex="1DC1"/>
+  <anchor x="7" y="536" name="_top"/>
+  <anchor x="7" y="856" name="top"/>
+  <outline>
+    <contour>
+      <point x="-104" y="574" type="line"/>
+      <point x="-40" y="574" type="line"/>
+      <point x="11" y="640"/>
+      <point x="95" y="772"/>
+      <point x="107" y="828" type="curve"/>
+      <point x="107" y="844" type="line"/>
+      <point x="-44" y="844" type="line"/>
+      <point x="-51" y="773"/>
+      <point x="-81" y="654"/>
+      <point x="-104" y="596" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-211" y="561" type="curve" smooth="yes"/>
+      <point x="-170" y="561"/>
+      <point x="-131" y="585"/>
+      <point x="-131" y="654" type="curve" smooth="yes"/>
+      <point x="-131" y="724"/>
+      <point x="-170" y="748"/>
+      <point x="-211" y="748" type="curve" smooth="yes"/>
+      <point x="-251" y="748"/>
+      <point x="-290" y="724"/>
+      <point x="-290" y="654" type="curve" smooth="yes"/>
+      <point x="-290" y="585"/>
+      <point x="-251" y="561"/>
+    </contour>
+    <contour>
+      <point x="225" y="669" type="curve" smooth="yes"/>
+      <point x="263" y="669"/>
+      <point x="302" y="693"/>
+      <point x="302" y="762" type="curve" smooth="yes"/>
+      <point x="302" y="832"/>
+      <point x="263" y="856"/>
+      <point x="225" y="856" type="curve" smooth="yes"/>
+      <point x="182" y="856"/>
+      <point x="144" y="832"/>
+      <point x="144" y="762" type="curve" smooth="yes"/>
+      <point x="144" y="693"/>
+      <point x="182" y="669"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

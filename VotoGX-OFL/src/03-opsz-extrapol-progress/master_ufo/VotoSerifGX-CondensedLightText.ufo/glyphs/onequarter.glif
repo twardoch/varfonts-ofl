@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+  <advance width="502"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="one.numr" xOffset="-12"/>
+    <component base="fraction" xOffset="234"/>
+    <component base="four.dnom" xOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

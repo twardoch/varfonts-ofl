@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublecircumflexabove" format="2">
+  <unicode hex="1DCD"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="1190" name="top"/>
+  <outline>
+    <contour>
+      <point x="-322" y="800" type="line"/>
+      <point x="-305" y="800" type="line"/>
+      <point x="-203" y="834"/>
+      <point x="-65" y="885"/>
+      <point x="4" y="916" type="curve"/>
+      <point x="73" y="884"/>
+      <point x="207" y="833"/>
+      <point x="305" y="800" type="curve"/>
+      <point x="322" y="800" type="line"/>
+      <point x="322" y="815" type="line"/>
+      <point x="250" y="862"/>
+      <point x="148" y="941"/>
+      <point x="102" y="1000" type="curve"/>
+      <point x="-101" y="1000" type="line"/>
+      <point x="-147" y="941"/>
+      <point x="-249" y="863"/>
+      <point x="-322" y="815" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

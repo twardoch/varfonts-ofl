@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+  <advance width="899"/>
+  <unicode hex="01A0"/>
+  <anchor x="449" y="0" name="bottom"/>
+  <anchor x="449" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="422" y="-10" type="curve" smooth="yes"/>
+      <point x="686" y="-10"/>
+      <point x="769" y="145"/>
+      <point x="769" y="358" type="curve" smooth="yes"/>
+      <point x="769" y="432"/>
+      <point x="758" y="501"/>
+      <point x="731" y="557" type="curve"/>
+      <point x="799" y="555"/>
+      <point x="870" y="603"/>
+      <point x="870" y="702" type="curve" smooth="yes"/>
+      <point x="870" y="744"/>
+      <point x="857" y="770"/>
+      <point x="835" y="770" type="curve" smooth="yes"/>
+      <point x="826" y="770"/>
+      <point x="810" y="766"/>
+      <point x="810" y="751" type="curve" smooth="yes"/>
+      <point x="810" y="710"/>
+      <point x="850" y="718"/>
+      <point x="850" y="680" type="curve" smooth="yes"/>
+      <point x="850" y="625"/>
+      <point x="778" y="565"/>
+      <point x="722" y="575" type="curve"/>
+      <point x="672" y="668"/>
+      <point x="578" y="725"/>
+      <point x="423" y="725" type="curve" smooth="yes"/>
+      <point x="196" y="725"/>
+      <point x="72" y="588"/>
+      <point x="72" y="359" type="curve" smooth="yes"/>
+      <point x="72" y="113"/>
+      <point x="190" y="-10"/>
+    </contour>
+    <contour>
+      <point x="422" y="15" type="curve" smooth="yes"/>
+      <point x="207" y="15"/>
+      <point x="100" y="133"/>
+      <point x="100" y="358" type="curve" smooth="yes"/>
+      <point x="100" y="572"/>
+      <point x="213" y="700"/>
+      <point x="423" y="700" type="curve" smooth="yes"/>
+      <point x="654" y="700"/>
+      <point x="741" y="572"/>
+      <point x="741" y="358" type="curve" smooth="yes"/>
+      <point x="741" y="144"/>
+      <point x="656" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

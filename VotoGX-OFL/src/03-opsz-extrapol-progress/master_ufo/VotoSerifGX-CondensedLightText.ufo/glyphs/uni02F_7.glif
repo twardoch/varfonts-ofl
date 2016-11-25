@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F7" format="2">
+  <advance width="278"/>
+  <unicode hex="02F7"/>
+  <outline>
+    <contour>
+      <point x="182" y="-182" type="curve" smooth="yes"/>
+      <point x="229" y="-182"/>
+      <point x="234" y="-132"/>
+      <point x="238" y="-95" type="curve"/>
+      <point x="219" y="-95" type="line"/>
+      <point x="217" y="-125"/>
+      <point x="221" y="-153"/>
+      <point x="189" y="-153" type="curve" smooth="yes"/>
+      <point x="149" y="-153"/>
+      <point x="123" y="-83"/>
+      <point x="89" y="-83" type="curve" smooth="yes"/>
+      <point x="44" y="-83"/>
+      <point x="44" y="-129"/>
+      <point x="40" y="-167" type="curve"/>
+      <point x="59" y="-167" type="line"/>
+      <point x="59" y="-137"/>
+      <point x="59" y="-113"/>
+      <point x="84" y="-113" type="curve" smooth="yes"/>
+      <point x="114" y="-113"/>
+      <point x="139" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tilde</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>tilde</string>
+    </dict>
+  </lib>
+</glyph>

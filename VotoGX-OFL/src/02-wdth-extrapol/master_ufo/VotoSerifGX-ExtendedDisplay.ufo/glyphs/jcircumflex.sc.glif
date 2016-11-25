@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex.sc" format="2">
+  <advance width="379"/>
+  <anchor x="112" y="-192" name="bottom"/>
+  <anchor x="202" y="816" name="top"/>
+  <anchor x="371" y="571" name="topright"/>
+  <outline>
+    <component base="j.sc" xOffset="12"/>
+    <component base="circumflexcomb.sc" xOffset="-150" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>j.sc</string>
+    </dict>
+  </lib>
+</glyph>

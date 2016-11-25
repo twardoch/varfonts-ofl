@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D77" format="2">
+  <advance width="353"/>
+  <unicode hex="1D77"/>
+  <anchor x="180" y="-1" name="top"/>
+  <anchor x="-15" y="-1" name="topright"/>
+  <anchor x="176" y="775" name="bottom"/>
+  <outline>
+    <component base="g" xScale="-1" yScale="-1" xOffset="353" yOffset="535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>g</string>
+    </dict>
+  </lib>
+</glyph>

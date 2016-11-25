@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni047E" format="2">
+  <advance width="572"/>
+  <unicode hex="047E"/>
+  <anchor x="286" y="714" name="top"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <outline>
+    <component base="uni0460"/>
+    <component base="cyrillic_otmark" xOffset="142" yOffset="175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.widthMetricsKey</key>
+      <string>uni0460</string>
+    </dict>
+  </lib>
+</glyph>

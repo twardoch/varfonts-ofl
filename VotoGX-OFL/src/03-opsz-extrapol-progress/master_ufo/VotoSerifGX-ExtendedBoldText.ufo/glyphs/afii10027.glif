@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10027" format="2">
+  <advance width="969"/>
+  <unicode hex="0419"/>
+  <anchor x="485" y="0" name="bottom"/>
+  <anchor x="485" y="940" name="top"/>
+  <outline>
+    <component base="afii10026"/>
+    <component base="cyrillicbreve" xOffset="149" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

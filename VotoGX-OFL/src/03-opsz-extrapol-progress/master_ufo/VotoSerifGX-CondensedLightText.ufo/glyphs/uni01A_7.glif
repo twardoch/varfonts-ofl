@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01A7" format="2">
+  <advance width="302"/>
+  <unicode hex="01A7"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <anchor x="152" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="169" y="-10" type="curve" smooth="yes"/>
+      <point x="240" y="-10"/>
+      <point x="277" y="42"/>
+      <point x="277" y="76" type="curve" smooth="yes"/>
+      <point x="277" y="93"/>
+      <point x="275" y="99"/>
+      <point x="272" y="109" type="curve"/>
+      <point x="247" y="49"/>
+      <point x="215" y="15"/>
+      <point x="173" y="15" type="curve" smooth="yes"/>
+      <point x="105" y="15"/>
+      <point x="68" y="56"/>
+      <point x="68" y="160" type="curve" smooth="yes"/>
+      <point x="68" y="267"/>
+      <point x="99" y="293"/>
+      <point x="169" y="350" type="curve" smooth="yes"/>
+      <point x="208" y="388"/>
+      <point x="263" y="435"/>
+      <point x="263" y="564" type="curve" smooth="yes"/>
+      <point x="263" y="650"/>
+      <point x="225" y="724"/>
+      <point x="144" y="724" type="curve" smooth="yes"/>
+      <point x="78" y="724"/>
+      <point x="50" y="666"/>
+      <point x="50" y="611" type="curve" smooth="yes"/>
+      <point x="50" y="587"/>
+      <point x="55" y="572"/>
+      <point x="70" y="572" type="curve"/>
+      <point x="70" y="644"/>
+      <point x="90" y="699"/>
+      <point x="144" y="699" type="curve" smooth="yes"/>
+      <point x="207" y="699"/>
+      <point x="235" y="635"/>
+      <point x="235" y="554" type="curve" smooth="yes"/>
+      <point x="235" y="458"/>
+      <point x="212" y="423"/>
+      <point x="148" y="372" type="curve" smooth="yes"/>
+      <point x="90" y="323"/>
+      <point x="40" y="283"/>
+      <point x="40" y="161" type="curve" smooth="yes"/>
+      <point x="40" y="45"/>
+      <point x="81" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

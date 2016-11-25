@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0473" format="2">
+  <advance width="652"/>
+  <unicode hex="0473"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="327" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="-10" type="curve" smooth="yes"/>
+      <point x="486" y="-10"/>
+      <point x="570" y="85"/>
+      <point x="570" y="267" type="curve" smooth="yes"/>
+      <point x="570" y="469"/>
+      <point x="478" y="542"/>
+      <point x="333" y="542" type="curve" smooth="yes"/>
+      <point x="173" y="542"/>
+      <point x="82" y="457"/>
+      <point x="82" y="267" type="curve" smooth="yes"/>
+      <point x="82" y="82"/>
+      <point x="177" y="-10"/>
+    </contour>
+    <contour>
+      <point x="324" y="0" type="curve" smooth="yes"/>
+      <point x="175" y="0"/>
+      <point x="112" y="102"/>
+      <point x="110" y="272" type="curve"/>
+      <point x="131" y="282"/>
+      <point x="149" y="283"/>
+      <point x="201" y="283" type="curve" smooth="yes"/>
+      <point x="308" y="283"/>
+      <point x="342" y="242"/>
+      <point x="459" y="242" type="curve" smooth="yes"/>
+      <point x="475" y="242"/>
+      <point x="512" y="246"/>
+      <point x="542" y="267" type="curve"/>
+      <point x="539" y="108"/>
+      <point x="481" y="0"/>
+    </contour>
+    <contour>
+      <point x="110" y="284" type="curve"/>
+      <point x="115" y="455"/>
+      <point x="185" y="532"/>
+      <point x="335" y="532" type="curve" smooth="yes"/>
+      <point x="467" y="532"/>
+      <point x="537" y="460"/>
+      <point x="542" y="277" type="curve"/>
+      <point x="511" y="271"/>
+      <point x="486" y="271"/>
+      <point x="448" y="271" type="curve" smooth="yes"/>
+      <point x="335" y="271"/>
+      <point x="313" y="314"/>
+      <point x="191" y="314" type="curve" smooth="yes"/>
+      <point x="175" y="314"/>
+      <point x="143" y="311"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

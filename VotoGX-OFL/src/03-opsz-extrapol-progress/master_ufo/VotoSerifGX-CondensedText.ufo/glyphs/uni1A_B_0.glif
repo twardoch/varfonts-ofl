@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1AB0" format="2">
+  <unicode hex="1AB0"/>
+  <anchor x="-197" y="536" name="_top"/>
+  <anchor x="-197" y="766" name="top"/>
+  <outline>
+    <component base="circumflex" xOffset="-426"/>
+    <component base="circumflex" xOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

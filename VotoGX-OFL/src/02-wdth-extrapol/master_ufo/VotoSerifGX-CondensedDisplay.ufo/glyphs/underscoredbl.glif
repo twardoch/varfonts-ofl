@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="2">
+  <advance width="301"/>
+  <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="-3" y="-48" type="line"/>
+      <point x="301" y="-48" type="line"/>
+      <point x="301" y="-28" type="line"/>
+      <point x="-3" y="-28" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="-175" type="line"/>
+      <point x="301" y="-175" type="line"/>
+      <point x="301" y="-155" type="line"/>
+      <point x="-3" y="-155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66E" format="2">
+  <advance width="999"/>
+  <unicode hex="A66E"/>
+  <outline>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="319" yOffset="254"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="186" yOffset="499"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="56" yOffset="244"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="448" yOffset="501"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="584" yOffset="252"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="200" yOffset="1"/>
+    <component base="uniA669" xScale="0.51" yScale="0.51" xOffset="461" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

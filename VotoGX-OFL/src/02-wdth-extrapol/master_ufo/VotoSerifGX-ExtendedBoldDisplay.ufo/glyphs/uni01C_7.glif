@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C7" format="2">
+  <advance width="1185"/>
+  <unicode hex="01C7"/>
+  <anchor x="878" y="-240" name="bottom"/>
+  <anchor x="1008" y="714" name="top"/>
+  <anchor x="770" y="714" name="topright_2"/>
+  <anchor x="1244" y="714" name="topright_1"/>
+  <anchor x="396" y="357" name="center"/>
+  <outline>
+    <component base="J" xOffset="790"/>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA778" format="2">
+  <advance width="364"/>
+  <unicode hex="A778"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="163" y="0" type="line" smooth="yes"/>
+      <point x="276" y="0"/>
+      <point x="337" y="69"/>
+      <point x="337" y="180" type="curve" smooth="yes"/>
+      <point x="337" y="265"/>
+      <point x="306" y="329"/>
+      <point x="233" y="388" type="curve"/>
+      <point x="312" y="488"/>
+      <point x="312" y="530"/>
+      <point x="312" y="581" type="curve" smooth="yes"/>
+      <point x="312" y="664"/>
+      <point x="267" y="724"/>
+      <point x="194" y="724" type="curve" smooth="yes"/>
+      <point x="125" y="724"/>
+      <point x="67" y="664"/>
+      <point x="67" y="556" type="curve" smooth="yes"/>
+      <point x="67" y="434"/>
+      <point x="128" y="382"/>
+      <point x="177" y="333" type="curve"/>
+      <point x="29" y="112" type="line"/>
+      <point x="37" y="105" type="line"/>
+      <point x="186" y="327" type="line"/>
+      <point x="279" y="253"/>
+      <point x="290" y="205"/>
+      <point x="290" y="131" type="curve" smooth="yes"/>
+      <point x="290" y="55"/>
+      <point x="256" y="10"/>
+      <point x="165" y="10" type="curve" smooth="yes"/>
+      <point x="19" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="396" type="curve"/>
+      <point x="174" y="438"/>
+      <point x="122" y="482"/>
+      <point x="122" y="587" type="curve" smooth="yes"/>
+      <point x="122" y="663"/>
+      <point x="149" y="714"/>
+      <point x="197" y="714" type="curve" smooth="yes"/>
+      <point x="254" y="714"/>
+      <point x="282" y="660"/>
+      <point x="282" y="574" type="curve" smooth="yes"/>
+      <point x="282" y="527"/>
+      <point x="278" y="479"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

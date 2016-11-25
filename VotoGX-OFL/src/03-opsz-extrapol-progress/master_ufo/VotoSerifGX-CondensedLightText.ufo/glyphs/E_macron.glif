@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="2">
+  <advance width="358"/>
+  <unicode hex="0112"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="180" y="823" name="top"/>
+  <anchor x="338" y="714" name="topright"/>
+  <outline>
+    <component base="E"/>
+    <component base="macron" xOffset="59" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

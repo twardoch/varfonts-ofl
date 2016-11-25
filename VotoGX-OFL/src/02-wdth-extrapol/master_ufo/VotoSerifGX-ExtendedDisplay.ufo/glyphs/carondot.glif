@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondot" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="312" y="606" type="curve"/>
+      <point x="385" y="606" type="line"/>
+      <point x="409" y="651"/>
+      <point x="446" y="698"/>
+      <point x="492" y="741" type="curve"/>
+      <point x="492" y="753" type="line"/>
+      <point x="486" y="753" type="line"/>
+      <point x="437" y="722"/>
+      <point x="381" y="678"/>
+      <point x="348" y="640" type="curve"/>
+      <point x="317" y="678"/>
+      <point x="258" y="720"/>
+      <point x="209" y="753" type="curve"/>
+      <point x="202" y="753" type="line"/>
+      <point x="202" y="741" type="line"/>
+      <point x="249" y="696"/>
+      <point x="286" y="651"/>
+    </contour>
+    <contour>
+      <point x="348" y="739" type="curve" smooth="yes"/>
+      <point x="373" y="739"/>
+      <point x="397" y="754"/>
+      <point x="397" y="793" type="curve" smooth="yes"/>
+      <point x="397" y="830"/>
+      <point x="373" y="844"/>
+      <point x="348" y="844" type="curve" smooth="yes"/>
+      <point x="324" y="844"/>
+      <point x="300" y="830"/>
+      <point x="300" y="793" type="curve" smooth="yes"/>
+      <point x="300" y="754"/>
+      <point x="324" y="739"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

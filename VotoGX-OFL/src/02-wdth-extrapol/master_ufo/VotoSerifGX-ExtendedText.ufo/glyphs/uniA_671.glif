@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA671" format="2">
+  <unicode hex="A671"/>
+  <outline>
+    <contour>
+      <point x="-340" y="579" type="line"/>
+      <point x="-276" y="579" type="line"/>
+      <point x="-276" y="678" type="line"/>
+      <point x="275" y="678" type="line"/>
+      <point x="275" y="579" type="line"/>
+      <point x="340" y="579" type="line"/>
+      <point x="340" y="756" type="line"/>
+      <point x="-340" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="-340" y="-220" type="line"/>
+      <point x="340" y="-220" type="line"/>
+      <point x="340" y="-43" type="line"/>
+      <point x="275" y="-43" type="line"/>
+      <point x="275" y="-142" type="line"/>
+      <point x="-276" y="-142" type="line"/>
+      <point x="-276" y="-43" type="line"/>
+      <point x="-340" y="-43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

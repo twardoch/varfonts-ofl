@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pamphyliandigamma" format="2">
+  <advance width="606"/>
+  <unicode hex="0376"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="304" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="390" y="583" type="line"/>
+      <point x="390" y="118" type="line" smooth="yes"/>
+      <point x="390" y="60"/>
+      <point x="380" y="53"/>
+      <point x="355" y="53" type="curve" smooth="yes"/>
+      <point x="324" y="53" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="53" type="line"/>
+      <point x="574" y="53" type="line" smooth="yes"/>
+      <point x="548" y="53"/>
+      <point x="531" y="60"/>
+      <point x="531" y="118" type="curve" smooth="yes"/>
+      <point x="531" y="600" type="line" smooth="yes"/>
+      <point x="531" y="653"/>
+      <point x="547" y="661"/>
+      <point x="566" y="661" type="curve" smooth="yes"/>
+      <point x="597" y="661" type="line"/>
+      <point x="597" y="714" type="line"/>
+      <point x="399" y="714" type="line"/>
+      <point x="216" y="212" type="line"/>
+      <point x="216" y="600" type="line" smooth="yes"/>
+      <point x="216" y="649"/>
+      <point x="232" y="661"/>
+      <point x="251" y="661" type="curve" smooth="yes"/>
+      <point x="282" y="661" type="line"/>
+      <point x="282" y="714" type="line"/>
+      <point x="8" y="714" type="line"/>
+      <point x="8" y="661" type="line"/>
+      <point x="39" y="661" type="line" smooth="yes"/>
+      <point x="61" y="661"/>
+      <point x="75" y="648"/>
+      <point x="75" y="596" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

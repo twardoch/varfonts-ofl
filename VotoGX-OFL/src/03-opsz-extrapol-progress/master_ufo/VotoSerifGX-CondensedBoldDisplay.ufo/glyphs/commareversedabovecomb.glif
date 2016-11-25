@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commareversedabovecomb" format="2">
+  <unicode hex="0314"/>
+  <anchor x="2" y="358" name="_top"/>
+  <anchor x="2" y="714" name="top"/>
+  <outline>
+    <component base="quotereversed" xOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

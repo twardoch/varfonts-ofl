@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F2" format="2">
+  <advance width="391"/>
+  <unicode hex="04F2"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="196" y="931" name="top"/>
+  <outline>
+    <component base="afii10037"/>
+    <component base="hungarumlaut" xOffset="116" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

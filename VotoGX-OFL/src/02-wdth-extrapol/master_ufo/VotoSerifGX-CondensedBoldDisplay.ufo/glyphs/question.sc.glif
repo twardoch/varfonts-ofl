@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="2">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="171" y="195" type="line"/>
+      <point x="184" y="195" type="line"/>
+      <point x="211" y="287" type="line"/>
+      <point x="314" y="312"/>
+      <point x="359" y="365"/>
+      <point x="359" y="446" type="curve" smooth="yes"/>
+      <point x="359" y="545"/>
+      <point x="294" y="597"/>
+      <point x="186" y="597" type="curve" smooth="yes"/>
+      <point x="94" y="597"/>
+      <point x="25" y="557"/>
+      <point x="25" y="506" type="curve" smooth="yes"/>
+      <point x="25" y="459"/>
+      <point x="71" y="431"/>
+      <point x="136" y="431" type="curve"/>
+      <point x="136" y="541"/>
+      <point x="144" y="587"/>
+      <point x="174" y="587" type="curve" smooth="yes"/>
+      <point x="195" y="587"/>
+      <point x="217" y="546"/>
+      <point x="217" y="437" type="curve" smooth="yes"/>
+      <point x="217" y="330"/>
+      <point x="182" y="293"/>
+      <point x="133" y="283" type="curve"/>
+    </contour>
+    <contour>
+      <point x="175" y="-6" type="curve" smooth="yes"/>
+      <point x="206" y="-6"/>
+      <point x="234" y="10"/>
+      <point x="234" y="66" type="curve" smooth="yes"/>
+      <point x="234" y="121"/>
+      <point x="206" y="136"/>
+      <point x="175" y="136" type="curve" smooth="yes"/>
+      <point x="141" y="136"/>
+      <point x="115" y="121"/>
+      <point x="115" y="66" type="curve" smooth="yes"/>
+      <point x="115" y="10"/>
+      <point x="141" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>question</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>question</string>
+    </dict>
+  </lib>
+</glyph>

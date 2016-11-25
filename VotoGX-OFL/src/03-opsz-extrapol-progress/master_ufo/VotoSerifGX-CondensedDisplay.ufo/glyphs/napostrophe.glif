@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="516"/>
+  <unicode hex="0149"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="536" name="top"/>
+  <anchor x="515" y="536" name="topright"/>
+  <outline>
+    <component base="n" xOffset="92"/>
+    <component base="quoteright" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

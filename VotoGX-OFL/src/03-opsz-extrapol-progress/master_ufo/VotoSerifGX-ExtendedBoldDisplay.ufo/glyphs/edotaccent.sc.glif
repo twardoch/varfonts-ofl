@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.sc" format="2">
+  <advance width="703"/>
+  <anchor x="352" y="0" name="bottom"/>
+  <anchor x="352" y="864" name="top"/>
+  <anchor x="683" y="571" name="topright"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="dotaccentcomb.sc" xOffset="178" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

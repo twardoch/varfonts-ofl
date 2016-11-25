@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.sc" format="2">
+  <advance width="459"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="230" y="791" name="top"/>
+  <outline>
+    <component base="ae.sc"/>
+    <component base="acutecomb.sc" xOffset="167" yOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>

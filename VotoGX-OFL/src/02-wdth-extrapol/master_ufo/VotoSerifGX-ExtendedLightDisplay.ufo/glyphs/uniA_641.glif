@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA641" format="2">
+  <advance width="605"/>
+  <unicode hex="A641"/>
+  <outline>
+    <contour>
+      <point x="85" y="-188" type="curve"/>
+      <point x="85" y="-114"/>
+      <point x="103" y="-112"/>
+      <point x="130" y="-112" type="curve" smooth="yes"/>
+      <point x="210" y="-112"/>
+      <point x="312" y="-170"/>
+      <point x="422" y="-170" type="curve" smooth="yes"/>
+      <point x="514" y="-170"/>
+      <point x="560" y="-140"/>
+      <point x="560" y="-73" type="curve" smooth="yes"/>
+      <point x="560" y="-20"/>
+      <point x="529" y="15"/>
+      <point x="453" y="15" type="curve" smooth="yes"/>
+      <point x="111" y="15" type="line"/>
+      <point x="524" y="524" type="line"/>
+      <point x="524" y="536" type="line"/>
+      <point x="97" y="536" type="line"/>
+      <point x="89" y="420" type="line"/>
+      <point x="99" y="420" type="line"/>
+      <point x="101" y="452" type="line" smooth="yes"/>
+      <point x="104" y="507"/>
+      <point x="112" y="521"/>
+      <point x="164" y="521" type="curve" smooth="yes"/>
+      <point x="485" y="521" type="line"/>
+      <point x="76" y="12" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="437" y="0" type="line" smooth="yes"/>
+      <point x="520" y="0"/>
+      <point x="550" y="-28"/>
+      <point x="550" y="-74" type="curve" smooth="yes"/>
+      <point x="550" y="-130"/>
+      <point x="505" y="-156"/>
+      <point x="447" y="-156" type="curve" smooth="yes"/>
+      <point x="358" y="-156"/>
+      <point x="262" y="-96"/>
+      <point x="168" y="-96" type="curve" smooth="yes"/>
+      <point x="125" y="-96"/>
+      <point x="65" y="-102"/>
+      <point x="65" y="-165" type="curve" smooth="yes"/>
+      <point x="65" y="-185"/>
+      <point x="71" y="-188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/25 10:58:09</string>
+    </dict>
+  </lib>
+</glyph>
