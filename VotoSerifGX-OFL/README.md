@@ -28,7 +28,7 @@ The **Voto Serif GX** is a variable OpenType font based on [Noto Serif & Noto Se
 
 8. I tried building the fonts with Google’s [`fontmake`](https://github.com/googlei18n/fontmake/) toolchain. Currently, only the upright font can be built, and even that not fully — without any `GPOS`. `fontmake` fails when trying to merge `mark`, `mkmk` and `kern`, regardless of whether built using `feaLib` or `afdko` (I had to tweak `ufo2ft` to disable `autoFeatures` in order to build the fonts). This font presents a good test case for authors of tools that do `GPOS` table generation and blending for variable fonts.
 
-Despite the deficiencies, thanks to the wide range of `wdth` and `wght`, and the `opsz` axis, the font can serve as a good source of experiments.
+Despite the deficiencies, thanks to the wide range of `wdth` and `wght`, the `opsz` axis, and a large number of predefined instances, the font can serve as a good source of experiments. Note that the font does not yet contain the `MVAR` and `STAT` tables required by the OT 1.8 spec for variable fonts. 
 
 ### License
 
