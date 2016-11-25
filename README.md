@@ -18,3 +18,5 @@ Principally, these fonts can be built using [https://github.com/googlei18n/fontm
 ### License
 
 The fonts are licensed under the [SIL Open Font License version 1.1](./fonts.LICENSE). The tools and other content are licensed under the [Apache License version 2.0](./other.LICENSE).
+
+Copyright © 2016 by [Adam Twardoch](https://github.com/twardoch/) and the original authors. 
