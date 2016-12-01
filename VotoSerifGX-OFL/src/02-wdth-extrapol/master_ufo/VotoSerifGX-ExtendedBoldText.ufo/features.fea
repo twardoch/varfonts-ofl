@@ -110,7 +110,6 @@ sub afii10105 by afii10105dotless;
 } ccmp;
 
 feature aalt {
-feature ccmp;
 feature locl;
 feature subs;
 feature sups;
