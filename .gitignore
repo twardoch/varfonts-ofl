@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / Packaging
+*.egg-info
+*.eggs
+MANIFEST
+build
+dist
+
+# Unit test / coverage files
+.tox/*
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# OSX Finder
+.DS_Store
+
+# pyenv python configuration file
+.python-version
+
+# In-development files
+CheatGX-OFL/*
+VotoSerifGX-OFL/src/03-opsz-extrapol-progress/
