@@ -4,6 +4,8 @@
 
 The **Gotho** is an OpenType font family based on [Roboto](https://github.com/google/roboto/), subsetted to some 1160+ glyphs covering the Latin alphabet. Compared with Roboto, it includes a **wider range of widths**. 
 
+Some glyphs were redesigned, most notably the "l". 
+
 The variable OpenType font Gotho VF will be prepared later. 
 
 ### What’s included?
