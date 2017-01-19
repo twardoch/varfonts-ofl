@@ -16,9 +16,9 @@ The variable OpenType font Gotho VF will be prepared later.
 
 2. The `otf` folder has 63 styles in static OpenType PS (.otf) format.
 
-3. The `web-otf` folder has 63 OTF-based WOFF, WOFF2 and SVG files, as well as 63 TTF files and TTF-based EOT files.
+3. The `web-otf` folder has 63 OTF-based WOFF, WOFF2 and SVG files, as well as 63 TTF files and TTF-based EOT files. You can [view them here](https://twardoch.github.io/varfonts-ofl/GothoVF-Apache2/web-otf/index.html)
 
-4. The `web-ttf` folder has 63 TTF files and 63 TTF-based EOT, WOFF, WOFF2 and SVG files.
+4. The `web-ttf` folder has 63 TTF files and 63 TTF-based EOT, WOFF, WOFF2 and SVG files. You can [view them here](https://twardoch.github.io/varfonts-ofl/GothoVF-Apache2/web-ttf/index.html)
 
 ### License
 
