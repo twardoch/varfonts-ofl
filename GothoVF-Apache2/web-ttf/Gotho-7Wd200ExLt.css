@@ -1,0 +1,13 @@
+/* Webfont: Gotho-7Wd200ExLt */@font-face {
+    font-family: 'Gotho7Wd200ExLt';
+    src: url('Gotho-7Wd200ExLt.eot'); /* IE9 Compat Modes */
+    src: url('Gotho-7Wd200ExLt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Gotho-7Wd200ExLt.woff2') format('woff2'), /* Modern Browsers */
+         url('Gotho-7Wd200ExLt.woff') format('woff'), /* Modern Browsers */
+         url('Gotho-7Wd200ExLt.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Gotho-7Wd200ExLt.svg#Gotho-7Wd200ExLt') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
