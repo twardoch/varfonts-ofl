@@ -1,8 +1,8 @@
 # Variable OpenType test fonts
 
-## Gotho (Apache 2)
+## Groto (Apache 2)
 
-The **Gotho** is an OpenType font family based on [Roboto](https://github.com/google/roboto/), subsetted to some 1160+ glyphs covering the Latin alphabet. Compared with Roboto, it includes a **wider range of widths**. 
+The **Groto** is an OpenType font family based on [Roboto](https://github.com/google/roboto/), subsetted to some 1160+ glyphs covering the Latin alphabet. Compared with Roboto, it includes a **wider range of widths**. 
 
 Some glyphs were redesigned, most notably the "l". 
 

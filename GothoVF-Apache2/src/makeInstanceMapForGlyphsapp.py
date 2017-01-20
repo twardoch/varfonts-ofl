@@ -25,16 +25,18 @@ wghts = {
 }
 
 wdths = { 
-    70: ["2 ExCd", "Extra Condensed"], 
-    77: ["3 Cd", "Condensed"], 
-    84: ["4 SmCd", "SemiCondensed"], 
-    92: ["5 No", ""], 
-    100: ["6 SmWd", "Semi Expanded"], 
+    70: ["1 UlCd", "Ultra Condensed"], 
+    77: ["2 ExCd", "Extra Condensed"], 
+    84: ["3 Cd", "Condensed"], 
+    92: ["4 SmCd", "SemiCondensed"], 
+    100: ["5 No", ""], 
+    105: ["6 SmWd", "Semi Expanded"], 
     110: ["7 Wd", "Expanded"], 
-    120: ["8 ExWd", "Extra Expanded"], 
+    115: ["8 ExWd", "Extra Expanded"], 
+    120: ["9 UlWd", "Extra Expanded"], 
 }
 italics = { 
-    0: ["", "GothoVF"], 
+    0: ["", "Groto"], 
 } 
 
 italic = italics[0] # set 0 for upright, 1 for italic, then run
