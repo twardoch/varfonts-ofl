@@ -4,6 +4,19 @@
 
 These fonts are conversions of fonts published under the OFL into the OpenType TT (.ttf) format with OpenType Variation font variation tables (`gvar`, `fvar`), which allows “MultipleMaster”-like functionality aka responsive fonts. These fonts are intended for testing purposes, and do not fully conform to the OT 1.8 spec.
 
+## Available fonts
+
+### Gotho \[VF\] (Apache 2)
+
+* [specimen](https://twardoch.github.io/varfonts-ofl/GothoVF-Apache2/web-otf/demo.html)
+* [docs and downloads](https://github.com/twardoch/varfonts-ofl/tree/master/GothoVF-Apache2)
+
+### Voto Serif GX (OFL)
+
+* [docs and downloads](https://github.com/twardoch/varfonts-ofl/tree/master/VotoSerifGX-OFL)
+
+## Info
+
 ### Using
 
 The variation aspect is supported in Mac OS X, iOS, most recent versions of FreeType and in Microsoft Edge for Windows 10 AU. Specifically, they can be tested in the following environments:
@@ -17,6 +30,6 @@ Principally, these fonts can be built using [https://github.com/googlei18n/fontm
 
 ### License
 
-The fonts are licensed under the [SIL Open Font License version 1.1](./fonts.LICENSE). The tools and other content are licensed under the [Apache License version 2.0](./other.LICENSE).
+Most fonts are licensed under the [SIL Open Font License version 1.1](./fonts.LICENSE). Some fonts, all the tools and other content are licensed under the [Apache License version 2.0](./other.LICENSE).
 
 Copyright © 2016 by [Adam Twardoch](https://github.com/twardoch/) and the original authors.
