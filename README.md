@@ -6,14 +6,9 @@ These fonts are conversions of fonts published under the OFL into the OpenType T
 
 ## Available fonts
 
-### Gotho \[VF\] (Apache 2)
-
-* [specimen](https://twardoch.github.io/varfonts-ofl/GothoVF-Apache2/web-otf/demo.html)
-* [docs and downloads](https://github.com/twardoch/varfonts-ofl/tree/master/GothoVF-Apache2)
-
 ### Voto Serif GX (OFL)
 
-* [docs and downloads](https://github.com/twardoch/varfonts-ofl/tree/master/VotoSerifGX-OFL)
+* [docs and downloads](VotoSerifGX-OFL/)
 
 ## Info
 
@@ -32,4 +27,12 @@ Principally, these fonts can be built using [https://github.com/googlei18n/fontm
 
 Most fonts are licensed under the [SIL Open Font License version 1.1](./fonts.LICENSE). Some fonts, all the tools and other content are licensed under the [Apache License version 2.0](./other.LICENSE).
 
-Copyright © 2016 by [Adam Twardoch](https://github.com/twardoch/) and the original authors.
+Copyright © 2017 by [Adam Twardoch](https://github.com/twardoch/) and the original authors.
+
+### Fonts projects maintained by the author
+
+* [Variable OpenType test fonts (OFL)](https://github.com/twardoch/varfonts-ofl)
+* [Groto (Apache 2)](https://github.com/twardoch/groto-fonts-apache2)
+* [Schticks Text (OFL)](https://github.com/twardoch/schticks-fonts-ofl)
+* [Test fonts](https://github.com/twardoch/test-fonts)
+
