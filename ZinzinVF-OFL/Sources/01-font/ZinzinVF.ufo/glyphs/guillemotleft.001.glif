@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft.001" format="1">
+  <advance width="425"/>
+  <outline>
+    <contour>
+      <point x="223" y="485" type="line"/>
+      <point x="194" y="410"/>
+      <point x="154" y="346"/>
+      <point x="105" y="292" type="curve"/>
+      <point x="155" y="236"/>
+      <point x="194" y="170"/>
+      <point x="224" y="95" type="curve"/>
+      <point x="215" y="90" type="line"/>
+      <point x="162" y="173"/>
+      <point x="108" y="234"/>
+      <point x="40" y="292" type="curve"/>
+      <point x="108" y="348"/>
+      <point x="161" y="400"/>
+      <point x="215" y="490" type="curve"/>
+    </contour>
+    <contour>
+      <point x="385" y="485" type="line"/>
+      <point x="356" y="410"/>
+      <point x="316" y="346"/>
+      <point x="267" y="292" type="curve"/>
+      <point x="317" y="236"/>
+      <point x="356" y="170"/>
+      <point x="386" y="95" type="curve"/>
+      <point x="377" y="90" type="line"/>
+      <point x="324" y="173"/>
+      <point x="270" y="234"/>
+      <point x="202" y="292" type="curve"/>
+      <point x="270" y="348"/>
+      <point x="323" y="400"/>
+      <point x="377" y="490" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.666</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.9">
+
+  <prep>
+    <assembly>
+      PUSHW[ ]	/* 1 value pushed */
+      0
+      CALL[ ]	/* CallFunction */
+      SVTCA[0]	/* SetFPVectorToAxis */
+      PUSHW[ ]	/* 3 values pushed */
+      1 1 2
+      CALL[ ]	/* CallFunction */
+      SVTCA[1]	/* SetFPVectorToAxis */
+      PUSHW[ ]	/* 3 values pushed */
+      2 1 2
+      CALL[ ]	/* CallFunction */
+      SVTCA[1]	/* SetFPVectorToAxis */
+      PUSHW[ ]	/* 8 values pushed */
+      2 85 70 54 39 24 0 8
+      CALL[ ]	/* CallFunction */
+      SVTCA[0]	/* SetFPVectorToAxis */
+      PUSHW[ ]	/* 8 values pushed */
+      1 184 150 117 84 50 0 8
+      CALL[ ]	/* CallFunction */
+      SVTCA[0]	/* SetFPVectorToAxis */
+      PUSHW[ ]	/* 3 values pushed */
+      3 2 7
+      CALL[ ]	/* CallFunction */
+      PUSHW[ ]	/* 1 value pushed */
+      0
+      DUP[ ]	/* DuplicateTopStack */
+      RCVT[ ]	/* ReadCVT */
+      RDTG[ ]	/* RoundDownToGrid */
+      ROUND[01]	/* Round */
+      RTG[ ]	/* RoundToGrid */
+      WCVTP[ ]	/* WriteCVTInPixels */
+    </assembly>
+  </prep>
+
+</ttFont>

@@ -1,0 +1,3204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.9">
+
+  <GSUB>
+    <Version value="0x00010001"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="swsh"/>
+        <Feature>
+          <!-- LookupCount=350 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="3"/>
+          <LookupListIndex index="4" value="4"/>
+          <LookupListIndex index="5" value="5"/>
+          <LookupListIndex index="6" value="6"/>
+          <LookupListIndex index="7" value="7"/>
+          <LookupListIndex index="8" value="8"/>
+          <LookupListIndex index="9" value="9"/>
+          <LookupListIndex index="10" value="10"/>
+          <LookupListIndex index="11" value="11"/>
+          <LookupListIndex index="12" value="12"/>
+          <LookupListIndex index="13" value="13"/>
+          <LookupListIndex index="14" value="14"/>
+          <LookupListIndex index="15" value="15"/>
+          <LookupListIndex index="16" value="16"/>
+          <LookupListIndex index="17" value="17"/>
+          <LookupListIndex index="18" value="18"/>
+          <LookupListIndex index="19" value="19"/>
+          <LookupListIndex index="20" value="20"/>
+          <LookupListIndex index="21" value="21"/>
+          <LookupListIndex index="22" value="22"/>
+          <LookupListIndex index="23" value="23"/>
+          <LookupListIndex index="24" value="24"/>
+          <LookupListIndex index="25" value="25"/>
+          <LookupListIndex index="26" value="26"/>
+          <LookupListIndex index="27" value="27"/>
+          <LookupListIndex index="28" value="28"/>
+          <LookupListIndex index="29" value="29"/>
+          <LookupListIndex index="30" value="30"/>
+          <LookupListIndex index="31" value="31"/>
+          <LookupListIndex index="32" value="32"/>
+          <LookupListIndex index="33" value="33"/>
+          <LookupListIndex index="34" value="34"/>
+          <LookupListIndex index="35" value="35"/>
+          <LookupListIndex index="36" value="36"/>
+          <LookupListIndex index="37" value="37"/>
+          <LookupListIndex index="38" value="38"/>
+          <LookupListIndex index="39" value="39"/>
+          <LookupListIndex index="40" value="40"/>
+          <LookupListIndex index="41" value="41"/>
+          <LookupListIndex index="42" value="42"/>
+          <LookupListIndex index="43" value="43"/>
+          <LookupListIndex index="44" value="44"/>
+          <LookupListIndex index="45" value="45"/>
+          <LookupListIndex index="46" value="46"/>
+          <LookupListIndex index="47" value="47"/>
+          <LookupListIndex index="48" value="48"/>
+          <LookupListIndex index="49" value="49"/>
+          <LookupListIndex index="50" value="50"/>
+          <LookupListIndex index="51" value="51"/>
+          <LookupListIndex index="52" value="52"/>
+          <LookupListIndex index="53" value="53"/>
+          <LookupListIndex index="54" value="54"/>
+          <LookupListIndex index="55" value="55"/>
+          <LookupListIndex index="56" value="56"/>
+          <LookupListIndex index="57" value="57"/>
+          <LookupListIndex index="58" value="58"/>
+          <LookupListIndex index="59" value="59"/>
+          <LookupListIndex index="60" value="60"/>
+          <LookupListIndex index="61" value="61"/>
+          <LookupListIndex index="62" value="62"/>
+          <LookupListIndex index="63" value="63"/>
+          <LookupListIndex index="64" value="64"/>
+          <LookupListIndex index="65" value="65"/>
+          <LookupListIndex index="66" value="66"/>
+          <LookupListIndex index="67" value="67"/>
+          <LookupListIndex index="68" value="68"/>
+          <LookupListIndex index="69" value="69"/>
+          <LookupListIndex index="70" value="70"/>
+          <LookupListIndex index="71" value="71"/>
+          <LookupListIndex index="72" value="72"/>
+          <LookupListIndex index="73" value="73"/>
+          <LookupListIndex index="74" value="74"/>
+          <LookupListIndex index="75" value="75"/>
+          <LookupListIndex index="76" value="76"/>
+          <LookupListIndex index="77" value="77"/>
+          <LookupListIndex index="78" value="78"/>
+          <LookupListIndex index="79" value="79"/>
+          <LookupListIndex index="80" value="80"/>
+          <LookupListIndex index="81" value="81"/>
+          <LookupListIndex index="82" value="82"/>
+          <LookupListIndex index="83" value="83"/>
+          <LookupListIndex index="84" value="84"/>
+          <LookupListIndex index="85" value="85"/>
+          <LookupListIndex index="86" value="86"/>
+          <LookupListIndex index="87" value="87"/>
+          <LookupListIndex index="88" value="88"/>
+          <LookupListIndex index="89" value="89"/>
+          <LookupListIndex index="90" value="90"/>
+          <LookupListIndex index="91" value="91"/>
+          <LookupListIndex index="92" value="92"/>
+          <LookupListIndex index="93" value="93"/>
+          <LookupListIndex index="94" value="94"/>
+          <LookupListIndex index="95" value="95"/>
+          <LookupListIndex index="96" value="96"/>
+          <LookupListIndex index="97" value="97"/>
+          <LookupListIndex index="98" value="98"/>
+          <LookupListIndex index="99" value="99"/>
+          <LookupListIndex index="100" value="100"/>
+          <LookupListIndex index="101" value="101"/>
+          <LookupListIndex index="102" value="102"/>
+          <LookupListIndex index="103" value="103"/>
+          <LookupListIndex index="104" value="104"/>
+          <LookupListIndex index="105" value="105"/>
+          <LookupListIndex index="106" value="106"/>
+          <LookupListIndex index="107" value="107"/>
+          <LookupListIndex index="108" value="108"/>
+          <LookupListIndex index="109" value="109"/>
+          <LookupListIndex index="110" value="110"/>
+          <LookupListIndex index="111" value="111"/>
+          <LookupListIndex index="112" value="112"/>
+          <LookupListIndex index="113" value="113"/>
+          <LookupListIndex index="114" value="114"/>
+          <LookupListIndex index="115" value="115"/>
+          <LookupListIndex index="116" value="116"/>
+          <LookupListIndex index="117" value="117"/>
+          <LookupListIndex index="118" value="118"/>
+          <LookupListIndex index="119" value="119"/>
+          <LookupListIndex index="120" value="120"/>
+          <LookupListIndex index="121" value="121"/>
+          <LookupListIndex index="122" value="122"/>
+          <LookupListIndex index="123" value="123"/>
+          <LookupListIndex index="124" value="124"/>
+          <LookupListIndex index="125" value="125"/>
+          <LookupListIndex index="126" value="126"/>
+          <LookupListIndex index="127" value="127"/>
+          <LookupListIndex index="128" value="128"/>
+          <LookupListIndex index="129" value="129"/>
+          <LookupListIndex index="130" value="130"/>
+          <LookupListIndex index="131" value="131"/>
+          <LookupListIndex index="132" value="132"/>
+          <LookupListIndex index="133" value="133"/>
+          <LookupListIndex index="134" value="134"/>
+          <LookupListIndex index="135" value="135"/>
+          <LookupListIndex index="136" value="136"/>
+          <LookupListIndex index="137" value="137"/>
+          <LookupListIndex index="138" value="138"/>
+          <LookupListIndex index="139" value="139"/>
+          <LookupListIndex index="140" value="140"/>
+          <LookupListIndex index="141" value="141"/>
+          <LookupListIndex index="142" value="142"/>
+          <LookupListIndex index="143" value="143"/>
+          <LookupListIndex index="144" value="144"/>
+          <LookupListIndex index="145" value="145"/>
+          <LookupListIndex index="146" value="146"/>
+          <LookupListIndex index="147" value="147"/>
+          <LookupListIndex index="148" value="148"/>
+          <LookupListIndex index="149" value="149"/>
+          <LookupListIndex index="150" value="150"/>
+          <LookupListIndex index="151" value="151"/>
+          <LookupListIndex index="152" value="152"/>
+          <LookupListIndex index="153" value="153"/>
+          <LookupListIndex index="154" value="154"/>
+          <LookupListIndex index="155" value="155"/>
+          <LookupListIndex index="156" value="156"/>
+          <LookupListIndex index="157" value="157"/>
+          <LookupListIndex index="158" value="158"/>
+          <LookupListIndex index="159" value="159"/>
+          <LookupListIndex index="160" value="160"/>
+          <LookupListIndex index="161" value="161"/>
+          <LookupListIndex index="162" value="162"/>
+          <LookupListIndex index="163" value="163"/>
+          <LookupListIndex index="164" value="164"/>
+          <LookupListIndex index="165" value="165"/>
+          <LookupListIndex index="166" value="166"/>
+          <LookupListIndex index="167" value="167"/>
+          <LookupListIndex index="168" value="168"/>
+          <LookupListIndex index="169" value="169"/>
+          <LookupListIndex index="170" value="170"/>
+          <LookupListIndex index="171" value="171"/>
+          <LookupListIndex index="172" value="172"/>
+          <LookupListIndex index="173" value="173"/>
+          <LookupListIndex index="174" value="174"/>
+          <LookupListIndex index="175" value="175"/>
+          <LookupListIndex index="176" value="176"/>
+          <LookupListIndex index="177" value="177"/>
+          <LookupListIndex index="178" value="178"/>
+          <LookupListIndex index="179" value="179"/>
+          <LookupListIndex index="180" value="180"/>
+          <LookupListIndex index="181" value="181"/>
+          <LookupListIndex index="182" value="182"/>
+          <LookupListIndex index="183" value="183"/>
+          <LookupListIndex index="184" value="184"/>
+          <LookupListIndex index="185" value="185"/>
+          <LookupListIndex index="186" value="186"/>
+          <LookupListIndex index="187" value="187"/>
+          <LookupListIndex index="188" value="188"/>
+          <LookupListIndex index="189" value="189"/>
+          <LookupListIndex index="190" value="190"/>
+          <LookupListIndex index="191" value="191"/>
+          <LookupListIndex index="192" value="192"/>
+          <LookupListIndex index="193" value="193"/>
+          <LookupListIndex index="194" value="194"/>
+          <LookupListIndex index="195" value="195"/>
+          <LookupListIndex index="196" value="196"/>
+          <LookupListIndex index="197" value="197"/>
+          <LookupListIndex index="198" value="198"/>
+          <LookupListIndex index="199" value="199"/>
+          <LookupListIndex index="200" value="200"/>
+          <LookupListIndex index="201" value="201"/>
+          <LookupListIndex index="202" value="202"/>
+          <LookupListIndex index="203" value="203"/>
+          <LookupListIndex index="204" value="204"/>
+          <LookupListIndex index="205" value="205"/>
+          <LookupListIndex index="206" value="206"/>
+          <LookupListIndex index="207" value="207"/>
+          <LookupListIndex index="208" value="208"/>
+          <LookupListIndex index="209" value="209"/>
+          <LookupListIndex index="210" value="210"/>
+          <LookupListIndex index="211" value="211"/>
+          <LookupListIndex index="212" value="212"/>
+          <LookupListIndex index="213" value="213"/>
+          <LookupListIndex index="214" value="214"/>
+          <LookupListIndex index="215" value="215"/>
+          <LookupListIndex index="216" value="216"/>
+          <LookupListIndex index="217" value="217"/>
+          <LookupListIndex index="218" value="218"/>
+          <LookupListIndex index="219" value="219"/>
+          <LookupListIndex index="220" value="220"/>
+          <LookupListIndex index="221" value="221"/>
+          <LookupListIndex index="222" value="222"/>
+          <LookupListIndex index="223" value="223"/>
+          <LookupListIndex index="224" value="224"/>
+          <LookupListIndex index="225" value="225"/>
+          <LookupListIndex index="226" value="226"/>
+          <LookupListIndex index="227" value="227"/>
+          <LookupListIndex index="228" value="228"/>
+          <LookupListIndex index="229" value="229"/>
+          <LookupListIndex index="230" value="230"/>
+          <LookupListIndex index="231" value="231"/>
+          <LookupListIndex index="232" value="232"/>
+          <LookupListIndex index="233" value="233"/>
+          <LookupListIndex index="234" value="234"/>
+          <LookupListIndex index="235" value="235"/>
+          <LookupListIndex index="236" value="236"/>
+          <LookupListIndex index="237" value="237"/>
+          <LookupListIndex index="238" value="238"/>
+          <LookupListIndex index="239" value="239"/>
+          <LookupListIndex index="240" value="240"/>
+          <LookupListIndex index="241" value="241"/>
+          <LookupListIndex index="242" value="242"/>
+          <LookupListIndex index="243" value="243"/>
+          <LookupListIndex index="244" value="244"/>
+          <LookupListIndex index="245" value="245"/>
+          <LookupListIndex index="246" value="246"/>
+          <LookupListIndex index="247" value="247"/>
+          <LookupListIndex index="248" value="248"/>
+          <LookupListIndex index="249" value="249"/>
+          <LookupListIndex index="250" value="250"/>
+          <LookupListIndex index="251" value="251"/>
+          <LookupListIndex index="252" value="252"/>
+          <LookupListIndex index="253" value="253"/>
+          <LookupListIndex index="254" value="254"/>
+          <LookupListIndex index="255" value="255"/>
+          <LookupListIndex index="256" value="256"/>
+          <LookupListIndex index="257" value="257"/>
+          <LookupListIndex index="258" value="258"/>
+          <LookupListIndex index="259" value="259"/>
+          <LookupListIndex index="260" value="260"/>
+          <LookupListIndex index="261" value="261"/>
+          <LookupListIndex index="262" value="262"/>
+          <LookupListIndex index="263" value="263"/>
+          <LookupListIndex index="264" value="264"/>
+          <LookupListIndex index="265" value="265"/>
+          <LookupListIndex index="266" value="266"/>
+          <LookupListIndex index="267" value="267"/>
+          <LookupListIndex index="268" value="268"/>
+          <LookupListIndex index="269" value="269"/>
+          <LookupListIndex index="270" value="270"/>
+          <LookupListIndex index="271" value="271"/>
+          <LookupListIndex index="272" value="272"/>
+          <LookupListIndex index="273" value="273"/>
+          <LookupListIndex index="274" value="274"/>
+          <LookupListIndex index="275" value="275"/>
+          <LookupListIndex index="276" value="276"/>
+          <LookupListIndex index="277" value="277"/>
+          <LookupListIndex index="278" value="278"/>
+          <LookupListIndex index="279" value="279"/>
+          <LookupListIndex index="280" value="280"/>
+          <LookupListIndex index="281" value="281"/>
+          <LookupListIndex index="282" value="282"/>
+          <LookupListIndex index="283" value="283"/>
+          <LookupListIndex index="284" value="284"/>
+          <LookupListIndex index="285" value="285"/>
+          <LookupListIndex index="286" value="286"/>
+          <LookupListIndex index="287" value="287"/>
+          <LookupListIndex index="288" value="288"/>
+          <LookupListIndex index="289" value="289"/>
+          <LookupListIndex index="290" value="290"/>
+          <LookupListIndex index="291" value="291"/>
+          <LookupListIndex index="292" value="292"/>
+          <LookupListIndex index="293" value="293"/>
+          <LookupListIndex index="294" value="294"/>
+          <LookupListIndex index="295" value="295"/>
+          <LookupListIndex index="296" value="296"/>
+          <LookupListIndex index="297" value="297"/>
+          <LookupListIndex index="298" value="298"/>
+          <LookupListIndex index="299" value="299"/>
+          <LookupListIndex index="300" value="300"/>
+          <LookupListIndex index="301" value="301"/>
+          <LookupListIndex index="302" value="302"/>
+          <LookupListIndex index="303" value="303"/>
+          <LookupListIndex index="304" value="304"/>
+          <LookupListIndex index="305" value="305"/>
+          <LookupListIndex index="306" value="306"/>
+          <LookupListIndex index="307" value="307"/>
+          <LookupListIndex index="308" value="308"/>
+          <LookupListIndex index="309" value="309"/>
+          <LookupListIndex index="310" value="310"/>
+          <LookupListIndex index="311" value="311"/>
+          <LookupListIndex index="312" value="312"/>
+          <LookupListIndex index="313" value="313"/>
+          <LookupListIndex index="314" value="314"/>
+          <LookupListIndex index="315" value="315"/>
+          <LookupListIndex index="316" value="316"/>
+          <LookupListIndex index="317" value="317"/>
+          <LookupListIndex index="318" value="318"/>
+          <LookupListIndex index="319" value="319"/>
+          <LookupListIndex index="320" value="320"/>
+          <LookupListIndex index="321" value="321"/>
+          <LookupListIndex index="322" value="322"/>
+          <LookupListIndex index="323" value="323"/>
+          <LookupListIndex index="324" value="324"/>
+          <LookupListIndex index="325" value="325"/>
+          <LookupListIndex index="326" value="326"/>
+          <LookupListIndex index="327" value="327"/>
+          <LookupListIndex index="328" value="328"/>
+          <LookupListIndex index="329" value="329"/>
+          <LookupListIndex index="330" value="330"/>
+          <LookupListIndex index="331" value="331"/>
+          <LookupListIndex index="332" value="332"/>
+          <LookupListIndex index="333" value="333"/>
+          <LookupListIndex index="334" value="334"/>
+          <LookupListIndex index="335" value="335"/>
+          <LookupListIndex index="336" value="336"/>
+          <LookupListIndex index="337" value="337"/>
+          <LookupListIndex index="338" value="338"/>
+          <LookupListIndex index="339" value="339"/>
+          <LookupListIndex index="340" value="340"/>
+          <LookupListIndex index="341" value="341"/>
+          <LookupListIndex index="342" value="342"/>
+          <LookupListIndex index="343" value="343"/>
+          <LookupListIndex index="344" value="344"/>
+          <LookupListIndex index="345" value="345"/>
+          <LookupListIndex index="346" value="346"/>
+          <LookupListIndex index="347" value="347"/>
+          <LookupListIndex index="348" value="348"/>
+          <LookupListIndex index="349" value="349"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="rvrn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=350 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="A" out="A.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="AE" out="AE.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Aacute" out="Aacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Abreve" out="Abreve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Acircumflex" out="Acircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Adieresis" out="Adieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Agrave" out="Agrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Amacron" out="Amacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Aogonek" out="Aogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Aring" out="Aring.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Atilde" out="Atilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="B" out="B.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="C" out="C.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Cacute" out="Cacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ccaron" out="Ccaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ccedilla" out="Ccedilla.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Cdotaccent" out="Cdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="D" out="D.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Dcaron" out="Dcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="19">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Dcroat" out="Dcroat.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="20">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0394" out="uni0394.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="21">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="E" out="E.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="22">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Eacute" out="Eacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="23">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ecaron" out="Ecaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ecircumflex" out="Ecircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="25">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Edieresis" out="Edieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="26">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Edotaccent" out="Edotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="27">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Egrave" out="Egrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="28">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Emacron" out="Emacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="29">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Eng" out="Eng.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="30">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Eogonek" out="Eogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="31">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Eth" out="Eth.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="32">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Euro" out="Euro.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="33">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="F" out="F.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="34">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="G" out="G.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="35">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Gbreve" out="Gbreve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="36">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0122" out="uni0122.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="37">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Gdotaccent" out="Gdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="38">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="H" out="H.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="39">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Hbar" out="Hbar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="40">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="I" out="I.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="41">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="IJ" out="IJ.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="42">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Iacute" out="Iacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="43">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Icircumflex" out="Icircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="44">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Idieresis" out="Idieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="45">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Idotaccent" out="Idotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="46">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Igrave" out="Igrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="47">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Imacron" out="Imacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="48">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Iogonek" out="Iogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="49">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="J" out="J.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="50">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="K" out="K.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="51">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0136" out="uni0136.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="52">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="L" out="L.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="53">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Lacute" out="Lacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="54">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Lcaron" out="Lcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="55">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni013B" out="uni013B.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="56">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ldot" out="Ldot.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="57">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Lslash" out="Lslash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="58">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="M" out="M.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="59">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="N" out="N.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="60">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Nacute" out="Nacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="61">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ncaron" out="Ncaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="62">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0145" out="uni0145.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="63">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ntilde" out="Ntilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="64">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="O" out="O.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="65">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="OE" out="OE.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="66">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Oacute" out="Oacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="67">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ocircumflex" out="Ocircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="68">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Odieresis" out="Odieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="69">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ograve" out="Ograve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="70">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ohungarumlaut" out="Ohungarumlaut.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="71">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Omacron" out="Omacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="72">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni03A9" out="uni03A9.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="73">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Oslash" out="Oslash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="74">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Otilde" out="Otilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="75">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="P" out="P.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="76">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Q" out="Q.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="77">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="R" out="R.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="78">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Racute" out="Racute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="79">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Rcaron" out="Rcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="80">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0156" out="uni0156.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="81">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="S" out="S.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="82">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Sacute" out="Sacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="83">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Scaron" out="Scaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="84">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Scedilla" out="Scedilla.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="85">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0218" out="uni0218.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="86">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="T" out="T.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="87">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Tbar" out="Tbar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="88">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Tcaron" out="Tcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="89">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0162" out="uni0162.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="90">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Thorn" out="Thorn.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="91">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="U" out="U.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="92">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Uacute" out="Uacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="93">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ucircumflex" out="Ucircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="94">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Udieresis" out="Udieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="95">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ugrave" out="Ugrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="96">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Uhungarumlaut" out="Uhungarumlaut.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="97">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Umacron" out="Umacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="98">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Uogonek" out="Uogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="99">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Uring" out="Uring.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="100">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="V" out="V.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="101">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="W" out="W.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="102">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Wacute" out="Wacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="103">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Wcircumflex" out="Wcircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="104">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Wdieresis" out="Wdieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="105">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Wgrave" out="Wgrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="106">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="X" out="X.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="107">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Y" out="Y.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="108">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Yacute" out="Yacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="109">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ycircumflex" out="Ycircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="110">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ydieresis" out="Ydieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="111">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Ygrave" out="Ygrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="112">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Z" out="Z.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="113">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Zacute" out="Zacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="114">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Zcaron" out="Zcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="115">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Zdotaccent" out="Zdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="116">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="a" out="a.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="117">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="aacute" out="aacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="118">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="abreve" out="abreve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="119">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="acircumflex" out="acircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="120">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="acute" out="acute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="121">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="adieresis" out="adieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="122">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ae" out="ae.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="123">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="agrave" out="agrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="124">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="amacron" out="amacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="125">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ampersand" out="ampersand.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="126">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="aogonek" out="aogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="127">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="approxequal" out="approxequal.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="128">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="aring" out="aring.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="129">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="asciicircum" out="asciicircum.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="130">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="asciitilde" out="asciitilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="131">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="asterisk" out="asterisk.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="132">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="at" out="at.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="133">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="atilde" out="atilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="134">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="b" out="b.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="135">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="backslash" out="backslash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="136">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="bar" out="bar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="137">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="braceleft" out="braceleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="138">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="braceright" out="braceright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="139">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="bracketleft" out="bracketleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="140">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="bracketright" out="bracketright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="141">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="breve" out="breve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="142">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="brokenbar" out="brokenbar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="143">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="bullet" out="bullet.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="144">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="c" out="c.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="145">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="cacute" out="cacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="146">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="caron" out="caron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="147">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ccaron" out="ccaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="148">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ccedilla" out="ccedilla.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="149">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="cdotaccent" out="cdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="150">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="cedilla" out="cedilla.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="151">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="cent" out="cent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="152">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="circumflex" out="circumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="153">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="colon" out="colon.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="154">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="comma" out="comma.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="155">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0326" out="uni0326.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="156">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="copyright" out="copyright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="157">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="currency" out="currency.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="158">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="d" out="d.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="159">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dagger" out="dagger.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="160">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="daggerdbl" out="daggerdbl.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="161">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dcaron" out="dcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="162">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dcroat" out="dcroat.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="163">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="degree" out="degree.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="164">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dieresis" out="dieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="165">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="divide" out="divide.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="166">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dollar" out="dollar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="167">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dotaccent" out="dotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="168">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="dotlessi" out="dotlessi.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="169">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="e" out="e.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="170">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eacute" out="eacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="171">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ecaron" out="ecaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="172">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ecircumflex" out="ecircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="173">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="edieresis" out="edieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="174">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="edotaccent" out="edotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="175">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="egrave" out="egrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="176">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="177">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ellipsis" out="ellipsis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="178">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="emacron" out="emacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="179">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="emdash" out="emdash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="180">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="endash" out="endash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="181">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eng" out="eng.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="182">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eogonek" out="eogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="183">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="equal" out="equal.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="184">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eth" out="eth.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="185">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="exclam" out="exclam.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="186">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="exclamdown" out="exclamdown.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="187">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="f" out="f.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="188">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="fi" out="fi.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="189">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="five" out="five.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="190">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="fl" out="fl.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="191">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="florin" out="florin.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="192">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="four" out="four.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="193">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="fraction" out="fraction.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="194">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="g" out="g.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="195">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="gbreve" out="gbreve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="196">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0123" out="uni0123.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="197">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="gdotaccent" out="gdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="198">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="germandbls" out="germandbls.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="199">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="grave" out="grave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="200">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="greater" out="greater.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="201">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="greaterequal" out="greaterequal.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="202">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="guillemotleft" out="guillemotleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="203">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="guillemotright" out="guillemotright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="204">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="guilsinglleft" out="guilsinglleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="205">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="guilsinglright" out="guilsinglright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="206">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="h" out="h.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="207">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="hbar" out="hbar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="208">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="hungarumlaut" out="hungarumlaut.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="209">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="hyphen" out="hyphen.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="210">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="i" out="i.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="211">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="iacute" out="iacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="212">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="icircumflex" out="icircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="213">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="idieresis" out="idieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="214">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="igrave" out="igrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="215">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ij" out="ij.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="216">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="imacron" out="imacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="217">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="infinity" out="infinity.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="218">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="integral" out="integral.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="219">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="iogonek" out="iogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="220">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="j" out="j.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="221">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="k" out="k.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="222">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0137" out="uni0137.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="223">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="l" out="l.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="224">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="lacute" out="lacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="225">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="lcaron" out="lcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="226">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni013C" out="uni013C.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="227">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ldot" out="ldot.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="228">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="less" out="less.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="229">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="lessequal" out="lessequal.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="230">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="logicalnot" out="logicalnot.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="231">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="lozenge" out="lozenge.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="232">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="lslash" out="lslash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="233">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="m" out="m.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="234">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="macron" out="macron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="235">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="minus" out="minus.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="236">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni03BC" out="uni03BC.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="237">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="multiply" out="multiply.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="238">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="n" out="n.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="239">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="nacute" out="nacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="240">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ncaron" out="ncaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="241">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0146" out="uni0146.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="242">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="nine" out="nine.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="243">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="notequal" out="notequal.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="244">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ntilde" out="ntilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="245">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="numbersign" out="numbersign.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="246">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="o" out="o.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="247">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="oacute" out="oacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="248">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ocircumflex" out="ocircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="249">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="odieresis" out="odieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="250">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="oe" out="oe.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="251">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ogonek" out="ogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="252">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ograve" out="ograve.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="253">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ohungarumlaut" out="ohungarumlaut.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="254">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="omacron" out="omacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="255">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="one" out="one.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="256">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="onehalf" out="onehalf.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="257">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="onequarter" out="onequarter.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="258">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="onesuperior" out="onesuperior.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="259">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ordfeminine" out="ordfeminine.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="260">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ordmasculine" out="ordmasculine.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="261">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="oslash" out="oslash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="262">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="otilde" out="otilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="263">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="p" out="p.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="264">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="paragraph" out="paragraph.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="265">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="parenleft" out="parenleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="266">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="parenright" out="parenright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="267">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="partialdiff" out="partialdiff.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="268">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="percent" out="percent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="269">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="period" out="period.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="270">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="periodcentered" out="periodcentered.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="271">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="perthousand" out="perthousand.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="272">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="pi" out="pi.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="273">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="plus" out="plus.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="274">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="plusminus" out="plusminus.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="275">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="product" out="product.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="276">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="q" out="q.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="277">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="question" out="question.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="278">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="questiondown" out="questiondown.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="279">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotedbl" out="quotedbl.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="280">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotedblbase" out="quotedblbase.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="281">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotedblleft" out="quotedblleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="282">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotedblright" out="quotedblright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="283">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quoteleft" out="quoteleft.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="284">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quoteright" out="quoteright.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="285">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotesinglbase" out="quotesinglbase.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="286">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="quotesingle" out="quotesingle.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="287">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="r" out="r.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="288">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="racute" out="racute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="289">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="radical" out="radical.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="290">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="rcaron" out="rcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="291">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0157" out="uni0157.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="292">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="registered" out="registered.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="293">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ring" out="ring.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="294">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="s" out="s.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="295">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="sacute" out="sacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="296">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="scaron" out="scaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="297">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="scedilla" out="scedilla.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="298">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0219" out="uni0219.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="299">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="section" out="section.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="300">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="semicolon" out="semicolon.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="301">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="seven" out="seven.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="302">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="six" out="six.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="303">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="slash" out="slash.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="304">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni00AD" out="uni00AD.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="305">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="space" out="space.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="306">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="sterling" out="sterling.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="307">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="summation" out="summation.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="308">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="t" out="t.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="309">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="tbar" out="tbar.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="310">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="tcaron" out="tcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="311">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0163" out="uni0163.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="312">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="thorn" out="thorn.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="313">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="three" out="three.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="314">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="threequarters" out="threequarters.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="315">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="threesuperior" out="threesuperior.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="316">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="tilde" out="tilde.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="317">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="trademark" out="trademark.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="318">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="two" out="two.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="319">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="twosuperior" out="twosuperior.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="320">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="u" out="u.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="321">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uacute" out="uacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="322">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ucircumflex" out="ucircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="323">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="udieresis" out="udieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="324">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ugrave" out="ugrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="325">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uhungarumlaut" out="uhungarumlaut.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="326">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="umacron" out="umacron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="327">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="underscore" out="underscore.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="328">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni021A" out="uni021A.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="329">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni021B" out="uni021B.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="330">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uogonek" out="uogonek.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="331">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uring" out="uring.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="332">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="v" out="v.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="333">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="w" out="w.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="334">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="wacute" out="wacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="335">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="wcircumflex" out="wcircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="336">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="wdieresis" out="wdieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="337">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="wgrave" out="wgrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="338">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="x" out="x.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="339">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="y" out="y.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="340">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="yacute" out="yacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="341">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ycircumflex" out="ycircumflex.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="342">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ydieresis" out="ydieresis.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="343">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="yen" out="yen.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="344">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ygrave" out="ygrave.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="345">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="z" out="z.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="346">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="zacute" out="zacute.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="347">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="zcaron" out="zcaron.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="348">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="zdotaccent" out="zdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="349">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="zero" out="zero.001"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+
+    <FeatureVariations>
+      <Version value="0x00010000"/>

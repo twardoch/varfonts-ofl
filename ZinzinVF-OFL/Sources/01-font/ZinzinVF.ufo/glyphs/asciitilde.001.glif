@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde.001" format="1">
+  <advance width="493"/>
+  <outline>
+    <contour>
+      <point x="408" y="353" type="line"/>
+      <point x="428" y="292"/>
+      <point x="388" y="257"/>
+      <point x="346" y="259" type="curve" smooth="yes"/>
+      <point x="294" y="260"/>
+      <point x="210" y="359"/>
+      <point x="140" y="358" type="curve" smooth="yes"/>
+      <point x="78" y="356"/>
+      <point x="23" y="312"/>
+      <point x="40" y="219" type="curve"/>
+      <point x="85" y="219" type="line"/>
+      <point x="73" y="287"/>
+      <point x="103" y="314"/>
+      <point x="140" y="313" type="curve" smooth="yes"/>
+      <point x="200" y="310"/>
+      <point x="276" y="214"/>
+      <point x="346" y="214" type="curve" smooth="yes"/>
+      <point x="412" y="214"/>
+      <point x="476" y="256"/>
+      <point x="453" y="353" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.666</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

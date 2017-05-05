@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge.001" format="1">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="481" y="350" type="line"/>
+      <point x="259" y="-14" type="line"/>
+      <point x="50" y="350" type="line"/>
+      <point x="259" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="350" type="line"/>
+      <point x="259" y="55" type="line"/>
+      <point x="438" y="350" type="line"/>
+      <point x="259" y="645" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.666</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

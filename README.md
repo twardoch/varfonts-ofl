@@ -36,3 +36,13 @@ Copyright © 2017 by [Adam Twardoch](https://github.com/twardoch/) and the origi
 * [Schticks Text (OFL)](https://github.com/twardoch/schticks-fonts-ofl)
 * [Test fonts](https://github.com/twardoch/test-fonts)
 
+### Other variable fonts
+
+* https://github.com/RoelN/Color-Variable-Emoji
+* https://github.com/djrrb/Boxis
+* https://github.com/alif-type/mada
+* https://github.com/TypeNetwork/fb-Decovar
+* https://github.com/TypeNetwork/fb-Amstelvar
+* https://github.com/jonpinhorn/atithi
+* https://github.com/Omnibus-Type/Asap
+* 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="336"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="137" y="600" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="64" type="line"/>
+      <point x="136" y="34"/>
+      <point x="106" y="10"/>
+      <point x="69" y="10" type="curve" smooth="yes"/>
+      <point x="69" y="10"/>
+      <point x="55" y="10"/>
+      <point x="55" y="10" type="curve"/>
+      <point x="55" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="64" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="281" y="10" type="line"/>
+      <point x="281" y="10"/>
+      <point x="268" y="10"/>
+      <point x="268" y="10" type="curve" smooth="yes"/>
+      <point x="231" y="10"/>
+      <point x="201" y="34"/>
+      <point x="200" y="64" type="curve"/>
+      <point x="197" y="64" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="536" type="line"/>
+      <point x="201" y="566"/>
+      <point x="231" y="590"/>
+      <point x="268" y="590" type="curve" smooth="yes"/>
+      <point x="268" y="590"/>
+      <point x="281" y="590"/>
+      <point x="281" y="590" type="curve"/>
+      <point x="282" y="600" type="line"/>
+      <point x="197" y="600" type="line"/>
+      <point x="197" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="600" type="line"/>
+      <point x="55" y="600" type="line"/>
+      <point x="55" y="590" type="line"/>
+      <point x="55" y="590"/>
+      <point x="68" y="590"/>
+      <point x="69" y="590" type="curve" smooth="yes"/>
+      <point x="106" y="590"/>
+      <point x="136" y="566"/>
+      <point x="137" y="536" type="curve"/>
+      <point x="140" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.619</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

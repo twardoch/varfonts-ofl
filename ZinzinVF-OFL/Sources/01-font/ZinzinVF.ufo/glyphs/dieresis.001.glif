@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.001" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="225" y="739" type="curve" smooth="yes"/>
+      <point x="225" y="761"/>
+      <point x="208" y="778"/>
+      <point x="186" y="778" type="curve" smooth="yes"/>
+      <point x="165" y="778"/>
+      <point x="147" y="761"/>
+      <point x="147" y="739" type="curve" smooth="yes"/>
+      <point x="147" y="718"/>
+      <point x="165" y="700"/>
+      <point x="186" y="700" type="curve" smooth="yes"/>
+      <point x="208" y="700"/>
+      <point x="225" y="718"/>
+    </contour>
+    <contour>
+      <point x="414" y="739" type="curve" smooth="yes"/>
+      <point x="414" y="761"/>
+      <point x="396" y="778"/>
+      <point x="375" y="778" type="curve" smooth="yes"/>
+      <point x="353" y="778"/>
+      <point x="336" y="761"/>
+      <point x="336" y="739" type="curve" smooth="yes"/>
+      <point x="336" y="718"/>
+      <point x="353" y="700"/>
+      <point x="375" y="700" type="curve" smooth="yes"/>
+      <point x="396" y="700"/>
+      <point x="414" y="718"/>
+    </contour>
+    <contour>
+      <point x="281" y="700" type="move" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.704</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

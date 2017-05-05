@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="828"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="414" y="714" type="curve" smooth="yes"/>
+      <point x="202" y="714"/>
+      <point x="60" y="568"/>
+      <point x="60" y="350" type="curve" smooth="yes"/>
+      <point x="60" y="132"/>
+      <point x="202" y="-14"/>
+      <point x="414" y="-14" type="curve" smooth="yes"/>
+      <point x="627" y="-14"/>
+      <point x="769" y="132"/>
+      <point x="769" y="350" type="curve" smooth="yes"/>
+      <point x="769" y="568"/>
+      <point x="627" y="714"/>
+    </contour>
+    <contour>
+      <point x="414" y="16" type="curve" smooth="yes"/>
+      <point x="245" y="16"/>
+      <point x="132" y="150"/>
+      <point x="132" y="350" type="curve" smooth="yes"/>
+      <point x="132" y="550"/>
+      <point x="245" y="684"/>
+      <point x="414" y="684" type="curve" smooth="yes"/>
+      <point x="584" y="684"/>
+      <point x="697" y="550"/>
+      <point x="697" y="350" type="curve" smooth="yes"/>
+      <point x="697" y="150"/>
+      <point x="584" y="16"/>
+    </contour>
+    <contour>
+      <point x="98" y="-1" type="line"/>
+      <point x="123" y="-23" type="line"/>
+      <point x="725" y="700" type="line"/>
+      <point x="699" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.619</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

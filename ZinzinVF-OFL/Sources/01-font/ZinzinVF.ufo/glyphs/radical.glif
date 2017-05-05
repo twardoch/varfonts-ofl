@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="594"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="25" y="400" type="line"/>
+      <point x="107" y="412" type="line"/>
+      <point x="267" y="-147" type="line"/>
+      <point x="574" y="841" type="line"/>
+      <point x="544" y="843" type="line"/>
+      <point x="282" y="9" type="line"/>
+      <point x="159" y="450" type="line"/>
+      <point x="20" y="430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.619</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

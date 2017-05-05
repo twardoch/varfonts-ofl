@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.9">
+  <GlyphOrder src="ZinzinVF.GlyphOrder.ttx"/>
+  <head src="ZinzinVF._h_e_a_d.ttx"/>
+  <hhea src="ZinzinVF._h_h_e_a.ttx"/>
+  <maxp src="ZinzinVF._m_a_x_p.ttx"/>
+  <OS_2 src="ZinzinVF.O_S_2f_2.ttx"/>
+  <hmtx src="ZinzinVF._h_m_t_x.ttx"/>
+  <LTSH src="ZinzinVF.L_T_S_H_.ttx"/>
+  <hdmx src="ZinzinVF._h_d_m_x.ttx"/>
+  <cmap src="ZinzinVF._c_m_a_p.ttx"/>
+  <fpgm src="ZinzinVF._f_p_g_m.ttx"/>
+  <prep src="ZinzinVF._p_r_e_p.ttx"/>
+  <cvt src="ZinzinVF._c_v_t.ttx"/>
+  <loca src="ZinzinVF._l_o_c_a.ttx"/>
+  <glyf src="ZinzinVF._g_l_y_f.ttx"/>
+  <name src="ZinzinVF._n_a_m_e.ttx"/>
+  <post src="ZinzinVF._p_o_s_t.ttx"/>
+  <GPOS src="ZinzinVF.G_P_O_S_.ttx"/>
+  <GSUB src="ZinzinVF.G_S_U_B_.ttx"/>
+  <fvar src="ZinzinVF._f_v_a_r.ttx"/>
+  <gvar src="ZinzinVF._g_v_a_r.ttx"/>
+</ttFont>

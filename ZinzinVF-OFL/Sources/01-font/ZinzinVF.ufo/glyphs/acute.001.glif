@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.001" format="1">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="208" y="746" type="line"/>
+      <point x="261" y="772"/>
+      <point x="315" y="800"/>
+      <point x="369" y="831" type="curve"/>
+      <point x="358" y="851"/>
+      <point x="343" y="868"/>
+      <point x="328" y="884" type="curve"/>
+      <point x="285" y="843"/>
+      <point x="243" y="799"/>
+      <point x="201" y="753" type="curve"/>
+    </contour>
+    <contour>
+      <point x="208" y="746" type="move" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.704</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
