@@ -45,4 +45,5 @@ Copyright © 2017 by [Adam Twardoch](https://github.com/twardoch/) and the origi
 * https://github.com/TypeNetwork/fb-Amstelvar
 * https://github.com/jonpinhorn/atithi
 * https://github.com/Omnibus-Type/Asap
-* 
+* https://github.com/Monotype/Monotype_prototype_variable_fonts/
+* https://github.com/googlei18n/noto-fonts-alpha/tree/master/from-pipeline/unhinted/variable-ttf
