@@ -18,6 +18,8 @@ The variation aspect is supported in Mac OS X, iOS, most recent versions of Free
 
 * [http://www.axis-praxis.org]() (browser-based tool requiring WebKit Nightly and macOS Sierra, by [@lorp](https://github.com/lorp/)
 * [https://github.com/googlei18n/fontview]() (simple desktop GUI tool by [@brawer](https://github.com/brawer/))
+* [Adobe Illustrator CC](https://helpx.adobe.com/illustrator/using/whats-new.html#Variablefonts)
+* [Adobe Photoshop CC](https://helpx.adobe.com/photoshop/how-to/make-font-variation-photoshop.html)
 
 ### Building
 
